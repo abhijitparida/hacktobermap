@@ -100,5 +100,11 @@ var hacktobermap = [
     location: "Chicago, IL",
     latitude: 41.878113,
     longitude: -87.629799 
+  },  
+  {
+    name: "MNTM",
+    location: "Ward Hunt Island",
+    latitude: 83.113003,
+    longitude: -73.983383 
   },
 ];
