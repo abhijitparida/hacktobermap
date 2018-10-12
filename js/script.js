@@ -26,6 +26,5 @@ for (var i = 0; i < hacktobermap.length; i++) {
   var longitude = hacktobermap[i].longitude;
   L.marker([latitude, longitude])
     .addTo(map)
-    .bindPopup('<b>' + name + '</b><br>' + locality)
-    .openPopup();
+    .bindTooltip('<b>' + name + '</b><br>' + locality, {permanent: true, direction: 'right'});
 }
