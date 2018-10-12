@@ -71,4 +71,10 @@ var hacktobermap = [
     latitude: -23.55,
     longitude: -46.63
   }
+    {
+    name: "Josh Pasholk",
+    location: "Ashland, OR",
+    latitude: 42.190418,
+    longitude: -122.703270 
+  },
 ];
