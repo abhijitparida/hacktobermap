@@ -46,5 +46,11 @@ var hacktobermap = [
     location: "Indonesia",
     latitude: -7.152675,
     longitude: 106.861551
-  }
+  },
+  {
+    name: "João Daniel",
+    location: "São Paulo",
+    latitude: -23.58,
+    longitude: -46.71
+  },
 ];
