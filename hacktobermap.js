@@ -34,5 +34,11 @@ var hacktobermap = [
     location: "Phoenix",
     latitude: 33.4484,
     longitude: 112.0740
+  },
+  {
+    name: "Steven",
+    location: "Indonesia",
+    latitude: -7.152675,
+    longitude: 106.861551
   }
 ];
