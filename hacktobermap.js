@@ -9,7 +9,7 @@ var hacktobermap = [
     name: "Andrew Boerema",
     location: "Minneapolis",
     latitude: 44.978132,
-    longitude: -93.272880
+    longitude: -93.27288
   },
   {
     name: "Matt Fay",
@@ -39,7 +39,7 @@ var hacktobermap = [
     name: "Sawyer Burnett",
     location: "Phoenix",
     latitude: 33.4484,
-    longitude: -112.0740
+    longitude: -112.074
   },
   {
     name: "Steven",
@@ -53,4 +53,10 @@ var hacktobermap = [
     latitude: -23.58,
     longitude: -46.71
   },
+  {
+    name: "Ricardo",
+    location: "São Paulo",
+    latitude: -23.56,
+    longitude: -46.64
+  }
 ];
