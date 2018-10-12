@@ -28,5 +28,11 @@ var hacktobermap = [
     location: "São Paulo",
     latitude: -23.5,
     longitude: -46.63
+  },
+  {
+    name: "Sawyer Burnett",
+    location: "Phoenix",
+    latitude: 33.4484,
+    longitude: 112.0740
   }
 ];
