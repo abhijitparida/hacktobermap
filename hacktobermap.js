@@ -18,6 +18,12 @@ var hacktobermap = [
     longitude: -75.66239
   },
   {
+    name: "Wander Douglas Andrade de Souza",
+    location:"São Paulo",
+    latitude:-23.607530,
+    longitude: -46.752960
+  },
+  {
     name: "Jack Thibaut",
     location: "Barcelona",
     latitude: 41.385063,
