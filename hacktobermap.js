@@ -9,13 +9,19 @@ var hacktobermap = [
     name: "Andrew Boerema",
     location: "Minneapolis",
     latitude: 44.978132,
-    longitude: -93.272880
+    longitude: -93.27288
   },
   {
     name: "Matt Fay",
     location: "Pennsylvania, USA",
     latitude: 41.40912,
     longitude: -75.66239
+  },
+  {
+    name: "Wander Douglas Andrade de Souza",
+    location:"São Paulo",
+    latitude:-23.607530,
+    longitude: -46.752960
   },
   {
     name: "Jack Thibaut",
@@ -39,7 +45,7 @@ var hacktobermap = [
     name: "Sawyer Burnett",
     location: "Phoenix",
     latitude: 33.4484,
-    longitude: -112.0740
+    longitude: -112.074
   },
   {
     name: "Steven",
@@ -54,9 +60,15 @@ var hacktobermap = [
     longitude: -46.71
   },
   {
+    name: "Ricardo",
+    location: "São Paulo",
+    latitude: -23.56,
+    longitude: -46.64
+  },
+  {
     name: "Ygor",
     location: "São Paulo",
     latitude: -23.55,
     longitude: -46.63
-  },
+  }
 ];
