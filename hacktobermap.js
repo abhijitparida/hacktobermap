@@ -77,4 +77,16 @@ var hacktobermap = [
     latitude: -23.63,
     longitude: -46.64
   },
+  {
+    name: "Max",
+    location: "Washington, DC",
+    latitude: 38.98,
+    longitude: -77.09
+  },
+  {
+    name: "Josh Pasholk",
+    location: "Ashland, OR",
+    latitude: 42.190418,
+    longitude: -122.703270 
+  },
 ];
