@@ -70,5 +70,11 @@ var hacktobermap = [
     location: "São Paulo",
     latitude: -23.55,
     longitude: -46.63
+  },
+  {
+    name: "Max",
+    location: "Washington, DC",
+    latitude: 38.98,
+    longitude: -77.09
   }
 ];
