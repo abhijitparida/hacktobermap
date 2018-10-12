@@ -30,6 +30,12 @@ var hacktobermap = [
     longitude: 2.173404
   },
   {
+    name: "orangehat",
+    location: "Fuquay-Varina, NC",
+    latitude: 35.583710,
+    longitude: -78.800850 
+  },
+  {
     name: "Stanislav Lem",
     location: "Moscow",
     latitude: 55.755825,
