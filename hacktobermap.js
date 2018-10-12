@@ -101,4 +101,10 @@ var hacktobermap = [
     latitude: 41.878113,
     longitude: -87.629799 
   },
+  {
+    name: "Wolfgang",
+    location: "Austria, Bgld",
+    latitude: 47.94901,
+    longitude: 16.8417 
+  }, 
 ];
