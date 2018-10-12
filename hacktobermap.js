@@ -53,4 +53,10 @@ var hacktobermap = [
     latitude: -23.58,
     longitude: -46.71
   },
+  {
+    name: "Ygor",
+    location: "São Paulo",
+    latitude: -23.55,
+    longitude: -46.63
+  },
 ];
