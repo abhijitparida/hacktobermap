@@ -19,7 +19,7 @@ Edit `hacktobermap.js` and add your name, location, latitude and longitude to th
 { name: "Your name", location: "Your location", latitude: 12.34, longitude: 56.78 },
 ```
 
-You can get the coordinates of your location from (https://latlong.net). Your location can be your city, your state or even your country - it's entirely up to you and how much you want to disclose on the Internet.
+You can get the coordinates of your location from [https://latlong.net](https://latlong.net). Your location can be your city, your state or even your country - it's entirely up to you and how much you want to disclose on the Internet.
 
 ***Warning:** Don't put your exact coordinates for your own safety!*
 
