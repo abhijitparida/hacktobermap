@@ -72,12 +72,18 @@ var hacktobermap = [
     longitude: -46.63
   },
   {
+    name: "Victor Hugo",
+    location: "São Paulo",
+    latitude: -23.63,
+    longitude: -46.64
+  },
+  {
     name: "Max",
     location: "Washington, DC",
     latitude: 38.98,
     longitude: -77.09
-  }
-    {
+  },
+  {
     name: "Josh Pasholk",
     location: "Ashland, OR",
     latitude: 42.190418,
