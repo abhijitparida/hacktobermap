@@ -70,5 +70,11 @@ var hacktobermap = [
     location: "São Paulo",
     latitude: -23.55,
     longitude: -46.63
-  }
+  },
+  {
+    name: "Victor Hugo",
+    location: "São Paulo",
+    latitude: -23.63,
+    longitude: -46.64
+  },
 ];
