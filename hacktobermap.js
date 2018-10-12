@@ -95,4 +95,10 @@ var hacktobermap = [
     latitude: 42.190418,
     longitude: -122.703270 
   },
+  {
+    name: "Alyssa",
+    location: "Chicago, IL",
+    latitude: 41.878113,
+    longitude: -87.629799 
+  },
 ];
