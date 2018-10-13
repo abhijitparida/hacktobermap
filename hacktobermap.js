@@ -119,16 +119,16 @@ var hacktobermap = [
     latitude: 45.504360,
     longitude: -122.816030
   },
-    {
+  {
     name: "Mark",
     location: "Beer Sheva, Israel",
     latitude: 31.243870,
     longitude: 34.793990
-  }
+  },
   {
-  name: "Aksungurlu",
-  location: "Bursa, Turkey",
-  latitude: 40.197308,
-  longitude: 29.062386
-  }
+    name: "Aksungurlu",
+    location: "Bursa, Turkey",
+    latitude: 40.197308,
+    longitude: 29.062386
+  },
 ];
