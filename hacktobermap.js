@@ -119,4 +119,10 @@ var hacktobermap = [
     latitude: 45.504360,
     longitude: -122.816030
   },
+    {
+    name: "Mark",
+    location: "Beer Sheva, Israel",
+    latitude: 31.243870,
+    longitude: 34.793990
+  }
 ];
