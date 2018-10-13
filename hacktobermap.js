@@ -39,7 +39,7 @@ var hacktobermap = [
     name: "orangehat",
     location: "Fuquay-Varina, NC",
     latitude: 35.583710,
-    longitude: -78.800850 
+    longitude: -78.800850
   },
   {
     name: "Stanislav Lem",
@@ -99,19 +99,19 @@ var hacktobermap = [
     name: "Josh Pasholk",
     location: "Ashland, OR",
     latitude: 42.190418,
-    longitude: -122.703270 
+    longitude: -122.703270
   },
   {
     name: "Alyssa",
     location: "Chicago, IL",
     latitude: 41.878113,
-    longitude: -87.629799 
+    longitude: -87.629799
   },
   {
     name: "Wolfgang",
     location: "Austria, Bgld",
     latitude: 47.94901,
-    longitude: 16.8417 
+    longitude: 16.8417
   },
   {
     name: "Kate",
@@ -124,5 +124,11 @@ var hacktobermap = [
     location: "Beer Sheva, Israel",
     latitude: 31.243870,
     longitude: 34.793990
+  }
+  {
+  name: "Aksungurlu",
+  location: "Bursa, Turkey",
+  latitude: 40.197308,
+  longitude: 29.062386
   }
 ];
