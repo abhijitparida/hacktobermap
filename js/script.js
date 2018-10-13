@@ -41,7 +41,7 @@ var markers = L.markerClusterGroup({
 });
 
 // Get user data from hacktobermap.js and render markers
-for (var i = 0; i < hacktobermap.length; i++) {
+for (var i = hacktobermap.length - 1; i >= 0; i--) {
   var name = hacktobermap[i].name;
   var locality = hacktobermap[i].location;
   var latitude = hacktobermap[i].latitude;
