@@ -1,9 +1,9 @@
 HacktoberMap
 ============
 
-Happy Hacktoberfest! :fire: HacktoberMap is a map of Hacktoberfest 2018 participants. View map: [HacktoberMap](https://abhijitparida.github.io/hacktobermap/)
+Happy Hacktoberfest! :fire: HacktoberMap is a map of Hacktoberfest 2018 participants.
 
-![The HacktoberMap](hacktobermap.jpg)
+Link to map: [https://abhijitparida.github.io/hacktobermap/](https://abhijitparida.github.io/hacktobermap/)
 
 ## Contributing
 
