@@ -132,6 +132,12 @@ var hacktobermap = [
     longitude: 29.062386
   },
   {
+    name: "John",
+    location: "Joliet, Illinois",
+    latitude: 41.524960,
+    longitude: -88.082977
+  },
+  {
     name: "Igor Costa",
     location: "Rio de Janeiro, Brasil",
     latitude: -22.875610,
