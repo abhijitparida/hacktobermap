@@ -21,6 +21,7 @@ if (navigator.geolocation) {
 // Configure clustering and spidering options
 var markers = L.markerClusterGroup({
   showCoverageOnHover: false,
+  zoomToBoundsOnClick: false,
   spiderLegPolylineOptions: {
     opacity: 0.7
   },
@@ -51,7 +52,6 @@ for (var i = hacktobermap.length - 1; i >= 0; i--) {
 }
 map.addLayer(markers);
 markers.on('clusterclick', function (cluster) {
-  cluster.layer.zoomToBounds();
   cluster.layer.spiderfy();
 });
 markers.on('clustermouseover', function (cluster) {
