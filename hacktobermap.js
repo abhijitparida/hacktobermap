@@ -112,5 +112,11 @@ var hacktobermap = [
     location: "Austria, Bgld",
     latitude: 47.94901,
     longitude: 16.8417 
-  }, 
+  },
+  {
+    name: "Kate",
+    location: "Portland, OR",
+    latitude: 45.504360,
+    longitude: -122.816030
+  },
 ];
