@@ -143,4 +143,10 @@ var hacktobermap = [
     latitude: -22.875610,
     longitude: -43.314260
   },
+  {
+    name: "OhSnapdragon",
+    location: "Raleigh, NC",
+    latitude: 35.78,
+    longitude: -78.64
+  },
 ];
