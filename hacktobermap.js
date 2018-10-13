@@ -131,4 +131,10 @@ var hacktobermap = [
     latitude: 40.197308,
     longitude: 29.062386
   },
+  {
+    name: "Igor Costa",
+    location: "Rio de Janeiro, Brasil",
+    latitude: -22.875610,
+    longitude: -43.314260
+  },
 ];
