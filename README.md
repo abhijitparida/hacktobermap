@@ -3,6 +3,8 @@ HacktoberMap
 
 Happy Hacktoberfest! :fire: HacktoberMap is a map of Hacktoberfest 2018 participants.
 
+![The HacktoberMap](hacktobermap.jpg)
+
 ## Contributing
 
 If this is your first pull request, please read this article: [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
