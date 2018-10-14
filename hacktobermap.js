@@ -167,4 +167,10 @@ var hacktobermap = [
     latitude: 29.969513,
     longitude: 76.878281
   },
+  {
+    name: "Jagjeet Khalsa",
+    location: "Vacaville, CA",
+    latitude: 38.356579,
+    longitude: -121.987747
+  },
 ];
