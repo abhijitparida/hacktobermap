@@ -168,6 +168,12 @@ var hacktobermap = [
     longitude: 76.878281
   },
   {
+    name: "Dragomegak",
+    location: "Toronto, Canada",
+    latitude: 43.653225,
+    longitude: -79.383186
+  },
+  {
     name: "Prakhar",
     location: "Noida, India",
     latitude: 28.535517,
