@@ -240,6 +240,12 @@ var hacktobermap = [
     longitude: 5.074208
   },
   {
+    name: "Bob",
+    location: "Utrecht, The Netherlands",
+    latitude: 52.091259,
+    longitude: 5.122750
+  },
+  {
     name: "Alexander",
     location: "Landshut",
     latitude: 48.544193,
