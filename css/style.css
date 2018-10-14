@@ -6,6 +6,48 @@ body {
   padding: 0;
 }
 
+.info {
+  position: fixed;
+  left: 55px;
+  top: 10px;
+  padding: 5px;
+  height: 55px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 480px) {
+  .info {
+    width: calc(100% - 30px);
+    top: auto;
+    bottom: 25px;
+    left: 10px;
+    text-align: center;
+  }
+}
+
+.info h1 {
+  font-family: sans-serif;
+  font-size: large;
+  margin: 0;
+  padding: 5px 5px 0 5px;
+}
+
+.info h3 {
+  font-family: sans-serif;
+  font-size: small;
+  font-weight: 400;
+  margin: 0;
+  padding: 5px;
+}
+
+.info a {
+  color: inherit;
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.4);
+  text-decoration: none;
+}
+
 #map {
   position: fixed;
   height: 100vh;
@@ -21,4 +63,8 @@ body {
   background-color: white;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.5);
   width: 80px;
+}
+
+.leaflet-bottom.leaflet-right {
+  position: fixed;
 }
