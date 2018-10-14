@@ -154,5 +154,11 @@ var hacktobermap = [
     location: "Medellín, Colombia",
     latitude: 6.271717,
     longitude: -75.568453
+  },
+  {
+    name: "jaerdon",
+    location: "California, United States",
+    latitude: 36.78,
+    longitude: -119.42
   }
 ];
