@@ -173,4 +173,10 @@ var hacktobermap = [
     latitude: 38.356579,
     longitude: -121.987747
   },
+  {
+    name: "kong",
+    location: "Bangkok, Thailand",
+    latitude: 13.756331,
+    longitude: 100.501762
+  },
 ];
