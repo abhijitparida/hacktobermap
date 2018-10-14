@@ -213,13 +213,13 @@ var hacktobermap = [
     name: "Dave",
     location: "Newcastle",
     latitude: 54.974304,
-    longitude: -1.614240 
+    longitude: -1.614240
   },
   {
     name: "Lachlan Young",
     location: "Brisbane",
     latitude: -27.469770,
-    longitude: 153.025131 
+    longitude: 153.025131
   },
   {
     name: "kong",
@@ -256,6 +256,12 @@ var hacktobermap = [
     location: "Chandigarh",
     latitude: 30.7334,
     longitude: 76.7791
+  },
+  {
+    name: "Joao Resendes",
+    location: "Lisbon, Portugal",
+    latitude: 38.722252,
+    longitude: -9.139337
   },
   {
     name: "Elijah Smith",
