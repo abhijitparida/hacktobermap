@@ -173,4 +173,11 @@ var hacktobermap = [
     latitude: 38.356579,
     longitude: -121.987747
   },
+  {
+    name: "Alexander",
+    location: "Landshut",
+    latitude: 48.544193,
+    longitude: 12.146853
+  },
+
 ];
