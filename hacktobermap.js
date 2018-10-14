@@ -168,6 +168,12 @@ var hacktobermap = [
     longitude: 76.878281
   },
   {
+    name: "Kristian",
+    location: "Leeds",
+    latitude: 53.800755,
+    longitude: -1.549077
+  },
+  {
     name: "Jagjeet Khalsa",
     location: "Vacaville, CA",
     latitude: 38.356579,
