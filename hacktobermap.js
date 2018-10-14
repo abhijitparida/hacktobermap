@@ -167,4 +167,10 @@ var hacktobermap = [
     latitude: 29.969513,
     longitude: 76.878281
   },
+  {
+    name: "Prakhar",
+    location: "Noida, India",
+    latitude: 28.535517,
+    longitude: 77.391029
+  },
 ];
