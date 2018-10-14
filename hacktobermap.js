@@ -163,8 +163,8 @@ var hacktobermap = [
   },
   {
     name: "Vishal",
-    loation: "Kurukshetra, India",
+    location: "Kurukshetra, India",
     latitude: 29.969513,
     longitude: 76.878281
-  }
+  },
 ];
