@@ -167,4 +167,10 @@ var hacktobermap = [
     latitude: 29.969513,
     longitude: 76.878281
   },
+  {
+    name: "Aditya",
+    location: "Vancouver, Canada",
+    latitude: 49.282730,
+    longitude: -123.120735
+  },
 ];
