@@ -286,5 +286,11 @@ var hacktobermap = [
     location: "Uyo, Nigeria",
     latitude: 5.028730,
     longitude: 7.927710
+  },
+  {
+    name: "Ana Silva",
+    location: "Belo Horizonte, Brazil",
+    latitude: -19.880280,
+    longitude: -44.005730
   }
 ];
