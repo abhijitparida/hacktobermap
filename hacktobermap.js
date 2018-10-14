@@ -192,6 +192,12 @@ var hacktobermap = [
     longitude: -121.987747
   },
   {
+    name: "Dave",
+    location: "Newcastle",
+    latitude: 54.974304,
+    longitude: -1.614240 
+  },
+  {
     name: "Lachlan Young",
     location: "Brisbane",
     latitude: -27.469770,
