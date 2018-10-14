@@ -274,5 +274,11 @@ var hacktobermap = [
     location: "Mumbai, India",
     latitude: 19.112042,
     longitude: 72.9080013
+  },
+  {
+    name: "Imoigele",
+    location: "Uyo, Nigeria",
+    latitude: 5.028730,
+    longitude: 7.927710
   }
 ];
