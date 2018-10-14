@@ -149,4 +149,10 @@ var hacktobermap = [
     latitude: 35.78,
     longitude: -78.64
   },
+  {
+    name: "Juanferr",
+    location: "Medellín, Colombia",
+    latitude: 6.271717,
+    longitude: -75.568453
+  }
 ];
