@@ -173,10 +173,16 @@ var hacktobermap = [
     latitude: 38.356579,
     longitude: -121.987747
   },
-   {
+  {
+    name: "Alexander",
+    location: "Landshut",
+    latitude: 48.544193,
+    longitude: 12.146853
+  },
+  {
     name: "Ayaan Faiz",
     location: "Hyderabad, India",
     latitude: 17.4474,
     longitude: 78.3762 
-  }
+  },
 ];
