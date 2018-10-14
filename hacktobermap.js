@@ -167,4 +167,10 @@ var hacktobermap = [
     latitude: 29.969513,
     longitude: 76.878281
   },
+  {
+    name: "Riddhi",
+    location: "Pune, India",
+    latitude: 18.520430,
+    longitude: 73.856743
+  }
 ];
