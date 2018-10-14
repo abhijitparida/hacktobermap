@@ -173,4 +173,10 @@ var hacktobermap = [
     latitude: 38.356579,
     longitude: -121.987747
   },
+  {
+    name: "Dave",
+    location: "Newcastle",
+    latitude: 54.974304,
+    longitude: -1.614240 
+  },
 ];
