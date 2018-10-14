@@ -186,6 +186,12 @@ var hacktobermap = [
     longitude: -121.987747
   },
   {
+    name: "kong",
+    location: "Bangkok, Thailand",
+    latitude: 13.756331,
+    longitude: 100.501762
+  },
+  {
     name: "BayMinimum",
     location: "Seoul, South Korea",
     latitude: 37.5665,
