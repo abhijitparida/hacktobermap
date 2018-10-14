@@ -286,5 +286,11 @@ var hacktobermap = [
     location: "Uyo, Nigeria",
     latitude: 5.028730,
     longitude: 7.927710
+  },
+  {
+    name: "Ciprianna",
+    location: "Nebraska, United States",
+    latitude: 40.00,
+    longitude: -98.00
   }
 ];
