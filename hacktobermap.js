@@ -173,4 +173,52 @@ var hacktobermap = [
     latitude: 28.535517,
     longitude: 77.391029
   },
+  {
+    name: "Riddhi",
+    location: "Pune, India",
+    latitude: 18.520430,
+    longitude: 73.856743
+  },
+  {
+    name: "Aditya",
+    location: "Vancouver, Canada",
+    latitude: 49.282730,
+    longitude: -123.120735
+  },
+  {
+    name: "Jagjeet Khalsa",
+    location: "Vacaville, CA",
+    latitude: 38.356579,
+    longitude: -121.987747
+  },
+  {
+    name: "kong",
+    location: "Bangkok, Thailand",
+    latitude: 13.756331,
+    longitude: 100.501762
+  },
+  {
+    name: "BayMinimum",
+    location: "Seoul, South Korea",
+    latitude: 37.5665,
+    longitude: 126.9780
+  },
+  {
+    name: "Marco",
+    location: "Maarssen, the Netherlands",
+    latitude: 52.133404,
+    longitude: 5.074208
+  },
+  {
+    name: "Alexander",
+    location: "Landshut",
+    latitude: 48.544193,
+    longitude: 12.146853
+  },
+  {
+    name: "Ayaan Faiz",
+    location: "Hyderabad, India",
+    latitude: 17.4474,
+    longitude: 78.3762
+  },
 ];
