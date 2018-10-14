@@ -174,6 +174,11 @@ var hacktobermap = [
     longitude: -121.987747
   },
   {
+    name: "BayMinimum",
+    location: "Seoul, South Korea",
+    latitude: 37.5665,
+    longitude: 126.9780
+  },
     name: "Marco",
     location: "Maarssen, the Netherlands",
     latitude: 52.133404,
