@@ -268,5 +268,11 @@ var hacktobermap = [
     location: "West Lafayette, Indiana",
     latitude: 40.454769,
     longitude: -86.915703
+  },
+  {
+    name: "Gyrotron",
+    location: "Mumbai, India",
+    latitude: 19.112042,
+    longitude: 72.9080013
   }
 ];
