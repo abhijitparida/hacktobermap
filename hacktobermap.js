@@ -167,4 +167,10 @@ var hacktobermap = [
     latitude: 29.969513,
     longitude: 76.878281
   },
+   {
+    name: "Dragomegak",
+    location: "Toronto, Canada",
+    latitude: 43.653225,
+    longitude: -79.383186
+  },
 ];
