@@ -173,4 +173,10 @@ var hacktobermap = [
     latitude: 38.356579,
     longitude: -121.987747
   },
+  {
+    name: "Lachlan Young",
+    location: "Brisbane",
+    latitude: -27.469770,
+    longitude: 153.025131 
+  },
 ];
