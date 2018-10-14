@@ -160,5 +160,11 @@ var hacktobermap = [
     location: "California, United States",
     latitude: 36.78,
     longitude: -119.42
+  },
+  {
+    name: "Vishal",
+    loation: "Kurukshetra, India",
+    latitude: 29.969513,
+    longitude: 76.878281
   }
 ];
