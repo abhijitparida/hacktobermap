@@ -173,4 +173,10 @@ var hacktobermap = [
     latitude: 38.356579,
     longitude: -121.987747
   },
+   {
+    name: "Girish",
+    location: "Hosur, India",
+    latitude: 12.740913,
+    longitude: 77.825294
+  },
 ];
