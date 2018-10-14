@@ -251,4 +251,10 @@ var hacktobermap = [
     latitude: 17.4474,
     longitude: 78.3762
   },
+  {
+    name: "Rhythm Gilhotra",
+    location: "Chandigarh",
+    latitude: 30.7334,
+    longitude: 76.7791
+  },
 ];
