@@ -257,4 +257,10 @@ var hacktobermap = [
     latitude: 30.7334,
     longitude: 76.7791
   },
+  {
+    name: "Elijah Smith",
+    location: "West Lafayette, Indiana",
+    latitude: 40.454769,
+    longitude: -86.915703
+  }
 ];
