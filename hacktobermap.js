@@ -364,5 +364,11 @@ var hacktobermap = [
     location: "Finland",
     latitude: 60.169857,
     longitude: 24.938379
+  },
+  {
+    name: "David P.",
+    location: "Canada",
+    latitude: 51.3961953,
+    longitude: -116.2294044
   }
 ];
