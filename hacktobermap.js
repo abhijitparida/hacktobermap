@@ -341,6 +341,12 @@ var hacktobermap = [
     latitude: -27.0985,
     longitude: -48.9178
   },
+  {
+    name: "Kunal Wadhwa",
+    location: "Delhi",
+    latitude: 30.7334,
+    longitude: 76.7791
+  },
   { 
     name: "Fredrika",
     location: "Sweden",
