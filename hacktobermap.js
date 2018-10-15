@@ -316,7 +316,7 @@ var hacktobermap = [
     location: "Minneapolis",
     latitude: 44.977489,
     longitude: -93.264374
-  }, 
+  },
   {
     name: "Shing",
     location: "New York, United States",
@@ -334,5 +334,11 @@ var hacktobermap = [
     location: "Delhi",
     latitude: 30.7334,
     longitude: 76.7791
+  },
+  {
+    name: "André Vargas",
+    location: "Brusque",
+    latitude: -27.0985,
+    longitude: -48.9178
   },
 ];
