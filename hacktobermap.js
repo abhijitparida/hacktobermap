@@ -317,4 +317,10 @@ var hacktobermap = [
     latitude: 40.678177,
     longitude: -73.944160
   },
+  {
+    name: "Rhythm Pangotra",
+    location: "Chandigarh",
+    latitude: 30.7334,
+    longitude: 76.7791
+  },
 ];
