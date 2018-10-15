@@ -306,6 +306,12 @@ var hacktobermap = [
     longitude: -98.00
   },
   {
+    name: "Shawn Seymour",
+    location: "Minneapolis",
+    latitude: 44.977489,
+    longitude: -93.264374
+  }, 
+  {
     name: "Shing",
     location: "New York, United States",
     latitude: 40.678177,
