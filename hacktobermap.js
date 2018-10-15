@@ -369,6 +369,6 @@ var hacktobermap = [
     name: "Angelo Barbano",
     location: "New York, USA",
     latitude: 40.7504,
-    longitude: -73.3181,
+    longitude: -73.3181
   }
 ];
