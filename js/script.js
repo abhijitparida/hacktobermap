@@ -1,10 +1,10 @@
 // Initialize map with lat: 20, lon: 0 and zoom level 3
-var map = L.map('map', {maxZoom: 5}).setView([20, 0], 3);
+var map = L.map('map').setView([20, 0], 3);
 
 // Draw tile layer (the map imagery) from Mapbox
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
   attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-  maxZoom: map.getMaxZoom(),
+  maxZoom: 10,
   id: 'mapbox.streets',
   accessToken: 'pk.eyJ1IjoiYWJoaWppdHBhcmlkYSIsImEiOiJjam41dXE4bTgybHY3M2twbHAxajUybDFwIn0.vNbWsHw21X9yDTZ3n8xy_g'
 }).addTo(map);
