@@ -329,4 +329,10 @@ var hacktobermap = [
     latitude: 30.7334,
     longitude: 76.7791
   },
+  {
+    name: "Ritik Gupta",
+    location: "Delhi",
+    latitude: 30.7334,
+    longitude: 76.7791
+  },
 ];
