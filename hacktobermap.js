@@ -341,4 +341,10 @@ var hacktobermap = [
     latitude: -27.0985,
     longitude: -48.9178
   },
+  { 
+    name: "Fredrika",
+    location: "Sweden",
+    latitude: 60.128162,
+    longitude: 18.643501
+  },
 ];
