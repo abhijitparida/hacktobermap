@@ -305,4 +305,10 @@ var hacktobermap = [
     latitude: 40.00,
     longitude: -98.00
   },
+  {
+    name: "Shawn Seymour",
+    location: "Minneapolis",
+    latitude: 44.977489,
+    longitude: -93.264374
+  } 
 ];
