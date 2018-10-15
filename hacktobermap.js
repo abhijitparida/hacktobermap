@@ -364,5 +364,11 @@ var hacktobermap = [
     location: "Finland",
     latitude: 60.169857,
     longitude: 24.938379
-  }
+  },
+  {
+    name: "Cortney Thomas",
+    location: "Michigan, USA",
+    latitude: 42.28,
+    longitude: -83.74
+  },
 ];
