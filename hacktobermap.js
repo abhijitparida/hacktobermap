@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Lucas Santos",
+    location: "São Paulo",
+    latitude:-23.607530,
+    longitude: -46.752960
+  },
+  {
     name: "Andrew Boerema",
     location: "Minneapolis",
     latitude: 44.978132,
@@ -33,7 +39,7 @@ var hacktobermap = [
     name: "orangehat",
     location: "Fuquay-Varina, NC",
     latitude: 35.583710,
-    longitude: -78.800850 
+    longitude: -78.800850
   },
   {
     name: "Stanislav Lem",
@@ -93,18 +99,210 @@ var hacktobermap = [
     name: "Josh Pasholk",
     location: "Ashland, OR",
     latitude: 42.190418,
-    longitude: -122.703270 
+    longitude: -122.703270
   },
   {
     name: "Alyssa",
     location: "Chicago, IL",
     latitude: 41.878113,
     longitude: -87.629799 
-  },  
+  },
   {
     name: "MNTM",
     location: "Ward Hunt Island",
     latitude: 83.113003,
-    longitude: -73.983383 
+    longitude: -73.983383
+  },
+  {
+    name: "Wolfgang",
+    location: "Austria, Bgld",
+    latitude: 47.94901,
+    longitude: 16.8417
+  },
+  {
+    name: "Kate",
+    location: "Portland, OR",
+    latitude: 45.504360,
+    longitude: -122.816030
+  },
+  {
+    name: "Mark",
+    location: "Beer Sheva, Israel",
+    latitude: 31.243870,
+    longitude: 34.793990
+  },
+  {
+    name: "Aksungurlu",
+    location: "Bursa, Turkey",
+    latitude: 40.197308,
+    longitude: 29.062386
+  },
+  {
+    name: "John",
+    location: "Joliet, Illinois",
+    latitude: 41.524960,
+    longitude: -88.082977
+  },
+  {
+    name: "Igor Costa",
+    location: "Rio de Janeiro, Brasil",
+    latitude: -22.875610,
+    longitude: -43.314260
+  },
+  {
+    name: "OhSnapdragon",
+    location: "Raleigh, NC",
+    latitude: 35.78,
+    longitude: -78.64
+  },
+  {
+    name: "Juanferr",
+    location: "Medellín, Colombia",
+    latitude: 6.271717,
+    longitude: -75.568453
+  },
+  {
+    name: "jaerdon",
+    location: "California, United States",
+    latitude: 36.78,
+    longitude: -119.42
+  },
+  {
+    name: "Vishal",
+    location: "Kurukshetra, India",
+    latitude: 29.969513,
+    longitude: 76.878281
+  },
+  {
+    name: "Kristian",
+    location: "Leeds",
+    latitude: 53.800755,
+    longitude: -1.549077
+  },
+  {
+    name: "Dragomegak",
+    location: "Toronto, Canada",
+    latitude: 43.653225,
+    longitude: -79.383186
+  },
+  {
+    name: "Prakhar",
+    location: "Noida, India",
+    latitude: 28.535517,
+    longitude: 77.391029
+  },
+  {
+    name: "Riddhi",
+    location: "Pune, India",
+    latitude: 18.520430,
+    longitude: 73.856743
+  },
+  {
+    name: "Aditya",
+    location: "Vancouver, Canada",
+    latitude: 49.282730,
+    longitude: -123.120735
+  },
+  {
+    name: "Jagjeet Khalsa",
+    location: "Vacaville, CA",
+    latitude: 38.356579,
+    longitude: -121.987747
+  },
+  {
+    name: "Girish",
+    location: "Hosur, India",
+    latitude: 12.740913,
+    longitude: 77.825294
+  },
+  {
+    name: "Dave",
+    location: "Newcastle",
+    latitude: 54.974304,
+    longitude: -1.614240
+  },
+  {
+    name: "Lachlan Young",
+    location: "Brisbane",
+    latitude: -27.469770,
+    longitude: 153.025131
+  },
+  {
+    name: "kong",
+    location: "Bangkok, Thailand",
+    latitude: 13.756331,
+    longitude: 100.501762
+  },
+  {
+    name: "BayMinimum",
+    location: "Seoul, South Korea",
+    latitude: 37.5665,
+    longitude: 126.9780
+  },
+  {
+    name: "Marco",
+    location: "Maarssen, the Netherlands",
+    latitude: 52.133404,
+    longitude: 5.074208
+  },
+  {
+    name: "Bob",
+    location: "Utrecht, The Netherlands",
+    latitude: 52.091259,
+    longitude: 5.122750
+  },
+  {
+    name: "Alexander",
+    location: "Landshut",
+    latitude: 48.544193,
+    longitude: 12.146853
+  },
+  {
+    name: "Ayaan Faiz",
+    location: "Hyderabad, India",
+    latitude: 17.4474,
+    longitude: 78.3762
+  },
+  {
+    name: "Rhythm Gilhotra",
+    location: "Chandigarh",
+    latitude: 30.7334,
+    longitude: 76.7791
+  },
+  {
+    name: "Joao Resendes",
+    location: "Lisbon, Portugal",
+    latitude: 38.722252,
+    longitude: -9.139337
+  },
+  {
+    name: "Elijah Smith",
+    location: "West Lafayette, Indiana",
+    latitude: 40.454769,
+    longitude: -86.915703
+  },
+  {
+    name: "Gyrotron",
+    location: "Mumbai, India",
+    latitude: 19.112042,
+    longitude: 72.9080013
+  },
+  {
+    name: "Imoigele",
+    location: "Uyo, Nigeria",
+    latitude: 5.028730,
+    longitude: 7.927710
+  },
+  {
+    name: "Ana Silva",
+    location: "Belo Horizonte, Brazil",
+    latitude: -19.880280,
+    longitude: -44.005730
+  },
+  {
+    name: "Ciprianna",
+    location: "Nebraska, United States",
+    latitude: 40.00,
+    longitude: -98.00
   },
 ];
