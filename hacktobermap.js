@@ -105,7 +105,7 @@ var hacktobermap = [
     name: "Alyssa",
     location: "Chicago, IL",
     latitude: 41.878113,
-    longitude: -87.629799 
+    longitude: -87.629799
   },
   {
     name: "MNTM",
@@ -310,5 +310,11 @@ var hacktobermap = [
     location: "Minneapolis",
     latitude: 44.977489,
     longitude: -93.264374
-  } 
+  }, 
+  {
+    name: "Shing",
+    location: "New York, United States",
+    latitude: 40.678177,
+    longitude: -73.944160
+  },
 ];
