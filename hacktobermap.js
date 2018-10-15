@@ -292,5 +292,11 @@ var hacktobermap = [
     location: "Belo Horizonte, Brazil",
     latitude: -19.880280,
     longitude: -44.005730
+  },
+  {
+    name: "Ciprianna",
+    location: "Nebraska, United States",
+    latitude: 40.00,
+    longitude: -98.00
   }
 ];
