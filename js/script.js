@@ -1,5 +1,5 @@
-// Initialize map with lat: 0, lon: 0 and zoom level 3
-var map = L.map('map', {maxZoom: 5}).setView([0, 0], 3);
+// Initialize map with lat: 20, lon: 0 and zoom level 3
+var map = L.map('map', {maxZoom: 5}).setView([20, 0], 3);
 
 // Draw tile layer (the map imagery) from Mapbox
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
