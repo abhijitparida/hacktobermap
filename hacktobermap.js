@@ -395,4 +395,10 @@ var hacktobermap = [
     latitude: 51.3961953,
     longitude: -116.2294044
   },
+  {
+    name: "Lu-Vuong Le",
+    location: "Melbourne",
+    latitude: -37.813629,
+    longitude: 144.963058
+  },
 ];
