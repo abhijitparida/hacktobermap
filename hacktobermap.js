@@ -370,5 +370,23 @@ var hacktobermap = [
     location: "New York, USA",
     latitude: 40.7504,
     longitude: -73.3181
-  }
+  },
+  {
+    name: "Cortney Thomas",
+    location: "Michigan, USA",
+    latitude: 42.28,
+    longitude: -83.74
+  },
+  {
+    name: "Dominik",
+    location: "Poland",
+    latitude: 51.110550,
+    longitude: 17.025560
+  },
+  {
+    name: "David P.",
+    location: "Canada",
+    latitude: 51.3961953,
+    longitude: -116.2294044
+  },
 ];
