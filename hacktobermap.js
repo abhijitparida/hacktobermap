@@ -366,6 +366,12 @@ var hacktobermap = [
     longitude: 24.938379
   },
   {
+    name: "Cortney Thomas",
+    location: "Michigan, USA",
+    latitude: 42.28,
+    longitude: -83.74
+  },
+  {
     name: "Dominik",
     location: "Poland",
     latitude: 51.110550,
