@@ -364,5 +364,11 @@ var hacktobermap = [
     location: "Finland",
     latitude: 60.169857,
     longitude: 24.938379
-  }
+  },
+  {
+    name: "Sareesh V",
+    location: "California, United States",
+    latitude: 36.778259,
+    longitude: -119.417931
+  },
 ];
