@@ -353,6 +353,12 @@ var hacktobermap = [
     latitude: 60.128162,
     longitude: 18.643501
   },
+  {
+    name: "EfraimR",
+    location: "Sweden",
+    latitude: 60.128163,
+    longitude: 18.643500
+  },
   { 
     name: "Nikola",
     location: "Serbia",
