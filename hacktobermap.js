@@ -424,5 +424,11 @@ var hacktobermap = [
     location: "South Africa",
     latitude: -25.784497,
     longitude: 28.358030
-  }
+  },
+ {
+    name: "Fabio Loreggian",
+    location: "South Africa",
+    latitude: -26.175132, 
+    longitude: 28.142332
+  },
 ];
