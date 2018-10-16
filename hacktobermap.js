@@ -401,4 +401,10 @@ var hacktobermap = [
     latitude: -37.813629,
     longitude: 144.963058
   },
+  {
+    name: "Carl-William Ersgård",
+    location: "Sweden",
+    latitude: 60.128162,
+    longitude: 18.643501
+  },
 ];
