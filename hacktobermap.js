@@ -413,4 +413,10 @@ var hacktobermap = [
     latitude: 60.128162,
     longitude: 18.643501
   },
+  {
+    name: "Brenton Watt",
+    location: "South Africa",
+    latitude: -25.784497,
+    longitude: 28.358030
+  }
 ];
