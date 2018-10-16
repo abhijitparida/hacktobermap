@@ -366,6 +366,12 @@ var hacktobermap = [
     longitude: 24.938379
   },
   {
+    name: "Sareesh V",
+    location: "California, United States",
+    latitude: 36.778259,
+    longitude: -119.417931
+  },
+  {
     name: "Angelo Barbano",
     location: "New York, USA",
     latitude: 40.7504,
