@@ -437,4 +437,10 @@ var hacktobermap = [
     latitude: -34.4854, 
     longitude: 150.866
   },
+  {
+    name: "Niral Pokal",
+    location: "United States",
+    latitude: 33.834490, 
+    longitude: -117.915640
+  },
 ];
