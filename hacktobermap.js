@@ -431,4 +431,10 @@ var hacktobermap = [
     latitude: -26.175132, 
     longitude: 28.142332
   },
+  {
+    name: "Daniel Bollom",
+    location: "Wollongong",
+    latitude: -34.4854, 
+    longitude: 150.866
+  },
 ];
