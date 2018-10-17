@@ -449,4 +449,10 @@ var hacktobermap = [
     latitude: -27.098579, 
     longitude: -48.917801
   },
+  {
+    name: "Harsh Mittal",
+    location: "Hyderabad",
+    latitude: 17.3850,
+    longitude: 78.4867
+  },
 ];
