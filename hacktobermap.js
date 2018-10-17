@@ -451,7 +451,7 @@ var hacktobermap = [
   },
   {
     name: "Nasser Boukehil",
-    location: "Khenchela, Algeria",
+    location: "Khenchela, Aures, Algeria",
     latitude: 35.430154,
     longitude: 7.145711
   }
