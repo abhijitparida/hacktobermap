@@ -442,5 +442,11 @@ var hacktobermap = [
     location: "United States",
     latitude: 33.834490, 
     longitude: -117.915640
+  },  
+  {
+    name: "Anologicon",
+    location: "Brusque, Brazil",
+    latitude: -27.098579, 
+    longitude: -48.917801
   },
 ];
