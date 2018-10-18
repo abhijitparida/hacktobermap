@@ -449,4 +449,10 @@ var hacktobermap = [
     latitude: -27.098579, 
     longitude: -48.917801
   },
+  {
+    name: "Zryss",
+    location: "Linz, Austria",
+    latitude: 48.306091, 
+    longitude: 14.286440
+  },
 ];
