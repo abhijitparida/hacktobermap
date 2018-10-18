@@ -450,12 +450,6 @@ var hacktobermap = [
     longitude: -48.917801
   },
   {
-    name: "Aletaschner",
-    location: "Brusque, SC - Brazil",
-    latitude:  -27.1134,
-    longitude: -48.9039
-  },
-  {
     name: "Nasser Boukehil",
     location: "Khenchela, Aures, Algeria",
     latitude: 35.430154,
@@ -479,4 +473,10 @@ var hacktobermap = [
     latitude: 10.00,
     longitude: 76.34 
   },
+  {
+    name: "Aletaschner",
+    location: "Brusque, SC - Brazil",
+    latitude:  -27.1134,
+    longitude: -48.9039
+  }
 ];
