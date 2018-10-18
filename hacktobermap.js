@@ -478,5 +478,11 @@ var hacktobermap = [
     location: "Brusque, SC - Brazil",
     latitude:  -27.1134,
     longitude: -48.9039
+  },
+  {
+    name: "Hazim",
+    location: "Kuala Lumpur, Malaysia",
+    latitude:  3.1343385,
+    longitude: 101.6841484
   }
 ];
