@@ -450,6 +450,12 @@ var hacktobermap = [
     longitude: -48.917801
   },
   {
+    name: "Nasser Boukehil",
+    location: "Khenchela, Aures, Algeria",
+    latitude: 35.430154,
+    longitude: 7.145711
+  },
+  {
     name: "Harsh Mittal",
     location: "Hyderabad",
     latitude: 17.3850,
