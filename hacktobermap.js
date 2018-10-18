@@ -473,4 +473,10 @@ var hacktobermap = [
     latitude: 10.00,
     longitude: 76.34 
   },
+  {
+    name: "Aletaschner",
+    location: "Brusque, SC - Brazil",
+    latitude:  -27.1134,
+    longitude: -48.9039
+  }
 ];
