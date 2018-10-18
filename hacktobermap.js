@@ -478,5 +478,11 @@ var hacktobermap = [
     location: "Brusque, SC - Brazil",
     latitude:  -27.1134,
     longitude: -48.9039
+  },
+  {
+    name: "Lukasz",
+    location: "Rzeszow",
+    latitude: 50.04132,
+    longitude: 21.99901
   }
 ];
