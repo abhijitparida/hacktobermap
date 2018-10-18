@@ -467,4 +467,10 @@ var hacktobermap = [
     latitude: 48.306091, 
     longitude: 14.286440
   },
+  {
+    name: "Muhammed Basil",
+    location: "Kochi",
+    latitude: 10.00,
+    longitude: 76.34 
+  },
 ];
