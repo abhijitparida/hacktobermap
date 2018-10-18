@@ -450,6 +450,12 @@ var hacktobermap = [
     longitude: -48.917801
   },
   {
+    name: "Harsh Mittal",
+    location: "Hyderabad",
+    latitude: 17.3850,
+    longitude: 78.4867
+  },
+  {
     name: "Zryss",
     location: "Linz, Austria",
     latitude: 48.306091, 
