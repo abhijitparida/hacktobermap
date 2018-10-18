@@ -30,6 +30,12 @@ var hacktobermap = [
     longitude: -93.27288
   },
   {
+    name: "Tyler Mendes de Brito",
+    location: "Brusque, SC. Brazil",
+    latitude: -27.096463,
+    longitude: -48.913632
+  },
+  {
     name: "Matt Fay",
     location: "Pennsylvania, USA",
     latitude: 41.40912,
