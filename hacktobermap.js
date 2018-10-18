@@ -484,5 +484,11 @@ var hacktobermap = [
     location: "Rzeszow",
     latitude: 50.04132,
     longitude: 21.99901
-  }
+  },
+  {
+    name: "Hazim",
+    location: "Kuala Lumpur, Malaysia",
+    latitude:  3.1343385,
+    longitude: 101.6841484
+  },
 ];
