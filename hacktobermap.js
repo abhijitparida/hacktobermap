@@ -525,7 +525,7 @@ var hacktobermap = [
     name: "Andrew",
     location: "Hong Kong",
     latitude: 22.300882,
-    longitude:  114.154736 
+    longitude:  114.154736
   },
   {
     name: "Anthony",
@@ -549,7 +549,7 @@ var hacktobermap = [
     name: "Povilas",
     location: "Vilnius",
     latitude: 54.71,
-    longitude: 25.27 
+    longitude: 25.27
   },
   {
     name: "odahcam",
@@ -574,5 +574,12 @@ var hacktobermap = [
     location: "Cambridge, UK",
     latitude: "52.205338",
     longitude: "0.121817"
+  }
+
+  {
+    name: "Justin",
+    location: "Las Vegas, NV",
+    latitude: "36.169941",
+    longitude: "-115.1398"
   }
 ];
