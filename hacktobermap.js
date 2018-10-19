@@ -533,4 +533,10 @@ var hacktobermap = [
     latitude:  36.169941,
     longitude: -115.139832
   },
+  {
+    name: "Vladyslav",
+    location: "Cherkasy, Ukraine",
+    latitude: 49.42854,
+    longitude: 32.06207
+  },
 ];
