@@ -550,5 +550,11 @@ var hacktobermap = [
     location: "Vilnius",
     latitude: 54.71,
     longitude: 25.27 
+  },
+  {
+    name: "odahcam",
+    location: "Brusque, SC. Brazil",
+    latitude: -27.096463,
+    longitude: -48.913632
   }
 ];
