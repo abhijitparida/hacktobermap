@@ -556,5 +556,11 @@ var hacktobermap = [
     location: "Brusque, SC. Brazil",
     latitude: -27.096463,
     longitude: -48.913632
+  },
+  {
+    name: "cori",
+    location: "Dane County, Wisconsin, United States",
+    latitude: "43.0682251",
+    longitude: "-89.9843985"
   }
 ];
