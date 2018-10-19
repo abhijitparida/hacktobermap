@@ -580,5 +580,11 @@ var hacktobermap = [
     location: "Las Vegas, NV",
     latitude: "36.169941",
     longitude: "-115.1398"
+  },
+  {
+    name: "Juwana",
+    location: "Orlando, FL",
+    latitude: "28.538336",
+    longitude: "-81.379234"
   }
 ];
