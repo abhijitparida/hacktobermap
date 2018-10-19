@@ -558,6 +558,12 @@ var hacktobermap = [
     longitude: -48.913632
   },
   {
+    name: "dina.wee",
+    location: "Singapore",
+    latitude: 1.352083,
+    longitude: 103.819839
+  },
+  {
     name: "cori",
     location: "Dane County, Wisconsin, United States",
     latitude: "43.0682251",
