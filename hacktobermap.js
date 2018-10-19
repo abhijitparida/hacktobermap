@@ -498,6 +498,12 @@ var hacktobermap = [
     longitude: 101.6841484
   },
   {
+    name: "Dee",
+    location: "Scottsdale, Arizona",
+    latitude:  33.4942,
+    longitude: 111.9261
+  },
+  {
     name: "Ben",
     location: "York",
     latitude:  53.9585914,
