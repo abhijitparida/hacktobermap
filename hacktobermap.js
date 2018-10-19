@@ -520,5 +520,10 @@ var hacktobermap = [
     location: "Michigan",
     latitude:  442.252471,
     longitude: -84.415188
-  },
+  },  {
+    name: "Andrew",
+    location: "Hong Kong",
+    latitude: 22.300882,
+    longitude:  114.154736 
+  }
 ];
