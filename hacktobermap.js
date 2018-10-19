@@ -580,5 +580,11 @@ var hacktobermap = [
     location: "Las Vegas, NV",
     latitude: "36.169941",
     longitude: "-115.1398"
+  },
+  {
+    name: "Angel M. Ochoa - Pasadena Ciy College",
+    location: "Pasadena, CA, USA",
+    latitude: "34.144566",
+    longitude: "-118.118170"
   }
 ];
