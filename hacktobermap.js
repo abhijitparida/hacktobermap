@@ -497,4 +497,10 @@ var hacktobermap = [
     latitude:  3.1343385,
     longitude: 101.6841484
   },
+  {
+    name: "Stell1c",
+    location: "Ghaziabad, India",
+    latitude:  28.6758,
+    longitude: 77.5022
+  },
 ];
