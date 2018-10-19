@@ -562,5 +562,11 @@ var hacktobermap = [
     location: "Dane County, Wisconsin, United States",
     latitude: "43.0682251",
     longitude: "-89.9843985"
+  },
+  {
+    name: "Mathilde",
+    location: "Cambridge, UK",
+    latitude: "52.205338",
+    longitude: "0.121817"
   }
 ];
