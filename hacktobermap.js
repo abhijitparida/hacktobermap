@@ -574,8 +574,7 @@ var hacktobermap = [
     location: "Cambridge, UK",
     latitude: "52.205338",
     longitude: "0.121817"
-  }
-
+  },
   {
     name: "Justin",
     location: "Las Vegas, NV",
