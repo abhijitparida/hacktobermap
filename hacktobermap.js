@@ -545,4 +545,10 @@ var hacktobermap = [
     latitude: 48.379433,
     longitude: 31.165581
   },
+  {
+    name: "Povilas",
+    location: "Vilnius",
+    latitude: 54.71,
+    longitude: 25.27 
+  }
 ];
