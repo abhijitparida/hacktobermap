@@ -518,7 +518,7 @@ var hacktobermap = [
   {
     name: "Evan",
     location: "Michigan",
-    latitude:  442.252471,
+    latitude:  42.252471,
     longitude: -84.415188
   },
   {
