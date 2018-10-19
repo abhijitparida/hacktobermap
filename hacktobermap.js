@@ -539,4 +539,10 @@ var hacktobermap = [
     latitude: 49.42854,
     longitude: 32.06207
   },
+  {
+    name: "Vladyslav",
+    location: "Ukraine",
+    latitude: 48.379433,
+    longitude 31.165581
+  },
 ];
