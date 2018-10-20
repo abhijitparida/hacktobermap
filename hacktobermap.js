@@ -599,4 +599,10 @@ var hacktobermap = [
     latitude: "34.144566",
     longitude: "-118.118170"
   },
+  {
+    name: "Subhendu Sethi",
+    location: "Bangalore, India",
+    latitude: "12.971599",
+    longitude: "77.594566"
+  }
 ];
