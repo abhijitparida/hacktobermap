@@ -610,5 +610,11 @@ var hacktobermap = [
     location: "Aragua, Venezuela",
     latitude: "9.893530",
     longitude: "-67.214860"
+  },
+  {
+    name: "Benjamin Fillipucci",
+    location: "Jacksonville-Duval, Fl, USA",
+    latitude: "	30.332184",
+    longitude: "-81.655647"
   }
 ];
