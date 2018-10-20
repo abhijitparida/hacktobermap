@@ -614,7 +614,7 @@ var hacktobermap = [
   {
     name: "Benjamin Fillipucci",
     location: "Jacksonville-Duval, Fl, USA",
-    latitude: "	30.332184",
+    latitude: "30.332184",
     longitude: "-81.655647"
   }
 ];
