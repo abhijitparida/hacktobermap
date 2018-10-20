@@ -610,5 +610,11 @@ var hacktobermap = [
     location: "Aragua, Venezuela",
     latitude: "9.893530",
     longitude: "-67.214860"
+  },
+  {
+    name: "Mark M.",
+    location: "Ohio, USA",
+    latitude: "40.04",
+    longitude: "-84.20"
   }
 ];
