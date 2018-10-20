@@ -616,5 +616,11 @@ var hacktobermap = [
     location: "Ohio, USA",
     latitude: "40.04",
     longitude: "-84.20"
-  }
+  },
+  {
+    name: "Benjamin Fillipucci",
+    location: "Jacksonville-Duval, Fl, USA",
+    latitude: "30.332184",
+    longitude: "-81.655647"
+  },
 ];
