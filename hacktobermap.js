@@ -582,6 +582,12 @@ var hacktobermap = [
     longitude: "-115.1398"
   },
   {
+    name: "Jozimar Back",
+    location: "Santa Satarina, Brazil",
+    latitude: "-27.1562845",
+    longitude: "-48.9454761"
+  },
+  {
     name: "Juwana",
     location: "Orlando, FL",
     latitude: "28.538336",
