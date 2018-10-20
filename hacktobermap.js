@@ -604,5 +604,11 @@ var hacktobermap = [
     location: "Bangalore, India",
     latitude: "12.971599",
     longitude: "77.594566"
+  },
+  {
+    name: "Henry Alvarez",
+    location: "Aragua, Venezuela",
+    latitude: "9.893530",
+    longitude: "-67.214860"
   }
 ];
