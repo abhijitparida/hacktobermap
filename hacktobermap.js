@@ -586,5 +586,11 @@ var hacktobermap = [
     location: "Orlando, FL",
     latitude: "28.538336",
     longitude: "-81.379234"
-  }
+  },
+  {
+    name: "Angel M. Ochoa - Pasadena Ciy College",
+    location: "Pasadena, CA, USA",
+    latitude: "34.144566",
+    longitude: "-118.118170"
+  },
 ];
