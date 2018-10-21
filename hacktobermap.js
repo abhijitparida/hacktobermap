@@ -623,4 +623,10 @@ var hacktobermap = [
     latitude: "30.332184",
     longitude: "-81.655647"
   },
+   {
+    name: "Rohan Samanta",
+    location: "Gainsville, FL, USA",
+    latitude: "29.65",
+    longitude: "82.32" 
+  },
 ];
