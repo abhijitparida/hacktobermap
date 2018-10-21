@@ -623,4 +623,10 @@ var hacktobermap = [
     latitude: "30.332184",
     longitude: "-81.655647"
   },
+  {
+    name: "Rubén González",
+    location: "Santa Cruz, Aragua, Venezuela",
+    latitude: "10.157313",
+    longitude: "-67.498205"
+  }
 ];
