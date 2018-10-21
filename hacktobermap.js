@@ -665,4 +665,10 @@ var hacktobermap = [
     latitude: "10.157313",
     longitude: "-67.498205"
   },
+  {
+    name: "Adam Wier",
+    location: "Le Mans, France",
+    latitude: "48.0061",
+    longitude: "0.1996"
+  },
 ];
