@@ -570,6 +570,12 @@ var hacktobermap = [
     longitude: 103.819839
   },
   {
+    name: "ryoung3",
+    location: "Columbus,GA USA",
+    latitude: 32.46,
+    longitude: -84.99 
+  },
+  {
     name: "cori",
     location: "Dane County, Wisconsin, United States",
     latitude: "43.0682251",
