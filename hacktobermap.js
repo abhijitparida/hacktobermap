@@ -1,4 +1,4 @@
-﻿var hacktobermap = [
+var hacktobermap = [
   {
     name: "Srinibas Biswal",
     location: "Bhubaneswar",
@@ -16,6 +16,12 @@
     location: "Bhubaneswar",
     latitude: 20.296059,
     longitude: 85.824539
+  },
+  {
+    name: "Doe Hay",
+    location: "Berlin",
+    latitude: 52.520008,
+    longitude: 13.404954
   },
   {
     name: "Lucas Santos",
