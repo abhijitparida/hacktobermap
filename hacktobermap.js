@@ -671,4 +671,10 @@ var hacktobermap = [
     latitude: "48.0061",
     longitude: "0.1996"
   },
+  {
+    name: "Deyan Atanasov",
+    location: "Sofia, Bulgaria",
+    latitude: "42.6977",
+    longitude: "23.3219"
+  },
 ];
