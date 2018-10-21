@@ -671,4 +671,10 @@ var hacktobermap = [
     latitude: "48.0061",
     longitude: "0.1996"
   },
+   {
+    name: "Katya",
+    location: "Russia",
+    latitude: 55.755825,
+    longitude: 37.617298
+  }
 ];
