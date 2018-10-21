@@ -624,6 +624,12 @@ var hacktobermap = [
     longitude: "-81.655647"
   },
   {
+    name: "John Albritton",
+    location: "Birmingham, AL, USA",
+    latitude: "33.518589",
+    longitude: "-86.810356"
+  },
+  {
     name: "Rohan Samanta",
     location: "Gainsville, FL, USA",
     latitude: "29.65",
