@@ -629,4 +629,22 @@ var hacktobermap = [
     latitude: "33.518589",
     longitude: "-86.810356"
   },
+  {
+    name: "Rohan Samanta",
+    location: "Gainsville, FL, USA",
+    latitude: "29.65",
+    longitude: "82.32"
+  },
+  {
+    name: "Carlos Salazar",
+    location: "Venezuela",
+    latitude: "10.175120",
+    longitude: "-67.452300"
+  },
+  {
+    name: "Rubén González",
+    location: "Santa Cruz, Aragua, Venezuela",
+    latitude: "10.157313",
+    longitude: "-67.498205"
+  },
 ];
