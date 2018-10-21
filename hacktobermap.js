@@ -626,7 +626,13 @@ var hacktobermap = [
   {
     name: "Carlos Salazar",
     location: "Venezuela",
-    latitude: "10.175120"
+    latitude: "10.175120",
     longitude: "-67.452300"
+  },
+  {
+    name: "Rubén González",
+    location: "Santa Cruz, Aragua, Venezuela",
+    latitude: "10.157313",
+    longitude: "-67.498205"
   },
 ];
