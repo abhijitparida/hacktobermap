@@ -677,4 +677,10 @@ var hacktobermap = [
         latitude: "30.044420",
         longitude: "31.235712"
     },
+  {
+    name: "Eric Phan",
+    location: "San Diego, CA, USA",
+    latitude: "32.715736",
+    longitude: "-117.161087"
+  },
 ];
