@@ -671,10 +671,16 @@ var hacktobermap = [
     latitude: "48.0061",
     longitude: "0.1996"
   },
-    {
-        name: "Devanshu Yadav",
-        location: "Cairo, Egypt",
-        latitude: "30.044420",
-        longitude: "31.235712"
-    },
+  {
+    name: "Devanshu Yadav",
+    location: "Cairo, Egypt",
+    latitude: "30.044420",
+    longitude: "31.235712"
+  },
+  {
+    name: "Jordan Kidd",
+    location: "Huddersfield, UK",
+    latitude: "53.645790",
+    longitude: "-1.785035"
+  }
 ];
