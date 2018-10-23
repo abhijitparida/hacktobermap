@@ -737,4 +737,10 @@ var hacktobermap = [
     latitude: 17.34,
     longitude: 78.56
   },
+  {
+    name: "Ivan Varela",
+    location: "Blumenau, Brazil",
+    latitude: "-26.924541",
+    longitude: "-49.062525"
+  },
 ];
