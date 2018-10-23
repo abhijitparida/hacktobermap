@@ -672,6 +672,18 @@ var hacktobermap = [
     longitude: "0.1996"
   },
   {
+    name: "Katya",
+    location: "Russia",
+    latitude: 55.755825,
+    longitude: 37.617298
+  },
+  {
+    name: "Deyan Atanasov",
+    location: "Sofia, Bulgaria",
+    latitude: "42.6977",
+    longitude: "23.3219"
+  },
+  {
     name: "Devanshu Yadav",
     location: "Cairo, Egypt",
     latitude: "30.044420",
@@ -681,5 +693,5 @@ var hacktobermap = [
     location: "London, England",
     latitude: "51.531946",
     longitude: "-0.106106"
-  }
+  },
 ];
