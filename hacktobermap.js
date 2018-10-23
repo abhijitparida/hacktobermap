@@ -725,4 +725,10 @@ var hacktobermap = [
     latitude: "-27.0779648",
     longitude: "-48.9119156"
   },
+   {
+      name: "Love Varshney",
+      location: "Uttar Pradesh, India",
+      latitude: "37.97394",
+      longitude: "88.088013"
+    },
 ];
