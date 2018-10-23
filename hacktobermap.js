@@ -12,6 +12,12 @@ var hacktobermap = [
     longitude: 22.937506
   },
   {
+    name: "Valentina Abramova",
+    location: "Dallas, TX",
+    latitude: 32.776665,
+    longitude: -96.796989
+  },
+  {
     name: "Abhijit Parida",
     location: "Bhubaneswar",
     latitude: 20.296059,
@@ -573,7 +579,7 @@ var hacktobermap = [
     name: "ryoung3",
     location: "Columbus,GA USA",
     latitude: 32.46,
-    longitude: -84.99 
+    longitude: -84.99
   },
   {
     name: "cori",
