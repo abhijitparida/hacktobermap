@@ -689,4 +689,9 @@ var hacktobermap = [
     latitude: "30.044420",
     longitude: "31.235712"
   },
+  { name: "Cam Newton",
+    location: "London, England",
+    latitude: "51.531946",
+    longitude: "-0.106106"
+  },
 ];
