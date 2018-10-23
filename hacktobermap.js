@@ -672,15 +672,45 @@ var hacktobermap = [
     longitude: "0.1996"
   },
   {
-      name: "Devanshu Yadav",
-      location: "Cairo, Egypt",
-      latitude: "30.044420",
-      longitude: "31.235712"
-  },
-  {
     name: "André Kanayama",
     location: "Sao Paulo, Brazil",
     latitude: -23.5455,
     longitude: -46.6815
+  },
+  {
+    name: "Eric Phan",
+    location: "San Diego, CA, USA",
+    latitude: "32.715736",
+    longitude: "-117.161087"
+  },
+  {
+    name: "Katya",
+    location: "Russia",
+    latitude: 55.755825,
+    longitude: 37.617298
+  },
+  {
+    name: "Deyan Atanasov",
+    location: "Sofia, Bulgaria",
+    latitude: "42.6977",
+    longitude: "23.3219"
+  },
+  {
+    name: "Devanshu Yadav",
+    location: "Cairo, Egypt",
+    latitude: "30.044420",
+    longitude: "31.235712"
+  },
+  {
+    name: "Jordan Kidd",
+    location: "Huddersfield, UK",
+    latitude: "53.645790",
+    longitude: "-1.785035"
+  },
+  {
+    name: "Cam Newton",
+    location: "London, England",
+    latitude: "51.531946",
+    longitude: "-0.106106"
   },
 ];
