@@ -672,6 +672,12 @@ var hacktobermap = [
     longitude: "0.1996"
   },
   {
+    name: "André Kanayama",
+    location: "Sao Paulo, Brazil",
+    latitude: -23.5455,
+    longitude: -46.6815
+  },
+  {
     name: "Eric Phan",
     location: "San Diego, CA, USA",
     latitude: "32.715736",
