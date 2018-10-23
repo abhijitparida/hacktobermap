@@ -696,6 +696,12 @@ var hacktobermap = [
     longitude: "31.235712"
   },
   {
+    name: "Jordan Kidd",
+    location: "Huddersfield, UK",
+    latitude: "53.645790",
+    longitude: "-1.785035"
+  },
+  {
     name: "Cam Newton",
     location: "London, England",
     latitude: "51.531946",
