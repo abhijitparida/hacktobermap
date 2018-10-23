@@ -713,4 +713,10 @@ var hacktobermap = [
     latitude: "51.531946",
     longitude: "-0.106106"
   },
+   {
+    name: "Felipe Putsch",
+    location: "Santa Catarina, Brasil",
+    latitude: "-27.0779648",
+    longitude: "-48.9119156"
+  },
 ];
