@@ -743,4 +743,10 @@ var hacktobermap = [
     latitude: "-26.924541",
     longitude: "-49.062525"
   },
+  {
+    name: "Bhavye Budhiraja",
+    location: "Delhi, India",
+    latitude: "28.7041",
+    longitude: "77.1025"
+  }
 ];
