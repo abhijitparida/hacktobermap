@@ -737,4 +737,11 @@ var hacktobermap = [
     latitude: 17.34,
     longitude: 78.56
   },
+
+  {
+    name: "Stephanie Leazer",
+    location: "Oklahoma City, OK",
+    latitude: 35.46,
+    longitude: 97.5164
+  },
 ];
