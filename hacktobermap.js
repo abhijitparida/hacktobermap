@@ -672,6 +672,12 @@ var hacktobermap = [
     longitude: "0.1996"
   },
   {
+    name: "Eric Phan",
+    location: "San Diego, CA, USA",
+    latitude: "32.715736",
+    longitude: "-117.161087"
+  },
+  {
     name: "Katya",
     location: "Russia",
     latitude: 55.755825,
@@ -689,7 +695,8 @@ var hacktobermap = [
     latitude: "30.044420",
     longitude: "31.235712"
   },
-  { name: "Cam Newton",
+  {
+    name: "Cam Newton",
     location: "London, England",
     latitude: "51.531946",
     longitude: "-0.106106"
