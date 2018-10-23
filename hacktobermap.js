@@ -725,4 +725,10 @@ var hacktobermap = [
     latitude: "-27.0779648",
     longitude: "-48.9119156"
   },
+  {
+    name: "Mani Kumar Reddy Kancharla",
+    location: "Hyderabad, India",
+    latitude: 17.34,
+    longitude: 78.56
+  }
 ];
