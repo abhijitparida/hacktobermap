@@ -36,6 +36,10 @@ You can get the coordinates of your location from [https://latlong.net](https://
 
 Commit your changes and submit a pull request! After your pull request gets accepted, you will be able to see your very own marker on the [HacktoberMap](https://abhijitparida.github.io/hacktobermap/)!
 
+### Step 4
+
+Please star the repo if you like this fun little Hacktoberfest project ❤️ 
+
 ## License
 
 [MIT](LICENSE)
