@@ -743,4 +743,10 @@ var hacktobermap = [
     latitude: "-26.924541",
     longitude: "-49.062525"
   },
+  {
+    name: "Alesandro Fidelis",
+    location: "Blumenau, Brazil",
+    latitude: "-26.924251",
+    longitude: "-49.062525"
+  },
 ];
