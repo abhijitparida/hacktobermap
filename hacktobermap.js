@@ -1,5 +1,5 @@
 var hacktobermap = [
-    {
+  {
     name: "Elena M. López",
     location: "Madrid",
     latitude: 40.4169793,
@@ -754,6 +754,12 @@ var hacktobermap = [
     location: "Blumenau, Brazil",
     latitude: "-26.924541",
     longitude: "-49.062525"
+  },
+  {
+    name: "Bhavye Budhiraja",
+    location: "Delhi, India",
+    latitude: "28.7041",
+    longitude: "77.1025"
   },
   {
     name: "Alesandro Fidelis",
