@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: "Elena M. López",
+    location: "Madrid",
+    latitude: 40.4169793,
+    longitude: -3.7035714,15
+  },
+  {
     name: "Srinibas Biswal",
     location: "Bhubaneswar",
     latitude: 20.296059,
@@ -738,6 +744,12 @@ var hacktobermap = [
     longitude: 78.56
   },
   {
+    name: "Stephanie Leazer",
+    location: "Oklahoma City, OK",
+    latitude: 35.46,
+    longitude: 97.5164
+  },
+  {
     name: "Ivan Varela",
     location: "Blumenau, Brazil",
     latitude: "-26.924541",
@@ -748,5 +760,11 @@ var hacktobermap = [
     location: "Delhi, India",
     latitude: "28.7041",
     longitude: "77.1025"
-  }
+  },
+  {
+    name: "Alesandro Fidelis",
+    location: "Blumenau, Brazil",
+    latitude: "-26.924251",
+    longitude: "-49.062525"
+  },
 ];
