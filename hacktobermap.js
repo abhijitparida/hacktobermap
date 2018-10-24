@@ -3,7 +3,7 @@ var hacktobermap = [
     name: "Elena M. López",
     location: "Madrid",
     latitude: 40.4169793,
-    longitude: -3.7035714,15
+    longitude: -3.7035714
   },
   {
     name: "Srinibas Biswal",
@@ -519,7 +519,7 @@ var hacktobermap = [
     name: "Dee",
     location: "Scottsdale, Arizona",
     latitude:  33.4942,
-    longitude: 111.9261
+    longitude: -111.9261
   },
   {
     name: "Ben",
@@ -645,7 +645,7 @@ var hacktobermap = [
     name: "David L.",
     location: "Florida, USA",
     latitude: "27.65",
-    longitude: "81.51"
+    longitude: "-81.51"
   },
   {
     name: "Benjamin Fillipucci",
@@ -663,7 +663,7 @@ var hacktobermap = [
     name: "Rohan Samanta",
     location: "Gainsville, FL, USA",
     latitude: "29.65",
-    longitude: "82.32"
+    longitude: "-82.32"
   },
   {
     name: "Carlos Salazar",
@@ -734,8 +734,8 @@ var hacktobermap = [
   {
     name: "Love Varshney",
     location: "Uttar Pradesh, India",
-    latitude: "37.97394",
-    longitude: "88.088013"
+    latitude: "27.139759",
+    longitude: "80.867531"
   },
   {
     name: "Mani Kumar Reddy Kancharla",
@@ -747,7 +747,7 @@ var hacktobermap = [
     name: "Stephanie Leazer",
     location: "Oklahoma City, OK",
     latitude: 35.46,
-    longitude: 97.5164
+    longitude: -97.5164
   },
   {
     name: "Ivan Varela",
