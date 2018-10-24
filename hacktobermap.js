@@ -773,4 +773,10 @@ var hacktobermap = [
     latitude: "37.314257",
     longitude: "-121.915603"
   },
+  {
+    name: "Hannah De Los Reyes",
+    location: "San Diego, CA",
+    latitude: "32.715736",
+    longitude: "-117.161087"
+  }
 ];
