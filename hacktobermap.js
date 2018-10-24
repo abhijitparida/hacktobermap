@@ -737,11 +737,22 @@ var hacktobermap = [
     latitude: 17.34,
     longitude: 78.56
   },
-
   {
     name: "Stephanie Leazer",
     location: "Oklahoma City, OK",
     latitude: 35.46,
     longitude: 97.5164
+  },
+  {
+    name: "Ivan Varela",
+    location: "Blumenau, Brazil",
+    latitude: "-26.924541",
+    longitude: "-49.062525"
+  },
+  {
+    name: "Alesandro Fidelis",
+    location: "Blumenau, Brazil",
+    latitude: "-26.924251",
+    longitude: "-49.062525"
   },
 ];
