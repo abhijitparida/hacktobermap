@@ -773,4 +773,10 @@ var hacktobermap = [
     latitude: "37.314257",
     longitude: "-121.915603"
   },
+  {
+    name: "Zuhra Sofyan",
+    location: "Java, Indonesia",
+    latitude: "-12.399024",
+    longitude: "111.386748"
+  },
 ];
