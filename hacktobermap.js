@@ -767,4 +767,10 @@ var hacktobermap = [
     latitude: "-26.924251",
     longitude: "-49.062525"
   },
+  {
+    name: "Ryan Jacoby",
+    location: "San Jose, CA",
+    latitude: "37.314257",
+    longitude: "-121.915603"
+  },
 ];
