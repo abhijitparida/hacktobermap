@@ -779,4 +779,10 @@ var hacktobermap = [
     latitude: "-12.399024",
     longitude: "111.386748"
   },
+  {
+    name: "Daniel Cerverizzo",
+    location: "São Paulo",
+    latitude: "-23.60753",
+    longitude: "-46.75296"
+  },
 ];
