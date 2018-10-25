@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: "Gabriel N. González",
+    location: "Buenos Aires",
+    latitude: -34.716,
+    longitude: -58.297,
+  },
+  {
     name: "Elena M. López",
     location: "Madrid",
     latitude: 40.4169793,
