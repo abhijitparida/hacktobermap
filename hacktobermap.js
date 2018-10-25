@@ -778,5 +778,23 @@ var hacktobermap = [
     location: "Las Vegas, NV",
     latitutde: "36.169941",
     longitude: "-115.139832"
-  }
+  },
+  {
+    name: "Hannah De Los Reyes",
+    location: "San Diego, CA",
+    latitude: "32.715736",
+    longitude: "-117.161087"
+  },
+  {
+    name: "Zuhra Sofyan",
+    location: "Java, Indonesia",
+    latitude: "-12.399024",
+    longitude: "111.386748"
+  },
+  {
+    name: "Daniel Cerverizzo",
+    location: "São Paulo",
+    latitude: "-23.60753",
+    longitude: "-46.75296"
+  },
 ];
