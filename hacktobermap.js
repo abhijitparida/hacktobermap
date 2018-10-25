@@ -774,6 +774,12 @@ var hacktobermap = [
     longitude: "-121.915603"
   },
   {
+    name: "Caren Keyes",
+    location: "Las Vegas, NV",
+    latitutde: "36.169941",
+    longitude: "-115.139832"
+  },
+  {
     name: "Hannah De Los Reyes",
     location: "San Diego, CA",
     latitude: "32.715736",
