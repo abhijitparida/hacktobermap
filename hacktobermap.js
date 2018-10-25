@@ -774,6 +774,12 @@ var hacktobermap = [
     longitude: "-121.915603"
   },
   {
+    name: "Zuhra Sofyan",
+    location: "Java, Indonesia",
+    latitude: "-12.399024",
+    longitude: "111.386748"
+  },
+  {
     name: "Daniel Cerverizzo",
     location: "São Paulo",
     latitude: "-23.60753",
