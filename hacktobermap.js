@@ -803,4 +803,10 @@ var hacktobermap = [
     latitude: "-23.60753",
     longitude: "-46.75296"
   },
+  {
+    name: "Jonah Adkins",
+    location: "Newport News, VA",
+    latitude: "37.10390",
+    longitude: "-76.51199"
+  }
 ];
