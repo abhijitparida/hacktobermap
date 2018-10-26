@@ -827,4 +827,10 @@ var hacktobermap = [
     latitude: "45.421532",
     longitude: "-75.697189"
   },
+  {
+    name: "Swaraj Laha",
+    location: "Bhubaneswar, India",
+    latitude: "20.296059",
+    longitude: "85.824539"
+  },
 ];
