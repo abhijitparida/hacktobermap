@@ -833,4 +833,10 @@ var hacktobermap = [
     latitude: "20.296059",
     longitude: "85.824539"
   },
+  {
+    name: "Vishwas S Rajput",
+    location: "Pune, India",
+    latitude: "18.596190",
+    longitude: "73.712790"
+  },
 ];
