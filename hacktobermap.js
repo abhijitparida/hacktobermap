@@ -803,6 +803,12 @@ var hacktobermap = [
     latitude: "-23.60753",
     longitude: "-46.75296"
   },
+  { 
+    name: "Sarah",
+    location: "Ottawa",
+    latitude: "45.41117",
+    longitude: "-75.69812"
+  },
   {
     name: "John Orenza",
     location: "Las Vegas, NV",
