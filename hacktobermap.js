@@ -834,9 +834,15 @@ var hacktobermap = [
     longitude: "85.824539"
   },
   {
+    name: "Vishwas S Rajput",
+    location: "Pune, India",
+    latitude: "18.596190",
+    longitude: "73.712790"
+  },
+  {
     name: "Nischal Dutt",
     location: "Punjab, India",
     latitude: 30.73,
-    longitude: 76.77 
+    longitude: 76.77
   },
 ];
