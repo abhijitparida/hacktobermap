@@ -846,6 +846,11 @@ var hacktobermap = [
     longitude: 76.77
   },
   {
+    name: "Phil M",
+    location: "Westminster, Colorado",
+    latitude: 39.84,
+    longitude: -105.03
+  },
     name: "Harshita",
     location: "CA, United States",
     latitude: 37,
