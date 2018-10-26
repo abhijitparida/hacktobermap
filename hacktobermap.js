@@ -821,4 +821,10 @@ var hacktobermap = [
     latitude: "36.169941",
     longitude: "-115.1398"
   },
+  {
+    name: "Lauren Mayers",
+    location: "Ottawa, Canada",
+    latitude: "45.421532",
+    longitude: "-75.697189"
+  },
 ];
