@@ -803,4 +803,10 @@ var hacktobermap = [
     latitude: "-23.60753",
     longitude: "-46.75296"
   },
+  {
+    name: "John Orenza",
+    location: "Las Vegas, NV",
+    latitude: "36.169941",
+    longitude: "-115.1398"
+  },
 ];
