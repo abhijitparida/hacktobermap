@@ -851,4 +851,9 @@ var hacktobermap = [
     latitude: 39.84,
     longitude: -105.03
   },
+    name: "Harshita",
+    location: "CA, United States",
+    latitude: 37,
+    longitude: -120
+  }
 ];
