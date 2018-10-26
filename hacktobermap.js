@@ -833,4 +833,10 @@ var hacktobermap = [
     latitude: "20.296059",
     longitude: "85.824539"
   },
+  {
+    name: "Nischal Dutt",
+    location: "Punjab, India",
+    latitude: 30.73,
+    longitude: 76.77 
+  },
 ];
