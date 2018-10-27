@@ -947,10 +947,46 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253
   },
-{
+  {
     name: "karplos dev",
     location: "Surabaya, Indonesia",
     latitude: 45.501690,
     longitude: -78.567253
+  },
+  {
+    name: "glamvian hermawan",
+    location: "Surabaya, Indonesia",
+    latitude: 33.401690,
+    longitude: -73.567253
+  },
+  {
+    name: "Sarah-Jeanne",
+    location: "Montreal, Canada",
+    latitude: 45.509060,
+    longitude: -73.553360
+  },
+  {
+    name: "Gabriel Araujo",
+    location: "Araraquara, Brazil",
+    latitude: -21.794100,
+    longitude: -48.174290
+  },
+  {
+    name: "PS",
+    location: "Chennai, India",
+    latitude: 13.082680,
+    longitude: 80.270721
+  },
+  {
+    name: "Prakhar",
+    location: "India",
+    latitude: 20.593683,
+    longitude: 78.962883
+  },
+  {
+    name: "leonardo",
+    location: "Italy",
+    latitude: 43.87,
+    longitude: 11.09
   },
 ];
