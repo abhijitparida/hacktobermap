@@ -936,9 +936,15 @@ var hacktobermap = [
     longitude: -73.920967
   },
   {
+    name: "Melissa Ashforth",
+    location: "Greater St. Louis Area",
+    latitude: 38.627003,
+    longitude: -90.199402
+  },
+  {
     name: "Félix Desjardins",
     location: "Montreal, Canada",
     latitude: 45.501690,
-    longitude: -73.567253 
+    longitude: -73.567253
   },
 ];
