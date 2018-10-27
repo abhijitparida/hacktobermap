@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Ricardo González",
+    location: "Monterrey, Mexico",
+    latitude: 25.686613,
+    longitude: -100.316116
+  }
 ];
