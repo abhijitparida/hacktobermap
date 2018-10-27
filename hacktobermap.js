@@ -912,6 +912,12 @@ var hacktobermap = [
     longitude: 19.944544
   },
   {
+    name: "Angelinalblyth",
+    location: "Glasgow, Scotland",
+    latitude: 55.864239,
+    longitude: -4.251806
+  },
+  {
     name: "Zacharias",
     location: "Georgia, United States",
     latitude: 33.7,
