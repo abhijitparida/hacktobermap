@@ -947,4 +947,10 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253
   },
+  {
+    name: "Gabriel Araujo",
+    location: "Araraquara, Brazil",
+    latitude: -21.794100,
+    longitude: -48.174290
+  },
 ];
