@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Piotr"
+    location: "Łódź, Poland",
+    latitude: 51.7500000,
+    longitude: 19.4666700
+  }
 ];
