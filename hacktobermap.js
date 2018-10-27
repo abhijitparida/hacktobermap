@@ -1012,5 +1012,11 @@ var hacktobermap = [
     location: "Washington DC",
     latitude: 38.904863,
     longitude: -77.03402240000003
+  },
+  {
+    name: "Dimitris",
+    location: "Greece",
+    latitude: 37.97,
+    longitude: 23.73
   }
 ];
