@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: -58.297,
   },
   {
+    name: "Wisnu Febriadi",
+    location: "Tanjungpinang",
+    latitude: 0.962873,
+    longitude: 104.436956
+  },
+  {
     name: "Elena M. López",
     location: "Madrid",
     latitude: 40.4169793,
@@ -862,5 +868,17 @@ var hacktobermap = [
     location: "New York, United States",
     latitude: 40.7051,
     longitude: -74.0092
-  }
+  },
+  {
+    name: "db001",
+    location: "UK",
+    latitude: -0.759417,
+    longitude: 52.040623
+  },
+  {
+    name: "Cristian",
+    location: "CA, United States",
+    latitude: 37,
+    longitude: -122
+  },
 ];
