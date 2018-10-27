@@ -948,6 +948,12 @@ var hacktobermap = [
     longitude: -73.567253
   },
   {
+    name: "karplos dev",
+    location: "Surabaya, Indonesia",
+    latitude: 45.501690,
+    longitude: -78.567253
+  },
+  {
     name: "glamvian hermawan",
     location: "Surabaya, Indonesia",
     latitude: 33.401690,
