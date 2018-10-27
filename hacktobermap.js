@@ -990,9 +990,15 @@ var hacktobermap = [
     longitude: 11.09
   },
   {
-	name: "Ahmed",
-	location: "Egypt",
-	latitude: 31.200092,
-	longitude: 29.918739
-  }
+    name: "Ahmad Asmar",
+    location: "Palestine",
+    latitude: 31.95,
+    longitude: 35.23 
+  },
+  {
+    name: "Ahmed",
+    location: "Egypt",
+    latitude: 31.200092,
+    longitude: 29.918739
+  },
 ];
