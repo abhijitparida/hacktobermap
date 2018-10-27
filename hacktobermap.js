@@ -815,7 +815,7 @@ var hacktobermap = [
     latitude: "37.10390",
     longitude: "-76.51199"
   },
-  { 
+  {
     name: "Sarah",
     location: "Ottawa",
     latitude: "45.41117",
@@ -862,6 +862,12 @@ var hacktobermap = [
     location: "CA, United States",
     latitude: 37,
     longitude: -120
+  },
+  {
+    name: "Andy Poon",
+    location: "New York, United States",
+    latitude: 40.7051,
+    longitude: -74.0092
   },
   {
     name: "db001",
