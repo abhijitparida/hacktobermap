@@ -899,4 +899,10 @@ var hacktobermap = [
     latitude: 50.049683,
     longitude: 19.944544
   },
+  {
+    name: "Angelinalblyth",
+    location: "Glasgow, Scotland",
+    latitude: 55.864239,
+    longitude: -4.251806
+  },
 ];
