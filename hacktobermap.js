@@ -1032,6 +1032,12 @@ var hacktobermap = [
     longitude: -83.24
   },
   {
+    name: "Vadim Slepich",
+    location: "Minsk, Belarus",
+    latitude: 53.904541,
+    longitude: 27.561523
+  },
+  {
     name: "Igor Gavelyuk",
     location: "Velikiy Dalnik, Odessa, Ukraine",
     latitude: 46.475416,
