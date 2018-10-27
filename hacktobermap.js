@@ -4,7 +4,7 @@ var hacktobermap = [
     location: 'New Haven, CT',
     latitude: 41.308273,
     longitude: -72.927879,
-  }
+  },
   {
     name: "Gabriel N. González",
     location: "Buenos Aires",
