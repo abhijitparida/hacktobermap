@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: 'Jovan Kelly',
+    location: 'New York, NY',
+    latitude: 40.71,
+    longitude: -74.00
+  },
+  {
     name: 'Sterling Walker',
     location: 'New York, NY',
     latitude: 40.71,
