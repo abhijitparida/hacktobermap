@@ -10,7 +10,7 @@ var hacktobermap = [
     location: 'New York, NY',
     latitude: 40.71,
     longitude: -74.00,
-  },	
+  },
   {
     name: 'Sterling Walker',
     location: 'New York, NY',
@@ -935,7 +935,7 @@ var hacktobermap = [
     latitude: -7.795860,
     longitude: 110.365430
   },
-  { 
+  {
     name: "dchenmei",
     location: "New York, United States",
     latitude: 41.700371,
@@ -999,7 +999,7 @@ var hacktobermap = [
     name: "Ahmad Asmar",
     location: "Palestine",
     latitude: 31.95,
-    longitude: 35.23 
+    longitude: 35.23
   },
   {
     name: "Ahmed",
@@ -1031,10 +1031,22 @@ var hacktobermap = [
     latitude: 42.48,
     longitude: -83.24
   },
-    {
+  {
     name: "Vadim Slepich",
     location: "Minsk, Belarus",
     latitude: 53.904541,
-    longitude:27.561523
+    longitude: 27.561523
+  },
+  {
+    name: "Igor Gavelyuk",
+    location: "Velikiy Dalnik, Odessa, Ukraine",
+    latitude: 46.475416,
+    longitude: 30.558302
+  },
+  {
+    name: "Dan Herrero",
+    location: "Pennsylvania, USA",
+    latitude: 41.203323,
+    longitude: -77.194527
   },
 ];
