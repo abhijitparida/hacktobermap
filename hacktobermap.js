@@ -893,4 +893,10 @@ var hacktobermap = [
     latitude: 37,
     longitude: -122
   },
+  {
+    name: "Mateusz",
+    location: "Krakow, Poland",
+    latitude: 50.049683,
+    longitude: 19.944544
+  },
 ];
