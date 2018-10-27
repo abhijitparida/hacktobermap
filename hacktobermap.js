@@ -1018,5 +1018,11 @@ var hacktobermap = [
     location: "Greece",
     latitude: 37.97,
     longitude: 23.73
+  },
+  {
+    name: "William",
+    location: "Southfield, Michigan, USA",
+    latitude: 42.48,
+    longitude: -83.24
   }
 ];
