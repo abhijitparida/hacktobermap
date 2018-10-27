@@ -1008,6 +1008,12 @@ var hacktobermap = [
     longitude: 29.918739
   },
   {
+    name: "Luis",
+    location: "Washington DC",
+    latitude: 38.98,
+    longitude: -77.09
+  },
+  {
     name: "Ezana Bahta",
     location: "Washington DC",
     latitude: 38.904863,
@@ -1024,5 +1030,5 @@ var hacktobermap = [
     location: "Southfield, Michigan, USA",
     latitude: 42.48,
     longitude: -83.24
-  }
+  },
 ];
