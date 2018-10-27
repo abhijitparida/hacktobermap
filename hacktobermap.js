@@ -948,6 +948,12 @@ var hacktobermap = [
     longitude: -73.567253
   },
   {
+    name: "glamvian hermawan",
+    location: "Surabaya, Indonesia",
+    latitude: 33.401690,
+    longitude: -73.567253
+  },
+  {
     name: "Sarah-Jeanne",
     location: "Montreal, Canada",
     latitude: 45.509060,
