@@ -899,6 +899,12 @@ var hacktobermap = [
     latitude: 50.049683,
     longitude: 19.944544
   },
+  {
+    name: "Ahmad Nurus S.",
+    location: "DI Yogyakarta, Indonesia",
+    latitude: -7.795860,
+    longitude: 110.365430
+  },
   { 
     name: "dchenmei",
     location: "New York, United States",
