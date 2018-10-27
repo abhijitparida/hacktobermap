@@ -1001,4 +1001,10 @@ var hacktobermap = [
     latitude: 31.200092,
     longitude: 29.918739
   },
+  {
+    name: "Ezana Bahta",
+    location: "Washington DC",
+    latitude: 38.904863,
+    longitude: -77.03402240000003
+  }
 ];
