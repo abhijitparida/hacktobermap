@@ -947,4 +947,10 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253
   },
+  {
+    name: "PS",
+    location: "Chennai, India",
+    latitude: 13.082680,
+    longitude: 80.270721
+  },
 ];
