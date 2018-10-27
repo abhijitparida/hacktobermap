@@ -947,4 +947,10 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253
   },
+  {
+    name: "Prakhar",
+    location: "India",
+    latitude: 20.593683,
+    longitude: 78.962883 
+  },
 ];
