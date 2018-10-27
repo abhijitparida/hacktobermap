@@ -1,10 +1,16 @@
 var hacktobermap = [
   {
+    name: 'Akarsh Singh',
+    location: 'Tamil Nadu, India',
+    latitude: 11.127123,
+    longitude: 78.656891,
+  },
+  {
     name: 'Jovan Kelly',
     location: 'New York, NY',
     latitude: 40.71,
-    longitude: -74.00
-  },
+    longitude: -74.00,
+  },	
   {
     name: 'Sterling Walker',
     location: 'New York, NY',
@@ -896,8 +902,8 @@ var hacktobermap = [
   {
     name: "db001",
     location: "UK",
-    latitude: -0.759417,
-    longitude: 52.040623
+    latitude: 52.040623,
+    longitude: -0.759417
   },
   {
     name: "Cristian",
@@ -946,5 +952,83 @@ var hacktobermap = [
     location: "Montreal, Canada",
     latitude: 45.501690,
     longitude: -73.567253
+  },
+  {
+    name: "karplos dev",
+    location: "Surabaya, Indonesia",
+    latitude: 45.501690,
+    longitude: -78.567253
+  },
+  {
+    name: "glamvian hermawan",
+    location: "Surabaya, Indonesia",
+    latitude: 33.401690,
+    longitude: -73.567253
+  },
+  {
+    name: "Sarah-Jeanne",
+    location: "Montreal, Canada",
+    latitude: 45.509060,
+    longitude: -73.553360
+  },
+  {
+    name: "Gabriel Araujo",
+    location: "Araraquara, Brazil",
+    latitude: -21.794100,
+    longitude: -48.174290
+  },
+  {
+    name: "PS",
+    location: "Chennai, India",
+    latitude: 13.082680,
+    longitude: 80.270721
+  },
+  {
+    name: "Prakhar",
+    location: "India",
+    latitude: 20.593683,
+    longitude: 78.962883
+  },
+  {
+    name: "leonardo",
+    location: "Italy",
+    latitude: 43.87,
+    longitude: 11.09
+  },
+  {
+    name: "Ahmad Asmar",
+    location: "Palestine",
+    latitude: 31.95,
+    longitude: 35.23 
+  },
+  {
+    name: "Ahmed",
+    location: "Egypt",
+    latitude: 31.200092,
+    longitude: 29.918739
+  },
+  {
+    name: "Luis",
+    location: "Washington DC",
+    latitude: 38.98,
+    longitude: -77.09
+  },
+  {
+    name: "Ezana Bahta",
+    location: "Washington DC",
+    latitude: 38.904863,
+    longitude: -77.03402240000003
+  },
+  {
+    name: "Dimitris",
+    location: "Greece",
+    latitude: 37.97,
+    longitude: 23.73
+  },
+  {
+    name: "William",
+    location: "Southfield, Michigan, USA",
+    latitude: 42.48,
+    longitude: -83.24
   },
 ];

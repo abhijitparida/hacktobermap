@@ -65,6 +65,10 @@ body {
   width: 80px;
 }
 
+.leaflet-tooltip {
+  padding: 5px 10px;
+}
+
 .leaflet-bottom.leaflet-right {
   position: fixed;
 }
