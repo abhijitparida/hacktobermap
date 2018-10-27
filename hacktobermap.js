@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: 'Jovan Kelly',
+    location: 'New York, NY',
+    latitude: 40.71,
+    longitude: -74.00
+  },
+  {
     name: 'Sterling Walker',
     location: 'New York, NY',
     latitude: 40.71,
@@ -906,6 +912,18 @@ var hacktobermap = [
     longitude: 19.944544
   },
   {
+    name: "Angelinalblyth",
+    location: "Glasgow, Scotland",
+    latitude: 55.864239,
+    longitude: -4.251806
+  },
+  {
+    name: "Zacharias",
+    location: "Georgia, United States",
+    latitude: 33.7,
+    longitude: -84.3
+  },
+  {
     name: "Ahmad Nurus S.",
     location: "DI Yogyakarta, Indonesia",
     latitude: -7.795860,
@@ -922,5 +940,11 @@ var hacktobermap = [
     location: "Greater St. Louis Area",
     latitude: 38.627003,
     longitude: -90.199402
+  },
+  {
+    name: "Félix Desjardins",
+    location: "Montreal, Canada",
+    latitude: 45.501690,
+    longitude: -73.567253
   },
 ];
