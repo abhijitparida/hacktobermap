@@ -912,6 +912,12 @@ var hacktobermap = [
     longitude: 19.944544
   },
   {
+    name: "Zacharias",
+    location: "Georgia, United States",
+    latitude: 33.7,
+    longitude: -84.3
+  },
+  {
     name: "Ahmad Nurus S.",
     location: "DI Yogyakarta, Indonesia",
     latitude: -7.795860,
