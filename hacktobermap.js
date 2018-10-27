@@ -948,6 +948,12 @@ var hacktobermap = [
     longitude: -73.567253
   },
   {
+    name: "Sarah-Jeanne",
+    location: "Montreal, Canada",
+    latitude: 45.509060,
+    longitude: -73.553360
+  },
+  {
     name: "Gabriel Araujo",
     location: "Araraquara, Brazil",
     latitude: -21.794100,
@@ -965,10 +971,10 @@ var hacktobermap = [
     latitude: 20.593683,
     longitude: 78.962883
   },
-   {
+  {
     name: "leonardo",
     location: "Italy",
     latitude: 43.87,
-    longitude: 11.09 
+    longitude: 11.09
   },
 ];
