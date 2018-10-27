@@ -1,8 +1,15 @@
-var hacktobermap = [{
+var hacktobermap = [
+  {
     name: "Gabriel N. González",
     location: "Buenos Aires",
     latitude: -34.716,
     longitude: -58.297,
+  },
+  {
+    name: "Wisnu Febriadi",
+    location: "Tanjungpinang",
+    latitude: 0.962873,
+    longitude: 104.436956
   },
   {
     name: "Elena M. López",
@@ -454,7 +461,7 @@ var hacktobermap = [{
     latitude: -25.784497,
     longitude: 28.358030
   },
-  {
+ {
     name: "Fabio Loreggian",
     location: "South Africa",
     latitude: -26.175132,
@@ -505,7 +512,7 @@ var hacktobermap = [{
   {
     name: "Aletaschner",
     location: "Brusque, SC - Brazil",
-    latitude: -27.1134,
+    latitude:  -27.1134,
     longitude: -48.9039
   },
   {
@@ -517,43 +524,43 @@ var hacktobermap = [{
   {
     name: "Hazim",
     location: "Kuala Lumpur, Malaysia",
-    latitude: 3.1343385,
+    latitude:  3.1343385,
     longitude: 101.6841484
   },
   {
     name: "Dee",
     location: "Scottsdale, Arizona",
-    latitude: 33.4942,
+    latitude:  33.4942,
     longitude: -111.9261
   },
   {
     name: "Ben",
     location: "York",
-    latitude: 53.9585914,
+    latitude:  53.9585914,
     longitude: -1.1156966
   },
   {
     name: "Stell1c",
     location: "Ghaziabad, India",
-    latitude: 28.6758,
+    latitude:  28.6758,
     longitude: 77.5022
   },
   {
     name: "Evan",
     location: "Michigan",
-    latitude: 42.252471,
+    latitude:  42.252471,
     longitude: -84.415188
   },
   {
     name: "Andrew",
     location: "Hong Kong",
     latitude: 22.300882,
-    longitude: 114.154736
+    longitude:  114.154736
   },
   {
     name: "Anthony",
     location: "Las Vegas",
-    latitude: 36.169941,
+    latitude:  36.169941,
     longitude: -115.139832
   },
   {
@@ -646,7 +653,7 @@ var hacktobermap = [{
     latitude: "40.04",
     longitude: "-84.20"
   },
-  {
+ {
     name: "David L.",
     location: "Florida, USA",
     latitude: "27.65",
@@ -808,7 +815,7 @@ var hacktobermap = [{
     latitude: "37.10390",
     longitude: "-76.51199"
   },
-  {
+  { 
     name: "Sarah",
     location: "Ottawa",
     latitude: "45.41117",
@@ -857,9 +864,15 @@ var hacktobermap = [{
     longitude: -120
   },
   {
+    name: "db001",
+    location: "UK",
+    latitude: -0.759417,
+    longitude: 52.040623
+  },
+  {
     name: "Cristian",
     location: "CA, United States",
     latitude: 37,
     longitude: -122
-  }
+  },
 ];
