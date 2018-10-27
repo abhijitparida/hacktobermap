@@ -929,4 +929,10 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253 
   },
+   {
+    name: "leonardo",
+    location: "Italy",
+    latitude: 43.87,
+    longitude: 11.09 
+  },
 ];
