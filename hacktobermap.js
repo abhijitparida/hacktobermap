@@ -923,4 +923,10 @@ var hacktobermap = [
     latitude: 41.700371,
     longitude: -73.920967
   },
+  {
+    name: "Félix Desjardins",
+    location: "Montreal, Canada",
+    latitude: 45.501690,
+    longitude: -73.567253 
+  },
 ];
