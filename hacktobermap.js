@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Sergiy Gavel",
+    location: "Odessa, Ukraine",
+    latitude: 46.482525,
+    longitude: 30.723309 
+  }
 ];
