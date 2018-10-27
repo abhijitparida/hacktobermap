@@ -899,4 +899,10 @@ var hacktobermap = [
     latitude: 50.049683,
     longitude: 19.944544
   },
+  { 
+    name: "dchenmei",
+    location: "New York, United States",
+    latitude: 41.700371,
+    longitude: -73.920967
+  },
 ];
