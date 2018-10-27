@@ -1031,4 +1031,10 @@ var hacktobermap = [
     latitude: 42.48,
     longitude: -83.24
   },
+  {
+    name: "Dan Herrero",
+    location: "Pennsylvania, USA",
+    latitude: 41.203323,
+    longitude: -77.194527
+  },
 ];
