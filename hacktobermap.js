@@ -864,6 +864,12 @@ var hacktobermap = [
     longitude: -120
   },
   {
+    name: "Israel",
+    location: "Ambato, Ecuador",
+    latitude: -1.25,
+    longitude: -78.62
+  },
+  {
     name: "Andy Poon",
     location: "New York, United States",
     latitude: 40.7051,
