@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Sam Belmor",
+    location: "Guerrero, México",
+    latitude: 28.308960,
+    longitude: -100.378460
+  },
 ];
