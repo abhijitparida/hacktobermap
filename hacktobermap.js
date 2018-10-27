@@ -947,4 +947,10 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253
   },
+  {
+    name: "Sarah-Jeanne",
+    location: "Montreal, Canada",
+    latitude: 45.509060,
+    longitude: -73.553360
+  },
 ];
