@@ -904,5 +904,11 @@ var hacktobermap = [
     location: "DI Yogyakarta, Indonesia",
     latitude: -7.795860,
     longitude: 110.365430
-  }
+  },
+  { 
+    name: "dchenmei",
+    location: "New York, United States",
+    latitude: 41.700371,
+    longitude: -73.920967
+  },
 ];
