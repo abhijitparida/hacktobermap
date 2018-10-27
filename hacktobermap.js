@@ -1036,5 +1036,11 @@ var hacktobermap = [
     location: "Velikiy Dalnik, Odessa, Ukraine",
     latitude: 46.475416,
     longitude: 30.558302
-  }
+  },
+  {
+    name: "Dan Herrero",
+    location: "Pennsylvania, USA",
+    latitude: 41.203323,
+    longitude: -77.194527
+  },
 ];
