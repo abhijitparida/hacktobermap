@@ -897,7 +897,8 @@ var hacktobermap = [
     name: "db001",
     location: "UK",
     latitude: 52.040623,
-    longitude: -0.759417   },
+    longitude: -0.759417
+  },
   {
     name: "Cristian",
     location: "CA, United States",
