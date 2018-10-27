@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: 'Ryan Sperzel',
+    location: 'New Haven, CT',
+    latitude: 41.308273,
+    longitude: -72.927879,
+  }
+  {
     name: "Gabriel N. González",
     location: "Buenos Aires",
     latitude: -34.716,
