@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Vicki Hamm",
+    location: "Cleveland, OH, USA",
+    latitude: 41.50,
+    longitude: -81.69
+  },
+  {
     name: "Tomás",
     location: "Mendoza, Argentina",
     latitude: -32.889458,
