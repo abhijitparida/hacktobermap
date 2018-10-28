@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Tomás",
+    location: "Mendoza, Argentina",
+    latitude: -32.889458,
+    longitude: -68.845840
+  },
+  {
     name: "Ricardo González",
     location: "Monterrey, Mexico",
     latitude: 25.686613,
