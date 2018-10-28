@@ -1050,6 +1050,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "mskiser",
+    location: "United States",
+    latitude: 37.090240,
+    longitude: -95.712891
+  },
+  {
     name: "Phuru Shekar",
     location: "New Brunswick, NJ, USA",
     latitude: 40.486217,
