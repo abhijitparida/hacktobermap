@@ -1169,4 +1169,9 @@ var hacktobermap = [
     latitude: 50.356548,
     longitude: 7.599420
   },
-];
+  {
+    name: "s1r-J",
+    location: "Japan",
+    latitude: 35.4433153,
+    longitude: 139.6378834
+  },];
