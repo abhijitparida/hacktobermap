@@ -786,6 +786,12 @@ var hacktobermap = [
     longitude: -97.5164
   },
   {
+    name: "B. Decline",
+    location: "Nantes",
+    latitude: 47.218372,
+    longitude: -1.553621
+  },
+  {
     name: "Ivan Varela",
     location: "Blumenau, Brazil",
     latitude: "-26.924541",
@@ -1044,6 +1050,12 @@ var hacktobermap = [
     longitude: 30.558302
   },
   {
+    name: "Max Xu",
+    location: "Charlotte , North  ,USA",
+    latitude: 35.2271,
+    longitude: 80.8431
+  },
+  {
     name: "Dan Herrero",
     location: "Pennsylvania, USA",
     latitude: 41.203323,
@@ -1054,5 +1066,89 @@ var hacktobermap = [
     location: "Hanoi, Vietnam",
     latitude: 21.027763,
     longitude: 105.834160
+  },
+  {
+    name: "Faisal Rahman",
+    location: "Bandung, West Java, Indonesia",
+    latitude: -6.906074,
+    longitude: 107.609498
+  },
+  {
+    name: "Ahmed",
+    location: "Australia",
+    latitude: 25.2744,
+    longitude: 133.7751
+  },
+  {
+    name: "Greg Davidson",
+    location: "Salmon Arm, BC, Canada",
+    latitude: 50.700150,
+    longitude: -119.283910
+  },
+  {
+    name: "Yamit Villamil",
+    location: "Bogota, Colombia",
+    latitude: 4.710989,
+    longitude: -74.072090
+  },
+  {
+    name: "BenFes",
+    location: "Wellington, New Zealand",
+    latitude: -41.2925001,
+    longitude: 174.7833979
+  },
+  {
+    name: "Warley Franco",
+    location: "Rio de Janeiro, Rio de Janeiro, Brazil",
+    latitude: -22.906847,
+    longitude: -43.172897
+  },
+  {
+    name: "Vicki Hamm",
+    location: "Cleveland, OH, USA",
+    latitude: 41.50,
+    longitude: -81.69
+  },
+  {
+    name: "Tomás",
+    location: "Mendoza, Argentina",
+    latitude: -32.889458,
+    longitude: -68.845840
+  },
+  {
+    name: "Ricardo González",
+    location: "Monterrey, Mexico",
+    latitude: 25.686613,
+    longitude: -100.316116
+  },
+  {
+    name: "Sam Belmor",
+    location: "Guerrero, México",
+    latitude: 28.308960,
+    longitude: -100.378460
+  },
+  {
+    name: "Sergiy Gavel",
+    location: "Odessa, Ukraine",
+    latitude: 46.482525,
+    longitude: 30.723309 
+  },
+  {
+    name: "Piotr",
+    location: "Łódź, Poland",
+    latitude: 51.7500000,
+    longitude: 19.4666700
+  },
+  {
+    name: "mskiser",
+    location: "United States",
+    latitude: 37.090240,
+    longitude: -95.712891
+  },
+  {
+    name: "Phuru Shekar",
+    location: "New Brunswick, NJ, USA",
+    latitude: 40.486217,
+    longitude: -74.451820
   },
 ];
