@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Anh T Nguyen",
+    location: "Hanoi, Vietnam",
+    latitude: 21.027763,
+    longitude: 105.834160
+  },
 ];
