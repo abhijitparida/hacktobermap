@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Greg Davidson",
+    location: "Salmon Arm, BC, Canada",
+    latitude: 50.700150,
+    longitude: -119.283910
+  },
 ];
