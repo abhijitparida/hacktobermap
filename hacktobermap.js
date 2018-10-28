@@ -1055,4 +1055,10 @@ var hacktobermap = [
     latitude: 37.090240,
     longitude: -95.712891
   },
+  {
+    name: "Phuru Shekar",
+    location: "New Brunswick, NJ, USA",
+    latitude: 40.486217,
+    longitude: -74.451820
+  },
 ];
