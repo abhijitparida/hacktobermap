@@ -786,6 +786,12 @@ var hacktobermap = [
     longitude: -97.5164
   },
   {
+    name: "B. Decline",
+    location: "Nantes",
+    latitude: 47.218372,
+    longitude: -1.553621
+  },
+  {
     name: "Ivan Varela",
     location: "Blumenau, Brazil",
     latitude: "-26.924541",
