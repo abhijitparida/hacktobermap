@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Ahmed",
+    location: "Australia",
+    latitude: 25.2744,
+    longitude: 133.7751
+  },
+  {
     name: "Greg Davidson",
     location: "Salmon Arm, BC, Canada",
     latitude: 50.700150,
