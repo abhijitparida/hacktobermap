@@ -1187,4 +1187,10 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
+  {
+    name: "Stephen Sauceda",
+    location: "Seneca, SC, USA",
+    latitude: 34.685220,
+    longitude: -82.949830
+  },
 ];
