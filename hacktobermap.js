@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Joe Innes",
+    location: "Budapest, Hungary",
+    latitude: 47.490670,
+    longitude: 19.055636
+  }
 ];
