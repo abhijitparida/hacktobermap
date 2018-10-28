@@ -1062,6 +1062,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Anh T Nguyen",
+    location: "Hanoi, Vietnam",
+    latitude: 21.027763,
+    longitude: 105.834160
+  },
+  {
     name: "Faisal Rahman",
     location: "Bandung, West Java, Indonesia",
     latitude: -6.906074,
