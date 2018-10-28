@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Yamit Villamil",
+    location: "Bogota, Colombia",
+    latitude: 4.710989,
+    longitude: -74.072090
+  }
 ];
