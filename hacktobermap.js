@@ -1187,4 +1187,10 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
+    {
+        name: "AK",
+        location: "Wellington, New Zealand",
+        latitude: -41.2925001,
+        longitude: 174.7833979
+    },
 ];
