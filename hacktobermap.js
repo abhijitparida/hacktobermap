@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Greg Davidson",
+    location: "Salmon Arm, BC, Canada",
+    latitude: 50.700150,
+    longitude: -119.283910
+  },
+  {
     name: "Yamit Villamil",
     location: "Bogota, Colombia",
     latitude: 4.710989,
