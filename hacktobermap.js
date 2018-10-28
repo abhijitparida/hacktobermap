@@ -1175,4 +1175,10 @@ var hacktobermap = [
     latitude: 42,
     longitude: -71
   },
+  {
+    name: "Alejandro Di Leo",
+    location: "Buenos Aires, Argentina",
+    latitude: -34.757759,
+    longitude: -58.421570
+  },
 ];
