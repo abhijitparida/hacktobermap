@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "BenFes",
+    location: "Wellington, New Zealand",
+    latitude: -41.2925001,
+    longitude: 174.7833979
+  }
 ];
