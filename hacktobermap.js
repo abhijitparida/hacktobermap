@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Ricardo González",
+    location: "Monterrey, Mexico",
+    latitude: 25.686613,
+    longitude: -100.316116
+  },
+  {
     name: "Sam Belmor",
     location: "Guerrero, México",
     latitude: 28.308960,
