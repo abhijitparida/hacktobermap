@@ -1062,6 +1062,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Mohammad Waleed",
+    location: "Amman, Jordan",
+    latitude: 31.945368,
+    longitude: 35.928371
+  },
+  {
     name: "Joe Innes",
     location: "Budapest, Hungary",
     latitude: 47.490670,
