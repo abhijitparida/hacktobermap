@@ -1049,4 +1049,11 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+
+  {
+    name: "Vicki Hamm",
+    location: "Cleveland, OH, USA",
+    latitude: 41.50,
+    longitude: -81.69
+  },
 ];
