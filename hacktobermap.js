@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Sam Belmor",
+    location: "Guerrero, México",
+    latitude: 28.308960,
+    longitude: -100.378460
+  },
+  {
     name: "Sergiy Gavel",
     location: "Odessa, Ukraine",
     latitude: 46.482525,
