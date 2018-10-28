@@ -1054,5 +1054,23 @@ var hacktobermap = [
     location: "Odessa, Ukraine",
     latitude: 46.482525,
     longitude: 30.723309 
-  }
+  },
+  {
+    name: "Piotr",
+    location: "Łódź, Poland",
+    latitude: 51.7500000,
+    longitude: 19.4666700
+  },
+  {
+    name: "mskiser",
+    location: "United States",
+    latitude: 37.090240,
+    longitude: -95.712891
+  },
+  {
+    name: "Phuru Shekar",
+    location: "New Brunswick, NJ, USA",
+    latitude: 40.486217,
+    longitude: -74.451820
+  },
 ];
