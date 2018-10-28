@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Ahmed",
+    location: "Australia",
+    latitude: 25.2744,
+    longitude: 133.7751
+  },
 ];
