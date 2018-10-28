@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "BenFes",
+    location: "Wellington, New Zealand",
+    latitude: -41.2925001,
+    longitude: 174.7833979
+  },
+  {
     name: "Warley Franco",
     location: "Rio de Janeiro, Rio de Janeiro, Brazil",
     latitude: -22.906847,
