@@ -1181,4 +1181,10 @@ var hacktobermap = [
     latitude: -34.757759,
     longitude: -58.421570
   },
+  {
+    name: "Chris Gadzinski",
+    location: "Asheville, NC, USA",
+    latitude: 35.5951,
+    longitude: 82.5515
+  },
 ];
