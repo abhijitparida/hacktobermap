@@ -1187,4 +1187,10 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
+    {
+    name: 'Marcin',
+    location: 'Warsaw, Poland',
+    latitude: 52.185536,
+    longitude: 21.060847,
+  },
 ];
