@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Faisal Rahman",
+    location: "Bandung, West Java, Indonesia",
+    latitude: -6.906074,
+    longitude: 107.609498
+  },
 ];
