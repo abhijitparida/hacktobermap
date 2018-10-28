@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Warley Franco",
+    location: "Rio de Janeiro, Rio de Janeiro, Brazil",
+    latitude: -22.906847,
+    longitude: -43.172897
+  },
+  {
     name: "Vicki Hamm",
     location: "Cleveland, OH, USA",
     latitude: 41.50,
