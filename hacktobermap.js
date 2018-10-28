@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Mohammad Waleed",
+    location: "Amman, Jordan",
+    latitude: 31.945368,
+    longitude: 35.928371
+  },
 ];
