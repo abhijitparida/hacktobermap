@@ -1056,6 +1056,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Yamit Villamil",
+    location: "Bogota, Colombia",
+    latitude: 4.710989,
+    longitude: -74.072090
+  },
+  {
     name: "BenFes",
     location: "Wellington, New Zealand",
     latitude: -41.2925001,
