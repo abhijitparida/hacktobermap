@@ -1062,6 +1062,12 @@ var hacktobermap = [
     longitude: -77.194527
   },
   {
+    name: "Joe Innes",
+    location: "Budapest, Hungary",
+    latitude: 47.490670,
+    longitude: 19.055636
+  },
+  {
     name: "Anh T Nguyen",
     location: "Hanoi, Vietnam",
     latitude: 21.027763,
