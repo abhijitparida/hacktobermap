@@ -1050,6 +1050,12 @@ var hacktobermap = [
     longitude: 30.558302
   },
   {
+    name: "Max Xu",
+    location: "Charlotte , North  ,USA",
+    latitude: 35.2271,
+    longitude: 80.8431
+  },
+  {
     name: "Dan Herrero",
     location: "Pennsylvania, USA",
     latitude: 41.203323,
