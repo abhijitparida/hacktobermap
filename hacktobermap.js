@@ -1163,4 +1163,10 @@ var hacktobermap = [
     latitude: 40.486217,
     longitude: -74.451820
   },
+  {
+    name: "Batajus",
+    location: "Koblenz, Germany",
+    latitude: 50.356548,
+    longitude: 7.599420
+  },
 ];
