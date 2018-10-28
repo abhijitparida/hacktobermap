@@ -1187,4 +1187,10 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
+  {
+    name: "Mona",
+    location: "Hamburg, Germany",
+    latitude: 53.543,
+    longitude: 9.933
+  },
 ];
