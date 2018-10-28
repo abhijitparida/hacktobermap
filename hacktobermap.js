@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Warley Franco",
+    location: "Rio de Janeiro, Rio de Janeiro, Brazil",
+    latitude: -22.906847,
+    longitude: -43.172897
+  },
 ];
