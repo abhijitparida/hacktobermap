@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: 'Harrison Marley',
+    location: 'Perth, Australia',
+    latitude: -31.73088,
+    longitude: 115.719412
+  },
+  {
     name: 'Akarsh Singh',
     location: 'Tamil Nadu, India',
     latitude: 11.127123,
