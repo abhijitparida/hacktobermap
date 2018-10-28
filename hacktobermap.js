@@ -1143,7 +1143,7 @@ var hacktobermap = [
     name: "Sergiy Gavel",
     location: "Odessa, Ukraine",
     latitude: 46.482525,
-    longitude: 30.723309 
+    longitude: 30.723309
   },
   {
     name: "Piotr",
@@ -1168,5 +1168,11 @@ var hacktobermap = [
     location: "Koblenz, Germany",
     latitude: 50.356548,
     longitude: 7.599420
+  },
+  {
+    name: "Kritika",
+    location: "Boston",
+    latitude: 42,
+    longitude: -71
   },
 ];
