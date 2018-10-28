@@ -1049,4 +1049,10 @@ var hacktobermap = [
     latitude: 41.203323,
     longitude: -77.194527
   },
+  {
+    name: "Tomás",
+    location: "Mendoza, Argentina",
+    latitude: -32.889458,
+    longitude: -68.845840
+  },
 ];
