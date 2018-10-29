@@ -1200,6 +1200,12 @@ var hacktobermap = [
     longitude: -82.552738
   },
   {
+    name: "Mona",
+    location: "Hamburg, Germany",
+    latitude: 53.543,
+    longitude: 9.933
+  },
+  {
     name: "Stephen Sauceda",
     location: "Seneca, SC, USA",
     latitude: 34.685220,
