@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "Cadichon",
+    location: "Epitech Nantes",
+    latitude: 47.2104851,
+    longitude: -1.56675127492582
+  }
 ];
