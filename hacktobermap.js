@@ -1187,4 +1187,10 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
+  {
+    name: 'ISchiavon',
+    location: 'Toronto, Canada',
+    latitude: 43.653225,
+    longitude: -79.383186,
+  }
 ];
