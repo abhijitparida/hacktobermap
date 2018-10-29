@@ -1170,6 +1170,12 @@ var hacktobermap = [
     longitude: 7.599420
   },
   {
+    name: "s1r-J",
+    location: "Japan",
+    latitude: 35.4433153,
+    longitude: 139.6378834
+  },
+  {
     name: "Kritika",
     location: "Boston",
     latitude: 42,
@@ -1192,5 +1198,17 @@ var hacktobermap = [
     location: "Seneca, SC, USA",
     latitude: 34.685220,
     longitude: -82.949830
+  },
+  {
+    name: 'Marcin',
+    location: 'Warsaw, Poland',
+    latitude: 52.185536,
+    longitude: 21.060847,
+  },
+  {
+    name: "SisterRuckus | Samantha",
+    location: "Detroit, MI, USA",
+    latitude: 42.332940,
+    longitude: -83.047840
   },
 ];
