@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "Yuanlin",
+    location: "Detroit, MI, USA",
+    latitude: 42.331429,
+    longitude: -83.045753
+  }
 ];
