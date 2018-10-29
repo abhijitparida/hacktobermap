@@ -1206,6 +1206,12 @@ var hacktobermap = [
     longitude: -58.421570
   },
   {
+    name: "James Bentley",
+    location: "Philadelphia, PA, USA",
+    latitude: 39.9633,
+    longitude: -75.1428
+  },
+  {
     name: "Chris Gadzinski",
     location: "Asheville, NC, USA",
     latitude: 35.570977,
