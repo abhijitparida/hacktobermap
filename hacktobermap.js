@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "Travis",
+    location: "Saint Louis",
+    latitude: 38.627003,
+    longitude: -90.199402
+  }
 ];
