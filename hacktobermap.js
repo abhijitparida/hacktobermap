@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "Jadok",
+    location: "Nantes, France",
+    latitude: 47.218372,
+    longitude: -1.553621
+  },
 ];
