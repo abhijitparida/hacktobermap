@@ -1187,10 +1187,16 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
-    {
+  {
     name: 'Marcin',
     location: 'Warsaw, Poland',
     latitude: 52.185536,
     longitude: 21.060847,
+  },
+  {
+    name: "SisterRuckus | Samantha",
+    location: "Detroit, MI, USA",
+    latitude: 42.332940,
+    longitude: -83.047840
   },
 ];
