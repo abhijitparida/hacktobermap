@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "J Bowler | jimuk07",
+    location: "Birmingham, UK",
+    latitude: 52.48,
+    longitude: -1.89
+  }
 ];
