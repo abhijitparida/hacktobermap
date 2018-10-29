@@ -1271,4 +1271,10 @@ var hacktobermap = [
     latitude: 12.937582,
     longitude: 77.619185
   },
+  {
+    name: "Vishal",
+    location: "Bhubaneswar, Odisha",
+    latitude: 20.244760,
+    longitude: 85.838470
+  },
 ];
