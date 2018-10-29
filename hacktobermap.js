@@ -848,8 +848,8 @@ var hacktobermap = [
   {
     name: "Zuhra Sofyan",
     location: "Java, Indonesia",
-    latitude: "-12.399024",
-    longitude: "111.386748"
+    latitude: "-6.867350",
+    longitude: "107.604332"
   },
   {
     name: "Daniel Cerverizzo",
@@ -986,8 +986,8 @@ var hacktobermap = [
   {
     name: "glamvian hermawan",
     location: "Surabaya, Indonesia",
-    latitude: 33.401690,
-    longitude: -73.567253
+    latitude: -7.257472,
+    longitude: 112.752090
   },
   {
     name: "Sarah-Jeanne",
@@ -1069,9 +1069,9 @@ var hacktobermap = [
   },
   {
     name: "Max Xu",
-    location: "Charlotte , North  ,USA",
+    location: "Charlotte, North, USA",
     latitude: 35.2271,
-    longitude: 80.8431
+    longitude: -80.8431
   },
   {
     name: "Dan Herrero",
@@ -1106,7 +1106,7 @@ var hacktobermap = [
   {
     name: "Ahmed",
     location: "Australia",
-    latitude: 25.2744,
+    latitude: -25.2744,
     longitude: 133.7751
   },
   {
