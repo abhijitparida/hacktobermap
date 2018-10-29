@@ -1218,6 +1218,12 @@ var hacktobermap = [
     longitude: -82.552738
   },
   {
+    name: 'ISchiavon',
+    location: 'Toronto, Canada',
+    latitude: 43.653225,
+    longitude: -79.383186,
+  },
+  {
     name: "Eduardo Enriquez",
     location: "Federal District, Mexico City",
     latitude: 19.432608,
