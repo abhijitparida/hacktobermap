@@ -1187,4 +1187,10 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
+  {
+    name: "Numerical Analysis",
+    location: "Buenos Aires",
+    latitude: -34.716,
+    longitude: -58.297,
+  },
 ];
