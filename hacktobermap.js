@@ -1257,12 +1257,18 @@ var hacktobermap = [
     name: 'Marcin',
     location: 'Warsaw, Poland',
     latitude: 52.185536,
-    longitude: 21.060847,
+    longitude: 21.060847
   },
   {
     name: "SisterRuckus | Samantha",
     location: "Detroit, MI, USA",
     latitude: 42.332940,
     longitude: -83.047840
+  },
+  {
+    name: "Shark",
+    location: "Koramangala, Bangalore",
+    latitude: 12.937582,
+    longitude: 77.619185
   },
 ];
