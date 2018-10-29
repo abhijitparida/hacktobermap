@@ -1206,6 +1206,12 @@ var hacktobermap = [
     longitude: -82.552738
   },
   {
+    name: "AK",
+    location: "Wellington, New Zealand",
+    latitude: -41.2925001,
+    longitude: 174.7833979
+  },
+  {
     name: "Mona",
     location: "Hamburg, Germany",
     latitude: 53.543,
