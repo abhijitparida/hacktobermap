@@ -1194,6 +1194,12 @@ var hacktobermap = [
     longitude: -82.552738
   },
   {
+    name: "Stephen Sauceda",
+    location: "Seneca, SC, USA",
+    latitude: 34.685220,
+    longitude: -82.949830
+  },
+  {
     name: 'Marcin',
     location: 'Warsaw, Poland',
     latitude: 52.185536,
