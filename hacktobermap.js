@@ -1218,6 +1218,12 @@ var hacktobermap = [
     longitude: -82.552738
   },
   {
+    name: "Numerical Analysis",
+    location: "Buenos Aires",
+    latitude: -34.716,
+    longitude: -58.297,
+  },
+  {
     name: 'ISchiavon',
     location: 'Toronto, Canada',
     latitude: 43.653225,
