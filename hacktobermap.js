@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: 'Harrison Marley',
+    location: 'Perth, Australia',
+    latitude: -31.73088,
+    longitude: 115.719412
+  },
+  {
     name: 'Akarsh Singh',
     location: 'Tamil Nadu, India',
     latitude: 11.127123,
@@ -726,6 +732,12 @@ var hacktobermap = [
     longitude: -46.6815
   },
   {
+    name: "Tasha",
+    location: "Maryland, USA",
+    latitude: 39.045753,
+    longitude: -76.641273
+  },
+  {
     name: "Eric Phan",
     location: "San Diego, CA, USA",
     latitude: "32.715736",
@@ -1170,6 +1182,12 @@ var hacktobermap = [
     longitude: 7.599420
   },
   {
+    name: "s1r-J",
+    location: "Japan",
+    latitude: 35.4433153,
+    longitude: 139.6378834
+  },
+  {
     name: "Kritika",
     location: "Boston",
     latitude: 42,
@@ -1187,10 +1205,34 @@ var hacktobermap = [
     latitude: 35.570977,
     longitude: -82.552738
   },
-    {
-        name: "AK",
-        location: "Wellington, New Zealand",
-        latitude: -41.2925001,
-        longitude: 174.7833979
-    },
+  {
+    name: "AK",
+    location: "Wellington, New Zealand",
+    latitude: -41.2925001,
+    longitude: 174.7833979
+  },
+  {
+    name: "Mona",
+    location: "Hamburg, Germany",
+    latitude: 53.543,
+    longitude: 9.933
+  },
+  {
+    name: "Stephen Sauceda",
+    location: "Seneca, SC, USA",
+    latitude: 34.685220,
+    longitude: -82.949830
+  },
+  {
+    name: 'Marcin',
+    location: 'Warsaw, Poland',
+    latitude: 52.185536,
+    longitude: 21.060847,
+  },
+  {
+    name: "SisterRuckus | Samantha",
+    location: "Detroit, MI, USA",
+    latitude: 42.332940,
+    longitude: -83.047840
+  },
 ];
