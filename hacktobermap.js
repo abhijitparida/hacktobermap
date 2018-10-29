@@ -1206,6 +1206,12 @@ var hacktobermap = [
     longitude: -82.552738
   },
   {
+    name: "Eduardo Enriquez",
+    location: "Federal District, Mexico City",
+    latitude: 19.432608,
+    longitude: -99.133209
+  },
+  {
     name: "AK",
     location: "Wellington, New Zealand",
     latitude: -41.2925001,
