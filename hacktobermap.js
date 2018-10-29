@@ -1170,6 +1170,12 @@ var hacktobermap = [
     longitude: 7.599420
   },
   {
+    name: "s1r-J",
+    location: "Japan",
+    latitude: 35.4433153,
+    longitude: 139.6378834
+  },
+  {
     name: "Kritika",
     location: "Boston",
     latitude: 42,
