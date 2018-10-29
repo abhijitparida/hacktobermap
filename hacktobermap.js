@@ -1143,7 +1143,7 @@ var hacktobermap = [
     name: "Sergiy Gavel",
     location: "Odessa, Ukraine",
     latitude: 46.482525,
-    longitude: 30.723309 
+    longitude: 30.723309
   },
   {
     name: "Piotr",
@@ -1174,4 +1174,35 @@ var hacktobermap = [
     location: "Japan",
     latitude: 35.4433153,
     longitude: 139.6378834
-  },];
+  },
+  {
+    name: "Kritika",
+    location: "Boston",
+    latitude: 42,
+    longitude: -71
+  },
+  {
+    name: "Alejandro Di Leo",
+    location: "Buenos Aires, Argentina",
+    latitude: -34.757759,
+    longitude: -58.421570
+  },
+  {
+    name: "Chris Gadzinski",
+    location: "Asheville, NC, USA",
+    latitude: 35.570977,
+    longitude: -82.552738
+  },
+  {
+    name: 'Marcin',
+    location: 'Warsaw, Poland',
+    latitude: 52.185536,
+    longitude: 21.060847,
+  },
+  {
+    name: "SisterRuckus | Samantha",
+    location: "Detroit, MI, USA",
+    latitude: 42.332940,
+    longitude: -83.047840
+  },
+];
