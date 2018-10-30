@@ -1284,16 +1284,22 @@ var hacktobermap = [
     longitude: 85.838470
   },
   {
+    name: "Rajinikanth",
+    location: "Visakhapatnam, Andhra Pradesh",
+    latitude: 17.720843,
+    longitude: 83.290131
+  },
+  {
     name: "JC",
     location: "Peru",
     latitude: 20.60,
     longitude: -102.22 
   },
   {	
-  	name: "Brandon P",
-  	location: "Taunton, UK",
-  	latitude: 41.901648,
-  	longitude: -71.092799
+    name: "Brandon P",
+    location: "Taunton, UK",
+    latitude: 41.901648,
+    longitude: -71.092799
   },
   {
     name: "Adam Luczak",
