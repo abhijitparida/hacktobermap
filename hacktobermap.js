@@ -1181,4 +1181,10 @@ var hacktobermap = [
     latitude: -34.757759,
     longitude: -58.421570
   },
+  {
+    name: "Helkat",
+    location: "Texas",
+    latitude: 31.3915,
+    longitude: 99.1707
+  },
 ];
