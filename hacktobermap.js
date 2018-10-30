@@ -1349,4 +1349,10 @@ var hacktobermap = [
     latitude: 55.0,
     longitude: 82.93
   },
+  {
+    name: "Jerrod M.",
+    location: "Columbia, SC",
+    latitude: 34.000710,
+    longitude: -81.034813
+  },
 ];
