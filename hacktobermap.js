@@ -1284,6 +1284,12 @@ var hacktobermap = [
     longitude: 85.838470
   },
   {
+    name: "Adam Luczak",
+    location: "Wroclaw, Poland",
+    latitude: 51.107883,
+    longitude: 17.038538
+  },
+  {
     name: "J Bowler | jimuk07",
     location: "Birmingham, UK",
     latitude: 52.48,
