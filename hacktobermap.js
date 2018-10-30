@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Steven",
+    location: "Seattle, WA, USA",
+    latitude: 47.606,
+    longitude: -122.335
+  }
 ];
