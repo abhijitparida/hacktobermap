@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "JC",
+    location: "Peru",
+    latitude: 20.60,
+    longitude: -102.22 
+  },
 ];
