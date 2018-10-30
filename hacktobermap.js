@@ -1279,7 +1279,7 @@ var hacktobermap = [
   },
   {
     name: "Rajinikanth",
-    location: "Visakhapatnam, India",
+    location: "Visakhapatnam, Andhra Pradesh",
     latitude: 17.720843,
     longitude: 83.290131
   },
