@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "ozlop",
+    location: "Milpitas, CA",
+    latitude: 37.428272,
+    longitude: -121.906624
+  }
 ];
