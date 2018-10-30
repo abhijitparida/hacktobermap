@@ -1278,9 +1278,15 @@ var hacktobermap = [
     longitude: 85.838470
   },
   {
+    name: "Travis",
+    location: "Saint Louis",
+    latitude: 38.627003,
+    longitude: -90.199402
+  },
+  {
     name: "Yuanlin",
     location: "Detroit, MI, USA",
     latitude: 42.331429,
     longitude: -83.045753
-  }
+  },
 ];
