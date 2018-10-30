@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "Gurpreet Singh Hanjra",
+    location: "Berlin, Germany",
+    latitude: 52.504475,
+    longitude: 13.336672
+  },
 ];
