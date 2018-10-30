@@ -2,7 +2,7 @@ var hacktobermap = [
   {
     name: 'Clay Jensen-Reimann',
     location: 'Champaign, IL',
-    latitude: 40.11, 
+    latitude: 40.11,
     longitude: -88.24
   },
   {
@@ -503,7 +503,7 @@ var hacktobermap = [
     latitude: -25.784497,
     longitude: 28.358030
   },
- {
+  {
     name: "Fabio Loreggian",
     location: "South Africa",
     latitude: -26.175132,
@@ -554,7 +554,7 @@ var hacktobermap = [
   {
     name: "Aletaschner",
     location: "Brusque, SC - Brazil",
-    latitude:  -27.1134,
+    latitude: -27.1134,
     longitude: -48.9039
   },
   {
@@ -566,43 +566,43 @@ var hacktobermap = [
   {
     name: "Hazim",
     location: "Kuala Lumpur, Malaysia",
-    latitude:  3.1343385,
+    latitude: 3.1343385,
     longitude: 101.6841484
   },
   {
     name: "Dee",
     location: "Scottsdale, Arizona",
-    latitude:  33.4942,
+    latitude: 33.4942,
     longitude: -111.9261
   },
   {
     name: "Ben",
     location: "York",
-    latitude:  53.9585914,
+    latitude: 53.9585914,
     longitude: -1.1156966
   },
   {
     name: "Stell1c",
     location: "Ghaziabad, India",
-    latitude:  28.6758,
+    latitude: 28.6758,
     longitude: 77.5022
   },
   {
     name: "Evan",
     location: "Michigan",
-    latitude:  42.252471,
+    latitude: 42.252471,
     longitude: -84.415188
   },
   {
     name: "Andrew",
     location: "Hong Kong",
     latitude: 22.300882,
-    longitude:  114.154736
+    longitude: 114.154736
   },
   {
     name: "Anthony",
     location: "Las Vegas",
-    latitude:  36.169941,
+    latitude: 36.169941,
     longitude: -115.139832
   },
   {
@@ -695,7 +695,7 @@ var hacktobermap = [
     latitude: "40.04",
     longitude: "-84.20"
   },
- {
+  {
     name: "David L.",
     location: "Florida, USA",
     latitude: "27.65",
@@ -1299,9 +1299,9 @@ var hacktobermap = [
     name: "JC",
     location: "Peru",
     latitude: 20.60,
-    longitude: -102.22 
+    longitude: -102.22
   },
-  {	
+  {
     name: "Brandon P",
     location: "Taunton, UK",
     latitude: 41.901648,
@@ -1342,5 +1342,11 @@ var hacktobermap = [
     location: "Detroit, MI, USA",
     latitude: 42.331429,
     longitude: -83.045753
+  },
+  {
+    name: "Adam",
+    location: "Novosibirsk, Russia",
+    latitude: 55.0,
+    longitude: 82.93
   },
 ];
