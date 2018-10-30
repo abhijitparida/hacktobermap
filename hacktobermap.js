@@ -1355,4 +1355,10 @@ var hacktobermap = [
     latitude: 34.000710,
     longitude: -81.034813
   },
+  {
+    name: "Kristians",
+    location: "Indianapolis, USA",
+    latitude: 39.709739,
+    longitude: -86.1372963
+  },
 ];
