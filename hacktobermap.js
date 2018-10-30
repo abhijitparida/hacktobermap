@@ -164,7 +164,7 @@ var hacktobermap = [
   {
     name: "Hugo",
     location: "France",
-    latitude: 47,23,
+    latitude: 47.23,
     longitude: -1.63
   },
   {
