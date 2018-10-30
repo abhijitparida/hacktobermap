@@ -162,6 +162,12 @@ var hacktobermap = [
     longitude: -46.64
   },
   {
+    name: "Hugo",
+    location: "France",
+    latitude: 47,23,
+    longitude: -1.63
+  },
+  {
     name: "Ygor",
     location: "São Paulo",
     latitude: -23.55,
@@ -1282,5 +1288,35 @@ var hacktobermap = [
     location: "Wroclaw, Poland",
     latitude: 51.107883,
     longitude: 17.038538
-  }
+  },
+  {
+    name: "J Bowler | jimuk07",
+    location: "Birmingham, UK",
+    latitude: 52.48,
+    longitude: -1.89
+  },
+  {
+    name: "Cadichon",
+    location: "Epitech Nantes",
+    latitude: 47.2104851,
+    longitude: -1.56675127492582
+  },
+  {
+    name: "Jadok",
+    location: "Nantes, France",
+    latitude: 47.218372,
+    longitude: -1.553621
+  },
+  {
+    name: "Travis",
+    location: "Saint Louis",
+    latitude: 38.627003,
+    longitude: -90.199402
+  },
+  {
+    name: "Yuanlin",
+    location: "Detroit, MI, USA",
+    latitude: 42.331429,
+    longitude: -83.045753
+  },
 ];
