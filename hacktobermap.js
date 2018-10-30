@@ -1277,4 +1277,10 @@ var hacktobermap = [
     latitude: 20.244760,
     longitude: 85.838470
   },
+  {
+    name: "Rajinikanth",
+    location: "Visakhapatnam, India",
+    latitude: 17.720843,
+    longitude: 83.290131
+  },
 ];
