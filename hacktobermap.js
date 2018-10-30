@@ -1278,6 +1278,12 @@ var hacktobermap = [
     longitude: 85.838470
   },
   {
+    name: "Jadok",
+    location: "Nantes, France",
+    latitude: 47.218372,
+    longitude: -1.553621
+  },
+  {
     name: "Travis",
     location: "Saint Louis",
     latitude: 38.627003,
