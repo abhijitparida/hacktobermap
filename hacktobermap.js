@@ -1360,5 +1360,11 @@ var hacktobermap = [
     location: "Indianapolis, USA",
     latitude: 39.709739,
     longitude: -86.1372963
-  },
+  },{
+    name: "Joshua",
+    location: "Indianapolis, USA",
+    latitude: 39.709731,
+    longitude: -86.1372960
+  }
+
 ];
