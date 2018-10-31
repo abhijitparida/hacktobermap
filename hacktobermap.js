@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Ken Doman"
+    location: "Wheaton, IL, USA",
+    latitude: 41.866138,
+    longitude: -88.107010
+  }
 ];
