@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+    {
+    name: "FrikanRw",
+    location: "Pretoria",
+    latitude: -25.789392,
+    longitude: 28.341563 
+  }.
 ];
