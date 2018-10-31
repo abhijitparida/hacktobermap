@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Steven Syrek",
+    location: "Berlin, Germany",
+    latitude: 52.52437,
+    longitude: 13.41053
+  }
 ];
