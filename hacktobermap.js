@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Kanthrajs",
+    location: "Bangalore, India",
+    latitude: 12.971599,
+    longitude: 77.594566
+  },
 ];
