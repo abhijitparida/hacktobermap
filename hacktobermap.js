@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+   {
+    name: "Noble Sword",
+    location: "Hyderabad, India",
+    latitude: 17.385044,
+    longitude: 78.486671
+  },
 ];
