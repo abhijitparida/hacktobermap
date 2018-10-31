@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Casey",
+    location: "California, USA",
+    latitude: 36.7783,
+    longitude: 119.4179
+  },
 ];
