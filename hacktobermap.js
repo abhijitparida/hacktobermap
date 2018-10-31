@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "C. Janzen",
+    location: "Wichita, KS, USA",
+    latitude: 37.6871761,
+    longitude: -97.330053
+  },
 ];
