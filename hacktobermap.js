@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Niccolò Izz0",
+    location: "Milan, Italy",
+    latitude: 45.4628328,
+    longitude: 9.1076927
+  },
 ];
