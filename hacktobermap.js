@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Callan",
+    location: "Toulouse, FRA",
+    latitude:  43.6047,
+    longitude: 1.4442
+  },
 ];
