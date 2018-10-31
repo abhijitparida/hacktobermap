@@ -1361,4 +1361,11 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  
+  {
+    name: "Ekjot",
+    location: "Chandigarh",
+    latitude: 30.7334,
+    longitude: 76.7791
+  },
 ];
