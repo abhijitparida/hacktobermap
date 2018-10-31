@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+   {
+    name: "Rhonda",
+    location: "Spartanburg, SC",
+    latitude: 34.918,
+    longitude: -82.095
+  },
 ];
