@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Brandon Mellus",
+    location: "East Lansing, Michigan, USA",
+    latitude: 42.746880,
+    longitude: -84.483704
+  }
 ];
