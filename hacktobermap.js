@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Vanoux",
+    location: "Saint Gaudens, France",
+    latitude: 43.106895,
+    longitude: 0.723763
+  },
 ];
