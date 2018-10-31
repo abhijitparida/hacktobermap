@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Satyabrat",
+    location: "Bhubaneswar, Odisha, India",
+    latitude: 19.800440,
+    longitude: 85.826752
+  },
 ];
