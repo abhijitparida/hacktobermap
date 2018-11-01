@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+    {
+    name: "Pranava Dhar",
+    location: "Noida, India",
+    latitude: 28.535,
+    longitude: 77.391 
+  }
 ];
