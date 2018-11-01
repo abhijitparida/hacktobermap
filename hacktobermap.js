@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+   {
+    name: "Matty",
+    location: "California, USA",
+    latitude: 36.778259,
+    longitude: -119.417931
+  },
 ];
