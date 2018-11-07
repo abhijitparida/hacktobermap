@@ -1361,4 +1361,10 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
+  {
+    name: "Mary",
+    location: "Georgia, United States",
+    latitude: 32.165623,
+    longitude: -82.900078 
+  },
 ];
