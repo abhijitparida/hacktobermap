@@ -1366,5 +1366,11 @@ var hacktobermap = [
     location: "Atlanta, GA, USA",
     latitude: 33.748997,
     longitude: -84.387985
-  }
+  },
+  {
+    name: "ozlop",
+    location: "Milpitas, CA",
+    latitude: 37.428272,
+    longitude: -121.906624
+  },
 ];
