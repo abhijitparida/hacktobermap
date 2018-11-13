@@ -1374,6 +1374,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Joshua",
+    location: "Indianapolis, USA",
+    latitude: 39.709731,
+    longitude: -86.1372960
+  },
+  {
     name: "Brandon",
     location: "Las Vegas, NV, USA",
     latitude: 36.169941,
