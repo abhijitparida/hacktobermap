@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "!tach!",
+    location: "Bangalore",
+    latitude: 12.971599,
+    longitude: 77.594566 
+  },
+  {
     name: "Kanthrajs",
     location: "Bangalore, India",
     latitude: 12.971599,
