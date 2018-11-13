@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "C. Janzen",
+    location: "Wichita, KS, USA",
+    latitude: 37.6871761,
+    longitude: -97.330053
+  },
+  {
     name: "Steven Syrek",
     location: "Berlin, Germany",
     latitude: 52.52437,
