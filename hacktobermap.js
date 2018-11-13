@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: -88.24
   },
   {
+    name: "Stevens Craig",
+    location: "Montana, USA",
+    latitude: 110.3626,
+    longitude: 46.8797 
+  },
+  {
     name: 'Harrison Marley',
     location: 'Perth, Australia',
     latitude: -31.73088,
