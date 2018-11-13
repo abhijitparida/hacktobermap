@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "FrikanRw",
+    location: "Pretoria",
+    latitude: -25.789392,
+    longitude: 28.341563 
+  },
+  {
     name: "Nick",
     location: "Chicago, IL",
     latitude: 41.878113,
