@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Ekjot",
+    location: "Chandigarh",
+    latitude: 30.7334,
+    longitude: 76.7791
+  },
+  {
     name: "Casey",
     location: "California, USA",
     latitude: 36.7783,
