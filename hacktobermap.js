@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Pseudogenesis",
+    location: "Fullerton, California, USA",
+    latitude: 33.870350,
+    longitude: -117.924300 
+  },
+  {
     name: "Matty",
     location: "California, USA",
     latitude: 36.778259,
