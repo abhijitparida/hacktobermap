@@ -1,5 +1,17 @@
 var hacktobermap = [
   {
+    name: 'Clay Jensen-Reimann',
+    location: 'Champaign, IL',
+    latitude: 40.11,
+    longitude: -88.24
+  },
+  {
+    name: 'Harrison Marley',
+    location: 'Perth, Australia',
+    latitude: -31.73088,
+    longitude: 115.719412
+  },
+  {
     name: 'Akarsh Singh',
     location: 'Tamil Nadu, India',
     latitude: 11.127123,
@@ -148,6 +160,12 @@ var hacktobermap = [
     location: "São Paulo",
     latitude: -23.56,
     longitude: -46.64
+  },
+  {
+    name: "Hugo",
+    location: "France",
+    latitude: 47.23,
+    longitude: -1.63
   },
   {
     name: "Ygor",
@@ -485,7 +503,7 @@ var hacktobermap = [
     latitude: -25.784497,
     longitude: 28.358030
   },
- {
+  {
     name: "Fabio Loreggian",
     location: "South Africa",
     latitude: -26.175132,
@@ -536,7 +554,7 @@ var hacktobermap = [
   {
     name: "Aletaschner",
     location: "Brusque, SC - Brazil",
-    latitude:  -27.1134,
+    latitude: -27.1134,
     longitude: -48.9039
   },
   {
@@ -548,43 +566,43 @@ var hacktobermap = [
   {
     name: "Hazim",
     location: "Kuala Lumpur, Malaysia",
-    latitude:  3.1343385,
+    latitude: 3.1343385,
     longitude: 101.6841484
   },
   {
     name: "Dee",
     location: "Scottsdale, Arizona",
-    latitude:  33.4942,
+    latitude: 33.4942,
     longitude: -111.9261
   },
   {
     name: "Ben",
     location: "York",
-    latitude:  53.9585914,
+    latitude: 53.9585914,
     longitude: -1.1156966
   },
   {
     name: "Stell1c",
     location: "Ghaziabad, India",
-    latitude:  28.6758,
+    latitude: 28.6758,
     longitude: 77.5022
   },
   {
     name: "Evan",
     location: "Michigan",
-    latitude:  42.252471,
+    latitude: 42.252471,
     longitude: -84.415188
   },
   {
     name: "Andrew",
     location: "Hong Kong",
     latitude: 22.300882,
-    longitude:  114.154736
+    longitude: 114.154736
   },
   {
     name: "Anthony",
     location: "Las Vegas",
-    latitude:  36.169941,
+    latitude: 36.169941,
     longitude: -115.139832
   },
   {
@@ -677,7 +695,7 @@ var hacktobermap = [
     latitude: "40.04",
     longitude: "-84.20"
   },
- {
+  {
     name: "David L.",
     location: "Florida, USA",
     latitude: "27.65",
@@ -724,6 +742,12 @@ var hacktobermap = [
     location: "Sao Paulo, Brazil",
     latitude: -23.5455,
     longitude: -46.6815
+  },
+  {
+    name: "Tasha",
+    location: "Maryland, USA",
+    latitude: 39.045753,
+    longitude: -76.641273
   },
   {
     name: "Eric Phan",
@@ -830,8 +854,8 @@ var hacktobermap = [
   {
     name: "Zuhra Sofyan",
     location: "Java, Indonesia",
-    latitude: "-12.399024",
-    longitude: "111.386748"
+    latitude: "-6.867350",
+    longitude: "107.604332"
   },
   {
     name: "Daniel Cerverizzo",
@@ -968,8 +992,8 @@ var hacktobermap = [
   {
     name: "glamvian hermawan",
     location: "Surabaya, Indonesia",
-    latitude: 33.401690,
-    longitude: -73.567253
+    latitude: -7.257472,
+    longitude: 112.752090
   },
   {
     name: "Sarah-Jeanne",
@@ -1051,9 +1075,9 @@ var hacktobermap = [
   },
   {
     name: "Max Xu",
-    location: "Charlotte , North  ,USA",
+    location: "Charlotte, North, USA",
     latitude: 35.2271,
-    longitude: 80.8431
+    longitude: -80.8431
   },
   {
     name: "Dan Herrero",
@@ -1088,7 +1112,7 @@ var hacktobermap = [
   {
     name: "Ahmed",
     location: "Australia",
-    latitude: 25.2744,
+    latitude: -25.2744,
     longitude: 133.7751
   },
   {
@@ -1170,6 +1194,12 @@ var hacktobermap = [
     longitude: 7.599420
   },
   {
+    name: "s1r-J",
+    location: "Japan",
+    latitude: 35.4433153,
+    longitude: 139.6378834
+  },
+  {
     name: "Kritika",
     location: "Boston",
     latitude: 42,
@@ -1186,5 +1216,173 @@ var hacktobermap = [
     location: "Texas",
     latitude: 31.3915,
     longitude: 99.1707
+  },
+  {
+    name: "James Bentley",
+    location: "Philadelphia, PA, USA",
+    latitude: 39.9633,
+    longitude: -75.1428
+  },
+  {
+    name: "Chris Gadzinski",
+    location: "Asheville, NC, USA",
+    latitude: 35.570977,
+    longitude: -82.552738
+  },
+  {
+    name: "Numerical Analysis",
+    location: "Buenos Aires",
+    latitude: -34.716,
+    longitude: -58.297,
+  },
+  {
+    name: 'ISchiavon',
+    location: 'Toronto, Canada',
+    latitude: 43.653225,
+    longitude: -79.383186,
+  },
+  {
+    name: "Eduardo Enriquez",
+    location: "Federal District, Mexico City",
+    latitude: 19.432608,
+    longitude: -99.133209
+  },
+  {
+    name: "AK",
+    location: "Wellington, New Zealand",
+    latitude: -41.2925001,
+    longitude: 174.7833979
+  },
+  {
+    name: "Mona",
+    location: "Hamburg, Germany",
+    latitude: 53.543,
+    longitude: 9.933
+  },
+  {
+    name: "Stephen Sauceda",
+    location: "Seneca, SC, USA",
+    latitude: 34.685220,
+    longitude: -82.949830
+  },
+  {
+    name: 'Marcin',
+    location: 'Warsaw, Poland',
+    latitude: 52.185536,
+    longitude: 21.060847
+  },
+  {
+    name: "SisterRuckus | Samantha",
+    location: "Detroit, MI, USA",
+    latitude: 42.332940,
+    longitude: -83.047840
+  },
+  {
+    name: "Shark",
+    location: "Koramangala, Bangalore",
+    latitude: 12.937582,
+    longitude: 77.619185
+  },
+  {
+    name: "Vishal",
+    location: "Bhubaneswar, Odisha",
+    latitude: 20.244760,
+    longitude: 85.838470
+  },
+  {
+    name: "Gurpreet Singh Hanjra",
+    location: "Berlin, Germany",
+    latitude: 52.504475,
+    longitude: 13.336672
+  },
+  {
+    name: "Rajinikanth",
+    location: "Visakhapatnam, Andhra Pradesh",
+    latitude: 17.720843,
+    longitude: 83.290131
+  },
+  {
+    name: "JC",
+    location: "Peru",
+    latitude: 20.60,
+    longitude: -102.22
+  },
+  {
+    name: "Brandon P",
+    location: "Taunton, UK",
+    latitude: 41.901648,
+    longitude: -71.092799
+  },
+  {
+    name: "Adam Luczak",
+    location: "Wroclaw, Poland",
+    latitude: 51.107883,
+    longitude: 17.038538
+  },
+  {
+    name: "J Bowler | jimuk07",
+    location: "Birmingham, UK",
+    latitude: 52.48,
+    longitude: -1.89
+  },
+  {
+    name: "Cadichon",
+    location: "Epitech Nantes",
+    latitude: 47.2104851,
+    longitude: -1.56675127492582
+  },
+  {
+    name: "Jadok",
+    location: "Nantes, France",
+    latitude: 47.218372,
+    longitude: -1.553621
+  },
+  {
+    name: "Travis",
+    location: "Saint Louis",
+    latitude: 38.627003,
+    longitude: -90.199402
+  },
+  {
+    name: "Yuanlin",
+    location: "Detroit, MI, USA",
+    latitude: 42.331429,
+    longitude: -83.045753
+  },
+  {
+    name: "Adam",
+    location: "Novosibirsk, Russia",
+    latitude: 55.0,
+    longitude: 82.93
+  },
+  {
+    name: "Jerrod M.",
+    location: "Columbia, SC",
+    latitude: 34.000710,
+    longitude: -81.034813
+  },
+  {
+    name: "Kristians",
+    location: "Indianapolis, USA",
+    latitude: 39.709739,
+    longitude: -86.1372963
+  },
+  {
+    name: "Mary",
+    location: "Georgia, United States",
+    latitude: 32.165623,
+    longitude: -82.900078 
+  },
+  {
+    name: "Justin K",
+    location: "Atlanta, GA, USA",
+    latitude: 33.748997,
+    longitude: -84.387985
+  },
+  {
+    name: "ozlop",
+    location: "Milpitas, CA",
+    latitude: 37.428272,
+    longitude: -121.906624
   },
 ];
