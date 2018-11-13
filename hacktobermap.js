@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Michal",
+    location: "Aalborg",    
+    latitude: 57.048221,
+    longitude: 9.919394
+  },
+  {
     name: "!tach!",
     location: "Bangalore",
     latitude: 12.971599,
