@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Casey",
+    location: "California, USA",
+    latitude: 36.7783,
+    longitude: 119.4179
+  },
+  {
     name: "Ken Doman",
     location: "Wheaton, IL, USA",
     latitude: 41.866138,
