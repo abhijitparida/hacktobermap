@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Matty",
+    location: "California, USA",
+    latitude: 36.778259,
+    longitude: -119.417931
+  },
+  {
     name: "Pranava Dhar",
     location: "Noida, India",
     latitude: 28.535,
