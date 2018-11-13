@@ -1362,6 +1362,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Mary",
+    location: "Georgia, United States",
+    latitude: 32.165623,
+    longitude: -82.900078 
+  },
+  {
     name: "Justin K",
     location: "Atlanta, GA, USA",
     latitude: 33.748997,
