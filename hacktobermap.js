@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Steven Syrek",
+    location: "Berlin, Germany",
+    latitude: 52.52437,
+    longitude: 13.41053
+  },
+  {
     name: "Noble Sword",
     location: "Hyderabad, India",
     latitude: 17.385044,
