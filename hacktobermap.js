@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Ken Doman",
+    location: "Wheaton, IL, USA",
+    latitude: 41.866138,
+    longitude: -88.107010
+  },
+  {
     name: "Vanoux",
     location: "Saint Gaudens, France",
     latitude: 43.106895,
