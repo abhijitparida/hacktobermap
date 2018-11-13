@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Callan",
+    location: "Toulouse, FRA",
+    latitude:  43.6047,
+    longitude: 1.4442
+  },
+  {
     name: "Niccolò Izz0",
     location: "Milan, Italy",
     latitude: 45.4628328,
