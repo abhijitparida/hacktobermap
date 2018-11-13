@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Nick D",
+    location: "Moscow, Russia",
+    latitude: 54.714611,
+    longitude: 37.606195
+  },
+  {
     name: "Ekjot",
     location: "Chandigarh",
     latitude: 30.7334,
