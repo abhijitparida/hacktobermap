@@ -1212,6 +1212,12 @@ var hacktobermap = [
     longitude: -58.421570
   },
   {
+    name: "Helkat",
+    location: "Texas",
+    latitude: 31.3915,
+    longitude: 99.1707
+  },
+  {
     name: "James Bentley",
     location: "Philadelphia, PA, USA",
     latitude: 39.9633,
