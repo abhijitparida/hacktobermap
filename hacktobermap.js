@@ -1368,6 +1368,12 @@ var hacktobermap = [
     longitude: -86.1372963
   },
   {
+    name: "Noble Sword",
+    location: "Hyderabad, India",
+    latitude: 17.385044,
+    longitude: 78.486671
+  },
+  {
     name: "Satyabrat",
     location: "Bhubaneswar, Odisha, India",
     latitude: 19.800440,
