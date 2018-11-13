@@ -1212,6 +1212,12 @@ var hacktobermap = [
     longitude: -58.421570
   },
   {
+    name: "Helkat",
+    location: "Texas",
+    latitude: 31.3915,
+    longitude: 99.1707
+  },
+  {
     name: "James Bentley",
     location: "Philadelphia, PA, USA",
     latitude: 39.9633,
@@ -1361,10 +1367,34 @@ var hacktobermap = [
     latitude: 39.709739,
     longitude: -86.1372963
   },
-   {
+  {
     name: "Matty",
     location: "California, USA",
     latitude: 36.778259,
     longitude: -119.417931
+  },
+  {
+    name: "Pranava Dhar",
+    location: "Noida, India",
+    latitude: 28.535,
+    longitude: 77.391 
+  },
+  {
+    name: "Mary",
+    location: "Georgia, United States",
+    latitude: 32.165623,
+    longitude: -82.900078 
+  },
+  {
+    name: "Justin K",
+    location: "Atlanta, GA, USA",
+    latitude: 33.748997,
+    longitude: -84.387985
+  },
+  {
+    name: "ozlop",
+    location: "Milpitas, CA",
+    latitude: 37.428272,
+    longitude: -121.906624
   },
 ];
