@@ -1559,4 +1559,10 @@ var hacktobermap = [
     latitude: 31.241979,
     longitude: 121.495235
   },
+  {
+    name: "Sterling",
+    location: "Atlanta, GA, USA",
+    latitude: 33.748550,
+    longitude: -84.391502 
+  },
 ];
