@@ -1553,4 +1553,10 @@ var hacktobermap = [
     latitude: 37.428272,
     longitude: -121.906624
   },
+  {
+    name: "Harry H",
+    location: "Shanghai, CHN",
+    latitude: 31.241979,
+    longitude: 121.495235
+  },
 ];
