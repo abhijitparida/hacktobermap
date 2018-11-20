@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: 'Mark Gross',
+    location: 'Southern California, USA',
+    latitude: 33.7495,
+    longitude: 117.8732
+  },
+  {
     name: 'Clay Jensen-Reimann',
     location: 'Champaign, IL',
     latitude: 40.11,
