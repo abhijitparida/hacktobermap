@@ -1,7 +1,7 @@
 HacktoberMap
 ============
 
-Happy Hacktoberfest! :fire: HacktoberMap is a map of Hacktoberfest 2018 participants.
+Happy Hacktoberfest! :fire: HacktoberMap is a map of Hacktoberfest 2019 participants.
 
 Link to map: [https://abhijitparida.github.io/hacktobermap/](https://abhijitparida.github.io/hacktobermap/)
 
@@ -38,7 +38,7 @@ Commit your changes and submit a pull request! After your pull request gets acce
 
 ### Step 4
 
-Please star the repo if you like this fun little Hacktoberfest project ❤️ 
+Please star the repo if you like this fun little Hacktoberfest project :heart:
 
 ## License
 
