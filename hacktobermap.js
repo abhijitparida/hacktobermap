@@ -7,7 +7,7 @@ var hacktobermap = [
   },
   {
     name: "Girls Code MK",
-    location: "Bletchely park",
+    location: "Bletchley park",
     latitude: 51.9977,
     longitude: 0.7407
   }
