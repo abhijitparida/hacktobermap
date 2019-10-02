@@ -365,4 +365,10 @@ var hacktobermap = [
     latitude: 48.1351253,
     longitude: 11.5819806
   },
+  {
+    name: "Mikaël Poiraud",
+    location: "France",
+    latitude: 48.8534,
+    longitude: 2.3488
+  }
 ];
