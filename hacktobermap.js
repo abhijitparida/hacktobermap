@@ -5,4 +5,12 @@ var hacktobermap = [
     latitude: 20.296059,
     longitude: 85.824539
   },
+                    
+    {
+    name: "Aman Jain",
+    location: "Noida",
+    latitude: 28.535517,
+    longitude: 77.391029
+    },
+                   
 ];
