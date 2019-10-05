@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Neeraj Yadav",
+    location: "Himachal Pradesh",
+    latitude: 31.817261,
+    longitude: 77.302757,
+  },
+  {
     name: "Pradyuman Dixit",
     location: "Hague",
     latitude: 52.080190,
