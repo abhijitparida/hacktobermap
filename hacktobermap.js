@@ -10,5 +10,17 @@ var hacktobermap = [
     location: "Uppsala",
     latitude: 59.858562,
     longitude: 17.638927
+  },
+  {
+    name: "Sandro Pirtskhalava",
+    location: "Tbilisi,Georgia",
+    latitude: 41.715137,
+    longitude: 44.827095
+  },
+  {
+    name: "S. Hall",
+    location: "Florida",
+    latitude: 28.53833,
+    longitude: -81.378883
   }
 ];
