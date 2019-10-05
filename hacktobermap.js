@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Fredrik Engstrand",
+    location: "Uppsala",
+    latitude: 59.858562,
+    longitude: 17.638927
+  },
+  {
     name: "Sandro Pirtskhalava",
     location: "Tbilisi,Georgia",
     latitude: 41.715137,
