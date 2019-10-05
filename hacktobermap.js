@@ -46,5 +46,11 @@ var hacktobermap = [
     location: "Florida",
     latitude: 28.53833,
     longitude: -81.378883
-  }
+  },
+  {
+    name: "J. Lee",
+    location: "Toronto",
+    latitude: 43.653225,
+    longitude: -79.383186
+  },
 ];
