@@ -34,5 +34,11 @@ var hacktobermap = [
     location: "Florida",
     latitude: 28.53833,
     longitude: -81.378883
+  },
+  {
+    name: "Coyote Dev",
+    location: "San Francisco",
+    latitude: 37.774929,
+    longitude: -122.419418
   }
 ];
