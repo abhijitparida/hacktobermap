@@ -40,6 +40,11 @@ Commit your changes and submit a pull request! After your pull request gets acce
 
 Please star the repo if you like this fun little Hacktoberfest project :heart:
 
+## Other Fun Hacktoberfest Projects
+
+* [swarajlaha/hactoberexplor](https://github.com/swarajlaha/hactoberexplor)
+* [srinibasbiswal/HacktoberProfile](https://github.com/srinibasbiswal/HacktoberProfile)
+
 ## License
 
 [MIT](LICENSE)
