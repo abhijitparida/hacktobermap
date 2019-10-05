@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Ogundiji Bolade (AdroitCode)",
+    location: "Lagos Nigeria",
+    latitude: 6.649190,
+    longitude: 3.302540 
+  },
+  {
     name: "Airam Rguez",
     location: "Spain",
     latitude: 20.296059,
