@@ -34,5 +34,11 @@ var hacktobermap = [
     location: "Florida",
     latitude: 28.53833,
     longitude: -81.378883
+  },
+  {
+    name: "Vilnius",
+    location: "Lithuania",
+    latitude: 54.687157,
+    longitude: 25.279652
   }
 ];
