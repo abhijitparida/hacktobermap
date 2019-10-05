@@ -9,13 +9,13 @@ var hacktobermap = [
     name: "Renata Miranda",
     location: "São Paulo, BR",
     latitude: -23.5489,
-    longitude: -46.6388 
+    longitude: -46.6388
   },
   {
     name: "Ajay Jha",
     location: "Haryana, India",
     latitude: 29.96,
-    longitude: 78.87 
+    longitude: 78.87
   },
   {
     name: "Braintelligence",
@@ -46,5 +46,11 @@ var hacktobermap = [
     location: "Florida",
     latitude: 28.53833,
     longitude: -81.378883
-  }
+  },
+  {
+    name: "Rebaka",
+    location: "Canada",
+    latitude: 56.130367,
+    longitude: -106.346771
+  },
 ];
