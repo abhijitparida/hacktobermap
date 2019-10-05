@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Shubhang Singhal",
+    location: "Mayur Vihar Phase1",
+    latitude: 28.589150,
+    longitude: 77.304690
+  },
+  {
     name: "John-Paul Kelly",
     location: "Glusburn",
     latitude: 53.009033,
