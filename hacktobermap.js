@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Tobias",
+    location: "Gummersbach",
+    latitude: 51.028351,
+    longitude: 7.565430
+  },
+  {
     name: "Fredrik Engstrand",
     location: "Uppsala",
     latitude: 59.858562,
