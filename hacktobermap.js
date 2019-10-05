@@ -155,4 +155,10 @@ var hacktobermap = [
     latitude: -25.274399,
     longitude: 133.775131
   },
+  {
+    name: "AashifAhamed",
+    location: "Colombo SriLanka",
+    latitude: 6.927079,
+    longitude: 79.861244
+  },
 ];
