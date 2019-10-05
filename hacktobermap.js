@@ -21,19 +21,19 @@ var hacktobermap = [
     name: "Pradyuman Dixit",
     location: "Hague",
     latitude: 52.080190,
-    longitude: 4.310130 
+    longitude: 4.310130
   },
   {
     name: "Arpit J",
     location: "Kerela",
     latitude: 10.84,
-    longitude: 76.28 
+    longitude: 76.28
   },
   {
     name: "Rachel Johnson",
     location: "Sydney, Australia",
     latitude: -33.8563567,
-    longitude: 151.2116543 
+    longitude: 151.2116543
   },
   {
     name: "Supakorn Thongtra",
@@ -45,7 +45,7 @@ var hacktobermap = [
     name: "Anna CIA",
     location: "São Paulo",
     latitude: -23.550520,
-    longitude: -46.633308 
+    longitude: -46.633308
   },
   {
     name: "Adriano Skroch",
@@ -142,5 +142,11 @@ var hacktobermap = [
     location: "Canada",
     latitude: 56.130367,
     longitude: -106.346771
+  },
+  {
+    name: "Grace",
+    location: "Australia",
+    latitude: -25.274399,
+    longitude: 133.775131
   },
 ];
