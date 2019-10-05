@@ -34,5 +34,11 @@ var hacktobermap = [
     location: "Florida",
     latitude: 28.53833,
     longitude: -81.378883
+  },
+  {
+    name: "atom",
+    location: "Spain",
+    latitude: 40.416775,
+    longitude: -3.703790 
   }
 ];
