@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "John-Paul Kelly",
+    location: "Glusburn",
+    latitude: 53.009033,
+    longitude: 55.052583
+  },
+  {
     name: "Neeraj Yadav",
     location: "Himachal Pradesh",
     latitude: 31.817261,
