@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Moksh",
+    location: "Chandigarh",
+    latitude: 30.733315,
+    longitude: 76.779419
+  },
+  {
     name: "Kleiser Sarifo",
     location: "Maputo",
     latitude: -25.8307354,
