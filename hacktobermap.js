@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Anna CIA",
+    location: "São Paulo",
+    latitude: -23.550520,
+    longitude: -46.633308 
+  },
+  {
     name: "Adriano Skroch",
     location: "Winnipeg, MB, CA",
     latitude: 49.895138,
