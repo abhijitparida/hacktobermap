@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Kleiser Sarifo",
+    location: "Maputo",
+    latitude: -25.8307354,
+    longitude: 32.3082668
+  },
+  {
     name: "Shubhang Singhal",
     location: "Mayur Vihar Phase1",
     latitude: 28.589150,
