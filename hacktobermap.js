@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Ajay Jha",
+    location: "Haryana, India",
+    latitude: 29.96,
+    longitude: 78.87 
+  },
+  {
     name: "Braintelligence",
     location: "Frankfurt",
     latitude: 50.1211909,
