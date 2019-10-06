@@ -6,7 +6,13 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
-  	name: "Holly Maze",
+    name: "Prateek Gupta",
+    location: "Kolkata",
+    latitude: 22.57,
+    longitude: 88.36 
+  },
+  {
+    name: "Holly Maze",
     location: "West Virginia",
     latitude: 38.920139,
     longitude: -80.181839
