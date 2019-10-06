@@ -179,4 +179,10 @@ var hacktobermap = [
     latitude: -25.274399,
     longitude: 133.775131
   },
+  {
+    name: "Shivendu Amale",
+    location: "Los Angeles",
+    latitude: 34.052235,
+    longitude: -118.243683
+  }
 ];
