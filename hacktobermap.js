@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Savras",
+    location: "Canberra",
+    latitude: -35.280937,
+    longitude: 149.130005
+  },
+  {
     name: "Jamie Lo",
     location: "Los Angeles",
     latitude: 34.052235,
