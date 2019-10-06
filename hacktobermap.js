@@ -275,4 +275,10 @@ var hacktobermap = [
     latitude: 32.542084,
     longitude: -97.320847
   },
+  {
+    name: "impulse",
+    location: "Munich, DE",
+    latitude: 48.1351253,
+    longitude: 11.5819806
+  },
 ];
