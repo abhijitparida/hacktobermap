@@ -185,4 +185,4 @@ var hacktobermap = [
     latitude: 32.542084,
     longitude: -97.320847
   },
-};  
+];
