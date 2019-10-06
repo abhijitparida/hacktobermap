@@ -1571,10 +1571,4 @@ var hacktobermap = [
     latitude: 33.748550,
     longitude: -84.391502 
   },
-  {
-    name: "Michal",
-    location: "Prague",
-    latitude: 50.08804,
-    longitude:14.42076
-  }
 ];
