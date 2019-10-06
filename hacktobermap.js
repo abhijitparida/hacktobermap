@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Ian Kahwai",
+    location: "Harare",
+    latitude: -17.825167,
+    longitude: 31.033510
+  },
+  {
     name: "Ogundiji Bolade (AdroitCode)",
     location: "Lagos Nigeria",
     latitude: 6.649190,
