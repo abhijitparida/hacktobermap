@@ -275,4 +275,10 @@ var hacktobermap = [
     latitude: 32.542084,
     longitude: -97.320847
   },
+  {
+    name: "Gabriel",
+    location: "Florida",
+    latitude: 26.1410956,
+    longitude: -80.215607
+  },
 ];
