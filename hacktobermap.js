@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Girls Code MK",
+    location: "Bletchley park",
+    latitude: 51.9977,
+    longitude: 0.7407
+  },
+  {
     name: "Braden Shipley",
     location:"Denton, TX",
     latitude: 33.214840,
