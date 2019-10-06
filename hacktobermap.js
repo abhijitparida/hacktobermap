@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Bhavya Madan",
+    location: "Bhubaneshwar",
+    latitude: 20.296059,
+    longitude: 85.824539
+  },
+  {
     name: "Hitesh Roy",
     location: "Nagpur",
     latitude: 18.520430,
