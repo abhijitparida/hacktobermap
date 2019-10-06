@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Calum Dingwall",
+    location: "New Jersey, USA",
+    latitude: 40.56965,
+    longitude: -74.6255 
+  },
+  {
     name: 'Aayush Rawal',
     location: 'Chennai',
     latitude: '13.0827',
