@@ -239,4 +239,10 @@ var hacktobermap = [
     latitude: 32.542084,
     longitude: -97.320847
   },
+  {
+    name:"Nitesh",
+    location:"Mumbai",
+    latitude:19.0596,
+    longitude:72.8295,
+  }
 ];
