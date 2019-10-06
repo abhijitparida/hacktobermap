@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Chris Chung",
+    location: "Los Angeles",
+    latitude: 34.064973,
+    longitude: -118.373188
+  },
+  {
     name: "Daniel Cassoli",
     location: "São Paulo",
     latitude: -23.5666985,
