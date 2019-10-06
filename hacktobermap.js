@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Eniedson Junior",
+    location: "Brasil",
+    latitude: -7.022664,
+    longitude: -35.856996
+  },
+  {
     name: "Girls Code MK",
     location: "Bletchley park",
     latitude: 51.9977,
