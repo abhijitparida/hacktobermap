@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Fahad Jamil",
+    location: "Sweden",
+    latitude: 59.85882,
+    longitude: 17.63889
+  },
+  {
     name: "Bhavya Madan",
     location: "Bhubaneshwar",
     latitude: 20.296059,
