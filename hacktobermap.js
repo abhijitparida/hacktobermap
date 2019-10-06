@@ -179,4 +179,10 @@ var hacktobermap = [
     latitude: -25.274399,
     longitude: 133.775131
   },
+  {
+    name: "Lauren",
+    location: "Texas",
+    latitude: 32.542084,
+    longitude: -97.320847
+  },
 ];
