@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "faisal",
+    location: "jakarta",
+    latitude: -6.117664,
+    longitude: 106.906349
+  },
+  {
     name: "Zara Otamias",
     location: "Massachusetts",
     latitude: 42.407211,
