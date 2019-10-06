@@ -9,9 +9,9 @@ Link to the map: [https://abhijitparida.github.io/hacktobermap/](https://abhijit
 
 [![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/0)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/0)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/1)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/1)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/2)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/2)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/3)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/3)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/4)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/4)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/5)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/5)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/6)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/6)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/7)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/7)
 
-If this is your first pull request, please read this article: [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
-
 ### Step 1
+
+If this is your first pull request, please read this article: [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
 Fork the repo by pressing the "Fork" button on the top right side of the repository and clone your forked repository.
 
