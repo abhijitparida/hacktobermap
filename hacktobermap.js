@@ -275,4 +275,10 @@ var hacktobermap = [
     latitude: 32.542084,
     longitude: -97.320847
   },
+  {
+    name: "Joseph",
+    location: "New York",
+    latitude: 41.147594,
+    longitude: -73.989304
+  },
 ];
