@@ -376,5 +376,11 @@ var hacktobermap = [
     location: "Prague",
     latitude: 50.08804,
     longitude:14.42076
-  }
+  },
+  {
+  name: "Sweta Sahoo",
+  location: "Bhubaneshwar, India",
+  latitude: 20.2724,
+  longitude: 85.8339
+}
 ];
