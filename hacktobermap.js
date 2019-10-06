@@ -191,4 +191,10 @@ var hacktobermap = [
     latitude: 32.542084,
     longitude: -97.320847
   },
+  {
+    name: "Jamessom Queiroz",
+    location: "Brasilia",
+    latitude: -15.793633,
+    longitude: -47.882760
+  },
 ];
