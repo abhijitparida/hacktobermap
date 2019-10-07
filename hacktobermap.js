@@ -577,7 +577,7 @@ var hacktobermap = [
   },
   {
     name: "4rturd13",
-    location: "Colombia",
+    location: "Medellin, Colombia",
     latitude: 6.242083,
     longitude: 75.593835
   }
