@@ -519,7 +519,7 @@ var hacktobermap = [
     name: "Srinibas Biswal",
     location: "Hyderabad, India",
     latitude: 17.385044,
-    longitude: 78.486671    
+    longitude: 78.486671
   },
   {
     name: "Rahul",
@@ -574,5 +574,11 @@ var hacktobermap = [
     location: "University of Benin, Benin city, Nigeria",
     latitude: 6.334360,
     longitude: 5.600647
+  },
+  {
+    name: "115upm",
+    location: "Munich, Germany",
+    latitude: 48.149868,
+    longitude: 11.590932
   },
 ];
