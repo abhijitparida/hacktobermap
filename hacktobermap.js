@@ -516,6 +516,12 @@ var hacktobermap = [
     longitude:14.42076
   },
   {
+    name: "Didier Valdez",
+    location: "Hermosillo, Sonora, Mexico",
+    latitude: 29.072968,
+    longitude: -110.955917
+  },
+  {
     name: "Igor Gavelyuk",
     location: "Ukraine",
     latitude:46.487529,
