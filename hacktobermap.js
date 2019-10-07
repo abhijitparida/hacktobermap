@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Marian",
+    location: "Laupheim",
+    latitude: 48.206005,
+    longitude: 9.864143
+  },
+  {
     name: "Marco Petreri",
     location: "Rome",
     latitude: 41.902782,
