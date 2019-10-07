@@ -408,6 +408,12 @@ var hacktobermap = [
     longitude: -81.378883
   },
   {
+    name: "J. Lee",
+    location: "Toronto",
+    latitude: 43.653225,
+    longitude: -79.383186
+  },
+  {
     name: "atom",
     location: "Spain",
     latitude: 40.416775,
