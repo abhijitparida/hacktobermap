@@ -6,7 +6,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
   maxZoom: 10,
   id: 'mapbox.streets',
-  accessToken: 'pk.eyJ1IjoiYWJoaWppdHBhcmlkYSIsImEiOiJjam41dXE4bTgybHY3M2twbHAxajUybDFwIn0.vNbWsHw21X9yDTZ3n8xy_g'
+  accessToken: 'pk.eyJ1IjoiYWJoaWppdHBhcmlkYSIsImEiOiJjanFtMDRoMnkxZDdzNDNueTZxdGVlbDc5In0.ViO-4hOc6V2qLFVPZ-rChA'
 }).addTo(map);
 
 // Center on user's geolocation
