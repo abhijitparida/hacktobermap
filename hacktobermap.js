@@ -408,6 +408,12 @@ var hacktobermap = [
     longitude: -81.378883
   },
   {
+    name: "Vilnius",
+    location: "Lithuania",
+    latitude: 54.687157,
+    longitude: 25.279652
+  },
+  {
     name: "Coyote Dev",
     location: "San Francisco",
     latitude: 37.774929,
