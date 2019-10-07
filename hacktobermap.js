@@ -418,5 +418,11 @@ var hacktobermap = [
     location: "Prague",
     latitude: 50.08804,
     longitude:14.42076
-  }
+  },
+  {
+    name: "Moz",
+    location: "Malang",
+    latitude: 7.9666,
+    longitude: 112.6326
+  },
 ];
