@@ -12,6 +12,12 @@ var hacktobermap = [
     longitude: 77.391029
   },
   {
+    name: "M Faisal Akbar",
+    location: "Indonesia",
+    latitude: -6.887750,
+    longitude: 107.664880
+  },
+  {
     name: "Saurav Saha",
     location: "West Bengal, India",
     latitude: 24.38,
