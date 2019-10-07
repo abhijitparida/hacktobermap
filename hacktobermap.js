@@ -516,6 +516,12 @@ var hacktobermap = [
     longitude:14.42076
   },
   {
+    name: "Michael",
+    location: "Strong",
+    latitude: 42.293270,
+    longitude: -82.711693
+  },
+  {
     name: "Didier Valdez",
     location: "Hermosillo, Sonora, Mexico",
     latitude: 29.072968,
