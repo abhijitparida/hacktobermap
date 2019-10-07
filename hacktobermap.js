@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Jarvis",
+    location: "India",
+    latitude: 20.5937,
+    longitude: 78.9629
+  },
+  {
     name: "Mohit Soni",
     location: "Noida",
     latitude: 28.535517,
