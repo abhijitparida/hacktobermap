@@ -376,5 +376,11 @@ var hacktobermap = [
     location: "Prague",
     latitude: 50.08804,
     longitude:14.42076
+  },
+  {
+    name: "Srinibas Biswal",
+    location: "Hyderabad, India",
+    latitude: 17.385044,
+    longitude: 78.486671    
   }
 ];
