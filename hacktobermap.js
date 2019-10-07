@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Daniel Duhaylungsod",
+    location: "Davao City, Philippines",
+    latitude: 7.190708,
+    longitude: 125.455338
+  },
+  {
     name: "Pocholo Recto",
     location: "Davao City",
     latitude: 7.190708,
