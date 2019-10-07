@@ -569,4 +569,10 @@ var hacktobermap = [
     latitude: 33.3333,
     longitude: 55.5555
   },
+  {
+    name: "Johnniexson",
+    location: "University of Benin, Benin city, Nigeria",
+    latitude: 6.334360,
+    longitude: 5.600647
+  },
 ];
