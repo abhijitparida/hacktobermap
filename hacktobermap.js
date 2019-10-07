@@ -34,7 +34,7 @@ var hacktobermap = [
     location: "West Bengal, India",
     latitude: 24.38,
     longitude: 87.84
-  }, 
+  },
   {
     name: "Mykenzie Rogers",
     location: "Dallas",
@@ -51,7 +51,7 @@ var hacktobermap = [
     name: "juvhej",
     location: "Stockholm",
     latitude: 59.32,
-    longitude: 18.07 
+    longitude: 18.07
   },
   {
     name: "Fahad Jamil",
@@ -111,7 +111,7 @@ var hacktobermap = [
     name: "Prateek Gupta",
     location: "Kolkata",
     latitude: 22.57,
-    longitude: 88.36 
+    longitude: 88.36
   },
   {
     name: "Holly Maze",
@@ -129,19 +129,19 @@ var hacktobermap = [
     name: "Zara Otamias",
     location: "Massachusetts",
     latitude: 42.407211,
-    longitude: -71.382439 
+    longitude: -71.382439
   },
   {
     name: "Jordan",
     location: "Scotland",
     latitude: 56.490669,
-    longitude: -4.202646 
+    longitude: -4.202646
   },
   {
     name: "Calum Dingwall",
     location: "New Jersey, USA",
     latitude: 40.56965,
-    longitude: -74.6255 
+    longitude: -74.6255
   },
   {
     name: 'Aayush Rawal',
