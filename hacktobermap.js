@@ -516,6 +516,12 @@ var hacktobermap = [
     longitude:14.42076
   },
   {
+    name: "Sweta Sahoo",
+    location: "Bhubaneshwar, India",
+    latitude: 20.2724,
+    longitude: 85.8339
+  },
+  {
     name: "Moz",
     location: "Malang",
     latitude: 7.9666,
