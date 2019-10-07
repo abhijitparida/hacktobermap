@@ -199,7 +199,7 @@ var hacktobermap = [
   },
   {
     name: "Braden Shipley",
-    location:"Denton, TX",
+    location: "Denton, TX",
     latitude: 33.214840,
     longitude: -97.133064
   },
@@ -513,13 +513,13 @@ var hacktobermap = [
     name: "Michal",
     location: "Prague",
     latitude: 50.08804,
-    longitude:14.42076
+    longitude: 14.42076
   },
   {
     name: "Srinibas Biswal",
     location: "Hyderabad, India",
     latitude: 17.385044,
-    longitude: 78.486671    
+    longitude: 78.486671
   },
   {
     name: "Rahul",
@@ -548,8 +548,8 @@ var hacktobermap = [
   {
     name: "Igor Gavelyuk",
     location: "Ukraine",
-    latitude:46.487529,
-    longitude:30.548510
+    latitude: 46.487529,
+    longitude: 30.548510
   },
   {
     name: "Sweta Sahoo",
@@ -575,4 +575,10 @@ var hacktobermap = [
     latitude: 6.334360,
     longitude: 5.600647
   },
+  {
+    name: "4rturd13",
+    location: "Colombia",
+    latitude: 6.242083,
+    longitude: 75.593835
+  }
 ];
