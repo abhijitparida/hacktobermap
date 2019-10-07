@@ -574,5 +574,11 @@ var hacktobermap = [
     location: "University of Benin, Benin city, Nigeria",
     latitude: 6.334360,
     longitude: 5.600647
-  },
+  }
+  {
+    name: "Akshay Chopra",
+    location: "Maharashtra, India",
+    latitude: 19.751480,
+    longitude: 75.713890
+  }
 ];
