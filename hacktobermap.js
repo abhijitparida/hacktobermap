@@ -426,6 +426,12 @@ var hacktobermap = [
     longitude: -97.320847
   },
   {
+    name: "Pawan Gorai",
+    location: "Bhubaneswar",
+    latitude: 20.296059,
+    longitude: 85.824539
+  },
+  {
     name: "impulse",
     location: "Munich, DE",
     latitude: 48.1351253,
