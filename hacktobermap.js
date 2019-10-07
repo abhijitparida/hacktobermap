@@ -516,6 +516,12 @@ var hacktobermap = [
     longitude:14.42076
   },
   {
+    name: "Igor Gavelyuk",
+    location: "Ukraine",
+    latitude:46.487529,
+    longitude:30.548510
+  },
+  {
     name: "Sweta Sahoo",
     location: "Bhubaneshwar, India",
     latitude: 20.2724,
