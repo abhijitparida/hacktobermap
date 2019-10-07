@@ -21,7 +21,7 @@ var hacktobermap = [
     name: "Mohit Soni",
     location: "Noida",
     latitude: 28.535517,
-    longitude: 77.391029 
+    longitude: 77.391029
   },
   {
     name: "Daniel Duhaylungsod",
@@ -478,5 +478,11 @@ var hacktobermap = [
     location: "Malang",
     latitude: 7.9666,
     longitude: 112.6326
+  },
+  {
+    name: "sarahperea.dev",
+    location: "Philippines",
+    latitude: 33.3333,
+    longitude: 55.5555
   },
 ];
