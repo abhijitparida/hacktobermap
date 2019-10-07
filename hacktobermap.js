@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Marco Petreri",
+    location: "Rome",
+    latitude: 41.902782,
+    longitude: 12.496365
+  },
+  {
     name: "Akanksha Pattnaik",
     location: "Bhubaneswar",
     latitude: 20.296059,
