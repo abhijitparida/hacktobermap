@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Saurav Saha",
+    location: "West Bengal, India",
+    latitude: 24.38,
+    longitude: 87.84
+  }, 
+  {
     name: "Mykenzie Rogers",
     location: "Dallas",
     latitude: 32.776665,
