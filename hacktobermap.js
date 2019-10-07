@@ -575,4 +575,10 @@ var hacktobermap = [
     latitude: 6.334360,
     longitude: 5.600647
   },
+  {
+    name: "Vykings.dev",
+    location: "Brasil - SC",
+    latitude: -27.098,
+    longitude: -48.9163
+  },
 ];
