@@ -575,4 +575,10 @@ var hacktobermap = [
     latitude: 6.334360,
     longitude: 5.600647
   },
+  {
+    name: "DevIos",
+    location: "Sweden",
+    latitude: 59.3333,
+    longitude: 17.3333
+  }
 ];
