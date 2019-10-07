@@ -575,4 +575,10 @@ var hacktobermap = [
     latitude: 6.334360,
     longitude: 5.600647
   },
+  {
+    name: "Rafael De Luna",
+    location: "México",
+    latitude: 23.634501,
+    longitude: -102.552788
+  },
 ];
