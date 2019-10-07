@@ -264,6 +264,12 @@ var hacktobermap = [
     longitude: 76.779419
   },
   {
+    name: "joncojonathan",
+    location: "Kent, UK",
+    latitude: 51.278709,
+    longitude: 0.521725
+  },
+  {
     name: "Kleiser Sarifo",
     location: "Maputo",
     latitude: -25.8307354,
