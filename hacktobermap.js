@@ -576,6 +576,12 @@ var hacktobermap = [
     longitude: 5.600647
   },
   {
+    name: "Suvojit Barick",
+    location: "Bhubaneswar",
+    latitude: 20.296059,
+    longitude: 85.824539
+  },
+  {
     name: "Vykings.dev",
     location: "Brasil - SC",
     latitude: -27.098,
