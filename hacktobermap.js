@@ -641,4 +641,10 @@ var hacktobermap = [
     latitude: 21.1702,
     longitude: 72.8311
   },
+  {
+    name: "Ali Syahidin",
+    location: "Jakarta",
+    latitude: -6.218558,
+    longitude: 106.817723
+  },
 ];
