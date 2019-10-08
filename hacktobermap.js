@@ -24,6 +24,12 @@ var hacktobermap = [
     longitude: 77.391029
   },
   {
+    name: "Pranjal Chiktu",
+    location: "Patna",
+    latitude: 25.594095,
+    longitude: 85.137566
+  },
+  {
     name: "Shailza",
     location: "Delhi, India",
     latitude: 28.7041,
