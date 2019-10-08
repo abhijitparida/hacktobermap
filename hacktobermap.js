@@ -285,7 +285,7 @@ var hacktobermap = [
     name: "John-Paul Kelly",
     location: "Glusburn",
     latitude: 53.009033,
-    longitude: 55.052583
+    longitude: 2.00365,
   },
   {
     name: "Neeraj Yadav",
@@ -519,7 +519,7 @@ var hacktobermap = [
     name: "Srinibas Biswal",
     location: "Hyderabad, India",
     latitude: 17.385044,
-    longitude: 78.486671    
+    longitude: 78.486671
   },
   {
     name: "Rahul",
@@ -574,11 +574,35 @@ var hacktobermap = [
     location: "University of Benin, Benin city, Nigeria",
     latitude: 6.334360,
     longitude: 5.600647
-  }
+  },
   {
     name: "Akshay Chopra",
     location: "Maharashtra, India",
     latitude: 19.751480,
     longitude: 75.713890
-  }
+  },
+  {
+    name: "Suvojit Barick",
+    location: "Bhubaneswar",
+    latitude: 20.296059,
+    longitude: 85.824539
+  },
+  {
+    name: "Vykings.dev",
+    location: "Brasil - SC",
+    latitude: -27.098,
+    longitude: -48.9163
+  },
+  {
+    name: "115upm",
+    location: "Munich, Germany",
+    latitude: 48.149868,
+    longitude: 11.590932
+  },
+  {
+    name: "Kirti Dixit",
+    location: "NIT Surat",
+    latitude: 21.1702,
+    longitude: 72.8311
+  },
 ];
