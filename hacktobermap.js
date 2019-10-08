@@ -659,4 +659,10 @@ var hacktobermap = [
     latitude: -6.218558,
     longitude: 106.817723
   },
+  {
+    name: "Robert Fridzema",
+    location: "Rotterdam, Netherlands",
+    latitude: 51.924419,
+    longitude: 4.477733
+  },
 ];
