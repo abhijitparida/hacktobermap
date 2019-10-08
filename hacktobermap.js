@@ -513,13 +513,13 @@ var hacktobermap = [
     name: "Michal",
     location: "Prague",
     latitude: 50.08804,
-    longitude:14.42076
+    longitude: 14.42076
   },
-  { 
-    name: "Ankit Kaneri", 
-    location: "Bengaluru", 
-    latitude: 12.924977, 
-    longitude: 77.629992 
+  {
+    name: "Ankit Kaneri",
+    location: "Bengaluru",
+    latitude: 12.924977,
+    longitude: 77.629992
   },
   {
     name: "Srinibas Biswal",
