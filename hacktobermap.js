@@ -581,4 +581,10 @@ var hacktobermap = [
     latitude: 48.149868,
     longitude: 11.590932
   },
+  {
+    name: "Kirti Dixit",
+    location: "NIT Surat",
+    latitude: 21.1702,
+    longitude: 72.8311
+  },
 ];
