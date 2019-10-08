@@ -576,6 +576,12 @@ var hacktobermap = [
     longitude: 5.600647
   },
   {
+    name: "DevIos",
+    location: "Sweden",
+    latitude: 59.3333,
+    longitude: 17.3333
+  },
+  {
 	  name: "BroLeaf",
 	  location: "Hsinchu, Taiwan",
 	  latitude: 24.813829,
