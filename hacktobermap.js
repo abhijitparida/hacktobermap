@@ -576,6 +576,12 @@ var hacktobermap = [
     longitude: 5.600647
   },
   {
+    name: "Akshay Chopra",
+    location: "Maharashtra, India",
+    latitude: 19.751480,
+    longitude: 75.713890
+  },
+  {
     name: "Suvojit Barick",
     location: "Bhubaneswar",
     latitude: 20.296059,
