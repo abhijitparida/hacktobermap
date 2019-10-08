@@ -594,16 +594,16 @@ var hacktobermap = [
     longitude: 17.3333
   },
   {
-	  name: "BroLeaf",
-	  location: "Hsinchu, Taiwan",
-	  latitude: 24.813829,
-	  longitude: 120.967484
+    name: "BroLeaf",
+    location: "Hsinchu, Taiwan",
+    latitude: 24.813829,
+    longitude: 120.967484
   },
   {
     name: "4rturd13",
     location: "Medellin, Colombia",
     latitude: 6.242083,
-    longitude: 75.593835
+    longitude: -75.593835
   },
   {
     name: "Akshay Chopra",
