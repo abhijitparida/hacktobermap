@@ -576,6 +576,12 @@ var hacktobermap = [
     longitude: 5.600647
   },
   {
+    name : "Angel",
+    location : "Medellin, Colombia",
+    latitude : 6.251900,
+    longitude : -75.622090
+  },
+  {
     name: "Rafael De Luna",
     location: "México",
     latitude: 23.634501,
