@@ -642,6 +642,12 @@ var hacktobermap = [
     longitude: 72.8311
   },
   {
+    name: "Nilesh D",
+    location: "Chennai, India",
+    latitude: 13.082680,
+    longitude: 80.270721
+  },
+  {
     name: "Ali Syahidin",
     location: "Jakarta",
     latitude: -6.218558,
