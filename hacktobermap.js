@@ -635,4 +635,10 @@ var hacktobermap = [
     latitude: 21.1702,
     longitude: 72.8311
   },
+  {
+    name: "Nilesh D",
+    location: "Chennai, India",
+    latitude: 13.082680,
+    longitude: 80.270721
+  },
 ];
