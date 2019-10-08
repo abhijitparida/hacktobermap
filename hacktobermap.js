@@ -199,7 +199,7 @@ var hacktobermap = [
   },
   {
     name: "Braden Shipley",
-    location:"Denton, TX",
+    location: "Denton, TX",
     latitude: 33.214840,
     longitude: -97.133064
   },
@@ -285,7 +285,7 @@ var hacktobermap = [
     name: "John-Paul Kelly",
     location: "Glusburn",
     latitude: 53.009033,
-    longitude: 55.052583
+    longitude: 2.00365,
   },
   {
     name: "Neeraj Yadav",
@@ -513,13 +513,13 @@ var hacktobermap = [
     name: "Michal",
     location: "Prague",
     latitude: 50.08804,
-    longitude:14.42076
+    longitude: 14.42076
   },
   {
     name: "Srinibas Biswal",
     location: "Hyderabad, India",
     latitude: 17.385044,
-    longitude: 78.486671    
+    longitude: 78.486671
   },
   {
     name: "Rahul",
@@ -548,8 +548,8 @@ var hacktobermap = [
   {
     name: "Igor Gavelyuk",
     location: "Ukraine",
-    latitude:46.487529,
-    longitude:30.548510
+    latitude: 46.487529,
+    longitude: 30.548510
   },
   {
     name: "Sweta Sahoo",
@@ -580,5 +580,59 @@ var hacktobermap = [
     location : "Medellin, Colombia",
     latitude : 6.251900,
     longitude : -75.622090
-  }
+  },
+  {
+    name: "Rafael De Luna",
+    location: "México",
+    latitude: 23.634501,
+    longitude: -102.552788
+  },
+  {
+    name: "DevIos",
+    location: "Sweden",
+    latitude: 59.3333,
+    longitude: 17.3333
+  },
+  {
+	  name: "BroLeaf",
+	  location: "Hsinchu, Taiwan",
+	  latitude: 24.813829,
+	  longitude: 120.967484
+  },
+  {
+    name: "4rturd13",
+    location: "Medellin, Colombia",
+    latitude: 6.242083,
+    longitude: 75.593835
+  },
+  {
+    name: "Akshay Chopra",
+    location: "Maharashtra, India",
+    latitude: 19.751480,
+    longitude: 75.713890
+  },
+  {
+    name: "Suvojit Barick",
+    location: "Bhubaneswar",
+    latitude: 20.296059,
+    longitude: 85.824539
+  },
+  {
+    name: "Vykings.dev",
+    location: "Brasil - SC",
+    latitude: -27.098,
+    longitude: -48.9163
+  },
+  {
+    name: "115upm",
+    location: "Munich, Germany",
+    latitude: 48.149868,
+    longitude: 11.590932
+  },
+  {
+    name: "Kirti Dixit",
+    location: "NIT Surat",
+    latitude: 21.1702,
+    longitude: 72.8311
+  },
 ];
