@@ -516,6 +516,12 @@ var hacktobermap = [
     longitude: 14.42076
   },
   {
+    name: "Ankit Kaneri",
+    location: "Bengaluru",
+    latitude: 12.924977,
+    longitude: 77.629992
+  },
+  {
     name: "Srinibas Biswal",
     location: "Hyderabad, India",
     latitude: 17.385044,
