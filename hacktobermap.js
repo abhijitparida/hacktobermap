@@ -671,4 +671,10 @@ var hacktobermap = [
     latitude: 51.924419,
     longitude: 4.477733
   },
+  {
+    name: "Luke Garrigan",
+    location: "Kings Lynn, England",
+    latitude: 52.751961,
+    longitude: 0.395360
+  },
 ];
