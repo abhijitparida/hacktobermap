@@ -576,6 +576,12 @@ var hacktobermap = [
     longitude: 5.600647
   },
   {
+    name: "Vykings.dev",
+    location: "Brasil - SC",
+    latitude: -27.098,
+    longitude: -48.9163
+  },
+  {
     name: "115upm",
     location: "Munich, Germany",
     latitude: 48.149868,
