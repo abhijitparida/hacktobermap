@@ -683,4 +683,10 @@ var hacktobermap = [
     latitude: 52.751961,
     longitude: 0.395360
   },
+  {
+    name: "Zack Beach",
+    location: "Blacksburg, VA",
+    latitude: 37.229572,
+    longitude: -80.413940 
+  },
 ];
