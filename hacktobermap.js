@@ -695,4 +695,11 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Jayantilal Prajapat",
+    location: "Ahmedabad, India",
+    latitude: 23.022505,
+    longitude: 72.571365
+  }
+
 ];
