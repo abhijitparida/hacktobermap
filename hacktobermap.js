@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Vishal Marhatta",
+    location: "Aundh, Pune, India",
+    latitude: 18.558130,
+    longitude: 73.807281
+  },
 ];
