@@ -700,5 +700,5 @@ var hacktobermap = [
     location: "Leuven, Belgium",
     latitude: 50.869445,
     longitude: 4.698515
-  },
+  }
 ];
