@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Mateus Rodrigues",
+    location: "São Paulo, Brazil",
+    latitude: -23.550520,
+    longitude: -46.633308
+  },
 ];
