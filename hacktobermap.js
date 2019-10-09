@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Papu Kumar",
+    location: "Gurugram",
+    latitude: 28.508648599999997,
+    longitude: 77.0922339
+  },
 ];
