@@ -683,4 +683,10 @@ var hacktobermap = [
     latitude: 52.751961,
     longitude: 0.395360
   },
+  {
+    name: "Shruti",
+    location: "Yokohama, Japan",
+    latitude: 35.443707,
+    longitude: 139.638031
+  },
 ];
