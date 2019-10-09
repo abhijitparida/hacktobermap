@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Ryan Ericksen",
+    location: "New Jersey, US",
+    latitude: 40.554886,
+    longitude: -74.464287
+  }
 ];
