@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Pedro Queiroz",
+    location: "Recife, Brazil",
+    latitude: -8.052240,
+    longitude: -34.928612
+  },
 ];
