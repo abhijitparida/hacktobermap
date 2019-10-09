@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Siva Sankar",
+    location: "Chennai, India",
+    latitude: 13.082680,
+    longitude: 80.270721
+  }
 ];
