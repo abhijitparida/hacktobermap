@@ -66,6 +66,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Abin",
+    location: "Los Altos",
+    latitude: 37.3828268,
+    longitude: -122.1146567
+  },
+  {
     name: "Aman Jain",
     location: "Noida",
     latitude: 28.535517,
