@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Maki",
+    location: "Tenerife, Spain",
+    latitude: 28.291565,
+    longitude: -16.629129
+  },
 ];
