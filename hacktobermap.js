@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Duncan",
+    location: "Utrecht, The Netherlands",
+    latitude: 52.092876,
+    longitude: 5.104480
+  }
 ];
