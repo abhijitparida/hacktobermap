@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Ivan Leon",
+    location: "Mexicali, Mexico",
+    latitude: 32.624538,
+    longitude: -115.452263
+  },
 ];
