@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Soham Sonawane",
+    location: "Jodhpur, India",
+    latitude: 26.469771,
+    longitude: 73.115598
+  },
 ];
