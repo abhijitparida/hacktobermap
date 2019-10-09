@@ -414,6 +414,12 @@ var hacktobermap = [
     longitude: 17.638927
   },
   {
+    name: "Will",
+    location: "Loughborough, England",
+    latitude: 52.770771,
+    longitude: -1.204350,
+  },
+  {
     name: "Sandro Pirtskhalava",
     location: "Tbilisi,Georgia",
     latitude: 41.715137,
@@ -687,7 +693,7 @@ var hacktobermap = [
     name: "Mayur Patil",
     location: "Pune, India",
     latitude: 18.520430,
-    longitude: 73.856743 
+    longitude: 73.856743
   },
   {
     name: "Shruti",
