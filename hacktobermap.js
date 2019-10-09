@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Geovanni Gonzalez",
+    location: "California, US",
+    latitude: 36.778259,
+    longitude: -119.417931
+  }
 ];
