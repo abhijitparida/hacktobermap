@@ -699,7 +699,7 @@ var hacktobermap = [
     name: "Mayur Patil",
     location: "Pune, India",
     latitude: 18.520430,
-    longitude: 73.856743 
+    longitude: 73.856743
   },
   {
     name: "Shruti",
@@ -730,5 +730,11 @@ var hacktobermap = [
     location: "Singapore, Singapore",
     latitude: 1.352083,
     longitude: 103.819839
+  },
+  {
+    name: "Jakob",
+    location: "Hannover, Germany",
+    latitude: 52.375893,
+    longitude: 9.732010
   },
 ];
