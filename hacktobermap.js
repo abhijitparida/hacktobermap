@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Alexandros Yiangou",
+    location: "Limassol, Cyprus",
+    latitude: 34.686273,
+    longitude: 33.059679
+  },
 ];
