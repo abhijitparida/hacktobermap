@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Winnie",
+    location: "Leuven, Belgium",
+    latitude: 50.869445,
+    longitude: 4.698515
+  },
 ];
