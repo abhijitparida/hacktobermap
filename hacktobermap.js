@@ -695,4 +695,11 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  
+  {
+    name: "Ayushi",
+    location: "Delhi",
+    latitude: 28.704,
+    longitude: 139.638
+  },
 ];
