@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Vanessa",
+    location: "Singapore",
+    latitude: 1.352083,
+    longitude: 103.819839
+  },
 ];
