@@ -700,5 +700,5 @@ var hacktobermap = [
     location: "Surabaya, Indonesia",
     latitude: -7.28,
     longitude: 112.79
-  }
+  },
 ];
