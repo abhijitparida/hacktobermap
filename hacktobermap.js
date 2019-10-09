@@ -683,4 +683,10 @@ var hacktobermap = [
     latitude: 52.751961,
     longitude: 0.395360
   },
+  {
+    name: "Mayur Patil",
+    location: "Pune, India",
+    latitude: 18.520430,
+    longitude: 73.856743 
+  },
 ];
