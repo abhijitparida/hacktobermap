@@ -695,4 +695,11 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+  	nmae: "Sourbh Yadav"
+  	location: "Indore, India"
+  	latitude: "22.719568"
+  	longitude: "75.857727"
+
+  },
 ];
