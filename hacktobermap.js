@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Tomi Olah",
+    location: "Cluj-Napoca, Romania",
+    latitude: 46.770920,
+    longitude: 23.589920
+  },
 ];
