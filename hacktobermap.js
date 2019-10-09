@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Smalloow",
+    location: "Belfast, Northern Ireland",
+    latitude: 54.597286,
+    longitude: -5.930120 
+  },
 ];
