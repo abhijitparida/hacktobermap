@@ -35,6 +35,12 @@ var hacktobermap = [
     latitude: 28.7041,
     longitude: 77.1025
   },
+   {
+    name: "Rhea",
+    location: "Delhi, India",
+    latitude: 28.7041,
+    longitude: 77.1025
+  },
   {
     name: "Daniel Duhaylungsod",
     location: "Davao City, Philippines",
