@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Sayantan Paul",
+    location: "Kolkata",
+    latitude: 22.4973,
+    longitutde: 88.4212
+  },
 ];
