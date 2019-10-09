@@ -696,7 +696,7 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
-    name: "Natalí",
+    name: "Natalí PP",
     location: "Córdoba, Argentina",
     latitude: -31.405060,
     longitude: -64.171900
