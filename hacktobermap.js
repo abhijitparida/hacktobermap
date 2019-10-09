@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Izzur",
+    location: "Surabaya, Indonesia",
+    latitude: -7.28,
+    longitude: 112.79
+  }
 ];
