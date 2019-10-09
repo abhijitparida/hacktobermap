@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Pieter Jan Geutjens",
+    location: "Wilsele, Belgium",
+    latitude: 50.896810,
+    longitude: 4.702650
+  },
 ];
