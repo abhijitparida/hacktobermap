@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Tia Esguerra",
+    location: "San Mateo, California",
+    latitude: 37.562992,
+    longitude: -122.325523
+  },
 ];
