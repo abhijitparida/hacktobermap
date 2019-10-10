@@ -36,6 +36,12 @@ var hacktobermap = [
     longitude: 85.137566
   },
   {
+    name: "Harsh Manwani",
+    location: "Jaipur",
+    latitude: 26.912434,
+    longitude: 75.787270
+  },
+  {
     name: "Shailza",
     location: "Delhi, India",
     latitude: 28.7041,
