@@ -1571,10 +1571,4 @@ var hacktobermap = [
     latitude: 33.748550,
     longitude: -84.391502 
   },
-  {
-    name: "Manan",
-    location: "Atlanta, GA, USA",
-    latitude: 33.748997,
-    longitude: -84.387985
-  },
 ];
