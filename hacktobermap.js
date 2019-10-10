@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Erick Surya Dinata",
+    location: "Surabaya, Indonesia",
+    latitude: -7.257472,
+    longitude: 112.752090
+  }
 ];
