@@ -1085,4 +1085,10 @@ var hacktobermap = [
     latitude: 22.279800,
     longitude: 114.183937
   },
+   {
+    name: "Susanka Majumder",
+    location: "India",
+    latitude: 16.366510,
+    longitude: 78.430409
+  },
 ];
