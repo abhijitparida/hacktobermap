@@ -1079,4 +1079,10 @@ var hacktobermap = [
     latitude: -38.793911,
     longitude: 175.916917
   },
+  {
+    name: "JD Hernandez",
+    location: "Causeway Bay, Hong Kong SAR",
+    latitude: 22.279800,
+    longitude: 114.183937
+  },
 ];
