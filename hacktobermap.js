@@ -714,6 +714,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Geovanni Gonzalez",
+    location: "California, US",
+    latitude: 36.778259,
+    longitude: -119.417931
+  },
+  {
     name: "Mateus Rodrigues",
     location: "São Paulo, Brazil",
     latitude: -23.550520,
