@@ -708,6 +708,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Erick Surya Dinata",
+    location: "Surabaya, Indonesia",
+    latitude: -7.257472,
+    longitude: 112.752090
+  },
+  {
     name: "Borgera",
     location: "Santo André, Brasil",
     latitude: -23.6666,
