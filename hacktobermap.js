@@ -762,6 +762,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Duncan",
+    location: "Utrecht, The Netherlands",
+    latitude: 52.092876,
+    longitude: 5.104480
+  },
+  {
     name: "Ryan Ericksen",
     location: "New Jersey, US",
     latitude: 40.554886,
