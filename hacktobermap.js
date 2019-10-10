@@ -1,5 +1,11 @@
 var hacktobermap = [
   {
+    name: "Akbar Anung Yudha Saputra",
+    location: "Malang City, Indonesia",
+    latitude: -7.9786395,
+    longitude: 112.5617418
+  },
+  {
     name: "Abhijit Parida",
     location: "Bhubaneswar",
     latitude: 20.296059,
