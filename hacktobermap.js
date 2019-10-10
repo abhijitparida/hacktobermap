@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Daniel Mattox",
+    location: "Cairnbrook Pennsylvania, US",
+    latitude: 40.119770,
+    longitude: -78.819560
+  },
 ];
