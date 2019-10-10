@@ -789,7 +789,7 @@ var hacktobermap = [
     name: "Smalloow",
     location: "Belfast, Northern Ireland",
     latitude: 54.597286,
-    longitude: -5.930120 
+    longitude: -5.930120
   },
   {
     name: "Quint Daenen",
@@ -807,7 +807,7 @@ var hacktobermap = [
     name: "Sayantan Paul",
     location: "Kolkata",
     latitude: 22.4973,
-    longitutde: 88.4212
+    longitude: 88.4212
   },
   {
     name: "Nikola",
@@ -1066,5 +1066,11 @@ var hacktobermap = [
     location: "Minsk, Belarus",
     latitude: 53.904541,
     longitude: 27.561523
+  },
+  {
+    name: "Pandiyan MUrugan",
+    location: "Coimbatore, Tamil nadu",
+    latitude: 11.0168,
+    longitude: 76.9558
   },
 ];
