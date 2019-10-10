@@ -896,8 +896,8 @@ var hacktobermap = [
   {
     name: "Ayushi",
     location: "Delhi",
-    latitude: 28.704,
-    longitude: 139.638
+    latitude: 28.704060,
+    longitude: 77.102493
   },
   {
     name: "Pieter Jan Geutjens",
