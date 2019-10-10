@@ -1102,5 +1102,5 @@ var hacktobermap = [
     location: "Puri,India",
     latitude: 19.800440,
     longitude: 85.826752
-  },
+  }
 ];
