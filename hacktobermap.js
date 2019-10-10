@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Nathan Lim",
+    location: "Ramsey",
+    latitude: 41.057152,
+    longitude: -74.143959
+  },
+  {
     name: "SilverCapeie",
     location: "Cetraro",
     latitude: 39.515245,
