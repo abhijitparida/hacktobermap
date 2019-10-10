@@ -774,6 +774,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Tomi Olah",
+    location: "Cluj-Napoca, Romania",
+    latitude: 46.770920,
+    longitude: 23.589920
+  },
+  {
     name: "Smalloow",
     location: "Belfast, Northern Ireland",
     latitude: 54.597286,
