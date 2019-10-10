@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Dali Romero",
+    location: "Mexico",
+    latitude: 19.704330,
+    longitude: -103.462570
+  },
+  {
     name: "Juan Manuel",
     location: "Uruguay",
     latitude: -34.821018,
@@ -414,6 +420,12 @@ var hacktobermap = [
     longitude: 17.638927
   },
   {
+    name: "Will",
+    location: "Loughborough, England",
+    latitude: 52.770771,
+    longitude: -1.204350,
+  },
+  {
     name: "Sandro Pirtskhalava",
     location: "Tbilisi,Georgia",
     latitude: 41.715137,
@@ -525,7 +537,13 @@ var hacktobermap = [
     name: "Michal",
     location: "Prague",
     latitude: 50.08804,
-    longitude: 14.42076
+    longitude:14.42076
+  },
+  {
+    name: "Manan",
+    location: "Atlanta, GA, USA",
+    latitude: 33.748997,
+    longitude: -84.387985
   },
   {
     name: "Ankit Kaneri",
@@ -687,7 +705,7 @@ var hacktobermap = [
     name: "Mayur Patil",
     location: "Pune, India",
     latitude: 18.520430,
-    longitude: 73.856743 
+    longitude: 73.856743
   },
   {
     name: "Shruti",
@@ -700,5 +718,35 @@ var hacktobermap = [
     location: "Erding, Germany",
     latitude: 48.306259,
     longitude: 11.907040
+  },
+  {
+    name: "Daniel Mattox",
+    location: "Cairnbrook Pennsylvania, US",
+    latitude: 40.119770,
+    longitude: -78.819560
+  },
+  {
+    name: "Erick Surya Dinata",
+    location: "Surabaya, Indonesia",
+    latitude: -7.257472,
+    longitude: 112.752090
+  },
+  {
+    name: "Borgera",
+    location: "Santo André, Brasil",
+    latitude: -23.6666,
+    longitude: -46.5322
+  },
+  {
+    name: "Edmund Chan",
+    location: "Singapore, Singapore",
+    latitude: 1.352083,
+    longitude: 103.819839
+  },
+  {
+    name: "Jakob",
+    location: "Hannover, Germany",
+    latitude: 52.375893,
+    longitude: 9.732010
   },
 ];
