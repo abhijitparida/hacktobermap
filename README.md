@@ -3,21 +3,21 @@ HacktoberMap
 
 Happy Hacktoberfest! :fire: HacktoberMap is a map of Hacktoberfest 2019 participants.
 
-Link to map: [https://abhijitparida.github.io/hacktobermap/](https://abhijitparida.github.io/hacktobermap/)
+Link to the map: [https://abhijitparida.github.io/hacktobermap/](https://abhijitparida.github.io/hacktobermap/)
 
 ## Contributing
 
-If this is your first pull request, please read this article: [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/0)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/0)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/1)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/1)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/2)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/2)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/3)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/3)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/4)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/4)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/5)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/5)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/6)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/6)[![](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/images/7)](https://sourcerer.io/fame/abhijitparida/abhijitparida/hacktobermap/links/7)
 
 ### Step 1
 
-Fork the repo by pressing the "Fork" button on the top right side of the
-repository and clone your forked repository.
+If this is your first pull request, please read this article: [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
+Fork the repo by pressing the "Fork" button on the top right side of the repository and clone your forked repository.
 
 ### Step 2
 
-In your forked repository, edit `hacktobermap.js` and add your name, location, 
-latitude and longitude to the bottom of the file using this format:
+In your forked repository, edit `hacktobermap.js` and add your name, location, latitude and longitude to the bottom of the file using this format:
 
 ```
   {
@@ -30,7 +30,7 @@ latitude and longitude to the bottom of the file using this format:
 
 You can get the coordinates of your location from [https://latlong.net](https://latlong.net). Your location can be your city, your state or even your country - it's entirely up to you and how much you want to disclose on the Internet.
 
-***Warning:** Do NOT put your exact coordinates for your own safety!*
+***Warning:** Do NOT put the exact coordinates of your house for your own safety!*
 
 ### Step 3 
 
@@ -42,8 +42,8 @@ Please star the repo if you like this fun little Hacktoberfest project :heart:
 
 ## Other Fun Hacktoberfest Projects
 
-* [srinibasbiswal/HacktoberProfile](https://github.com/srinibasbiswal/HacktoberProfile)
 * [swarajlaha/hactoberexplor](https://github.com/swarajlaha/hactoberexplor)
+* [srinibasbiswal/HacktoberProfile](https://github.com/srinibasbiswal/HacktoberProfile)
 
 ## License
 
