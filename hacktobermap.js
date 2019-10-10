@@ -714,6 +714,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Maki",
+    location: "Tenerife, Spain",
+    latitude: 28.291565,
+    longitude: -16.629129
+  },
+  {
     name: "Geovanni Gonzalez",
     location: "California, US",
     latitude: 36.778259,
