@@ -714,6 +714,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Tia Esguerra",
+    location: "San Mateo, California",
+    latitude: 37.562992,
+    longitude: -122.325523
+  },
+  {
     name: "Lena Hartmann",
     location: "Erding, Germany",
     latitude: 48.306259,
