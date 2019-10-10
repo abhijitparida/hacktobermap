@@ -1062,6 +1062,12 @@ var hacktobermap = [
     longitude: 30.512857
   },
   {
+    name: "Egor Timoshenko",
+    location: "Minsk, Belarus",
+    latitude: 53.904541,
+    longitude: 27.561523
+  },
+  {
     name: "Pandiyan MUrugan",
     location: "Coimbatore, Tamil nadu",
     latitude: 11.0168,
