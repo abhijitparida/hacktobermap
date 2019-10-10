@@ -761,4 +761,10 @@ var hacktobermap = [
     latitude: 52.375893,
     longitude: 9.732010
   },
+  {
+    name: "Nikhil kararkra",
+    location: "Docklands, Australia",
+    latitude:-37.815868,
+    longitude: 144.945175
+  },
 ];
