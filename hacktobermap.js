@@ -828,6 +828,12 @@ var hacktobermap = [
     longitude: 9.732010
   },
   {
+    name: "Vu To",
+    location: "Ho Chi Minh, Viet Nam",
+    latitude: 10.776530,
+    longitude: 106.700980
+  },
+  {
     name: "Nikhil kararkra",
     location: "Docklands, Australia",
     latitude:-37.815868,
