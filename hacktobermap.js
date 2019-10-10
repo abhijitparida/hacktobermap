@@ -525,7 +525,13 @@ var hacktobermap = [
     name: "Michal",
     location: "Prague",
     latitude: 50.08804,
-    longitude: 14.42076
+    longitude:14.42076
+  },
+  {
+    name: "Manan",
+    location: "Atlanta, GA, USA",
+    latitude: 33.748997,
+    longitude: -84.387985
   },
   {
     name: "Ankit Kaneri",
@@ -700,5 +706,11 @@ var hacktobermap = [
     location: "Santo André, Brasil",
     latitude: -23.6666,
     longitude: -46.5322
+  },
+  {
+    name: "Edmund Chan",
+    location: "Singapore, Singapore",
+    latitude: 1.352083,
+    longitude: 103.819839
   },
 ];
