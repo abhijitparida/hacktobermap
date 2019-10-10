@@ -774,6 +774,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Sayantan Paul",
+    location: "Kolkata",
+    latitude: 22.4973,
+    longitutde: 88.4212
+  },
+  {
     name: "Nikola",
     location: "Belgrade, Serbia",
     latitude: 44.787197,
