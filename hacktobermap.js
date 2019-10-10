@@ -720,6 +720,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+  	nmae: "Sourbh Yadav"
+  	location: "Indore, India"
+  	latitude: "22.719568"
+  	longitude: "75.857727"
+  },
+  {
     name: "sean",
     location: "Vancouver, Canada",
     latitude: 49.282730,
