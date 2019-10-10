@@ -719,6 +719,12 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  { 
+    name: "Samala Sumanth",
+    location: "Banglore", 
+    latitude: 12.971599, 
+    longitude: 77.594566
+  },
   {
     name: "Maki",
     location: "Tenerife, Spain",
