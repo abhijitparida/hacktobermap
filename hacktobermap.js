@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Dali Romero",
+    location: "Mexico",
+    latitude: 19.704330,
+    longitude: -103.462570
+  },
+  {
     name: "Juan Manuel",
     location: "Uruguay",
     latitude: -34.821018,
