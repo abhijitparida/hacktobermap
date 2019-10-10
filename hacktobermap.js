@@ -6,6 +6,12 @@ var hacktobermap = [
     longitude: 85.824539
   },
   {
+    name: "Dali Romero",
+    location: "Mexico",
+    latitude: 19.704330,
+    longitude: -103.462570
+  },
+  {
     name: "Juan Manuel",
     location: "Uruguay",
     latitude: -34.821018,
@@ -525,7 +531,13 @@ var hacktobermap = [
     name: "Michal",
     location: "Prague",
     latitude: 50.08804,
-    longitude: 14.42076
+    longitude:14.42076
+  },
+  {
+    name: "Manan",
+    location: "Atlanta, GA, USA",
+    latitude: 33.748997,
+    longitude: -84.387985
   },
   {
     name: "Ankit Kaneri",
@@ -700,5 +712,23 @@ var hacktobermap = [
     location: "Cairnbrook Pennsylvania, US",
     latitude: 40.119770,
     longitude: -78.819560
+  },
+  {
+    name: "Erick Surya Dinata",
+    location: "Surabaya, Indonesia",
+    latitude: -7.257472,
+    longitude: 112.752090
+  },
+  {
+    name: "Borgera",
+    location: "Santo André, Brasil",
+    latitude: -23.6666,
+    longitude: -46.5322
+  },
+  {
+    name: "Edmund Chan",
+    location: "Singapore, Singapore",
+    latitude: 1.352083,
+    longitude: 103.819839
   },
 ];
