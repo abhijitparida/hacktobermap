@@ -714,6 +714,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Mateus Rodrigues",
+    location: "São Paulo, Brazil",
+    latitude: -23.550520,
+    longitude: -46.633308
+  },
+  {
     name: "Tia Esguerra",
     location: "San Mateo, California",
     latitude: 37.562992,
