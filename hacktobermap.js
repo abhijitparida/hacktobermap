@@ -929,4 +929,10 @@ var hacktobermap = [
     latitude: 23.014509,
     longitude: 72.591759
   },
+  {
+    name: "Jyoti Jayadeep",
+    location: "Bhubaneswar",
+    latitude: 20.296059,
+    longitude: 85.824539
+  },
 ];
