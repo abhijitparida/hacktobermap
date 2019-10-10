@@ -1096,5 +1096,11 @@ var hacktobermap = [
     location: "Karachi, Pakistan",
     latitude: 24.8607,
     longitude: 67.0011
-  }
+  },
+  {
+    name: "Adarsh Padhi",
+    location: "Puri,India",
+    latitude: 19.800440,
+    longitude: 85.826752
+  },
 ];
