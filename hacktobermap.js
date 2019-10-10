@@ -762,6 +762,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Panayiotis",
+    location: "London, UK",
+    latitude: 51.507367,
+    longitude: -0.127761,
+  },
+  {
     name: "Sophie",
     location: "Canberra, Australia",
     latitude: -35.269790,
