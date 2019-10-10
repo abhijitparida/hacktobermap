@@ -702,6 +702,12 @@ var hacktobermap = [
     longitude: 0.395360
   },
   {
+    name: "Zack Beach",
+    location: "Blacksburg, VA",
+    latitude: 37.229572,
+    longitude: -80.413940 
+  },
+  {
     name: "Mayur Patil",
     location: "Pune, India",
     latitude: 18.520430,
