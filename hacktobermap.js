@@ -720,6 +720,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Izzur",
+    location: "Surabaya, Indonesia",
+    latitude: -7.28,
+    longitude: 112.79
+  },
+  {
     name: "Natalí PP",
     location: "Córdoba, Argentina",
     latitude: -31.405060,
