@@ -774,6 +774,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Matt",
+    location: "Vancouver, Canada",
+    latitude: 49.282730,
+    longitude: -123.120735
+  },
+  {
     name: "Vinícius Ernani",
     location: "Ceará-Mirim, Brasil",
     latitude: -5.635240,
