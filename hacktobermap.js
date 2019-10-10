@@ -959,4 +959,10 @@ var hacktobermap = [
     latitude: 20.296059,
     longitude: 85.824539
   },
+  {
+    name: "Dmitry Poliuha",
+    location: "Kyiv, Ukraine",
+    latitude: 50.466353,
+    longitude: 30.512857
+  },
 ];
