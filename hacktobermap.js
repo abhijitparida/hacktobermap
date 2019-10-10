@@ -720,6 +720,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Jayantilal Prajapat",
+    location: "Ahmedabad, India",
+    latitude: 23.022505,
+    longitude: 72.571365
+  },
+  {
   	nmae: "Sourbh Yadav"
   	location: "Indore, India"
   	latitude: "22.719568"
