@@ -774,6 +774,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Quint Daenen",
+    location: "Leuven, Belgium",
+    latitude: 50.879845,
+    longitude: 4.700518
+  },
+  {
     name: "Winnie",
     location: "Leuven, Belgium",
     latitude: 50.869445,
