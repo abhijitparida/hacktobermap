@@ -1,4 +1,10 @@
 var hacktobermap = [
+    {
+        name: "Aakash Patel",
+        location: "Ahmedabad",
+        latitude: 23.014509,
+        longitude: 72.591759
+    },
   {
     name: "Abhijit Parida",
     location: "Bhubaneswar",
