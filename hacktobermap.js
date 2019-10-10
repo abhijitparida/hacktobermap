@@ -1061,4 +1061,10 @@ var hacktobermap = [
     latitude: 50.466353,
     longitude: 30.512857
   },
+  {
+    name: "Egor Timoshenko",
+    location: "Minsk, Belarus",
+    latitude: 53.904541,
+    longitude: 27.561523
+  },
 ];
