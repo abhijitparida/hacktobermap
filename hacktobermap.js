@@ -720,6 +720,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Alexandros Yiangou",
+    location: "Limassol, Cyprus",
+    latitude: 34.686273,
+    longitude: 33.059679
+  },
+  {
     name: "Jayantilal Prajapat",
     location: "Ahmedabad, India",
     latitude: 23.022505,
