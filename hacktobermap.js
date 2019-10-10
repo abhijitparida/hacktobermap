@@ -1098,6 +1098,12 @@ var hacktobermap = [
     longitude: 67.0011
   },
   {
+    name: "Adarsh Padhi",
+    location: "Puri,India",
+    latitude: 19.800440,
+    longitude: 85.826752
+  },
+  {
     name: "HariHaran Subramanian",
     location: "Coimbatore, Tamil nadu",
     latitude: 11.0168,
