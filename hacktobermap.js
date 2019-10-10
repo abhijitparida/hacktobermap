@@ -1086,6 +1086,12 @@ var hacktobermap = [
     longitude: 114.183937
   },
   {
+    name: "Susanka Majumder",
+    location: "India",
+    latitude: 16.366510,
+    longitude: 78.430409
+  },
+  {
     name: "Muhammad Shaharyar",
     location: "Karachi, Pakistan",
     latitude: 24.8607,
