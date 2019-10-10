@@ -708,6 +708,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Daniel Mattox",
+    location: "Cairnbrook Pennsylvania, US",
+    latitude: 40.119770,
+    longitude: -78.819560
+  },
+  {
     name: "Erick Surya Dinata",
     location: "Surabaya, Indonesia",
     latitude: -7.257472,
