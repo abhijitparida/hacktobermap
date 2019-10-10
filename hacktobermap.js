@@ -714,6 +714,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Lena Hartmann",
+    location: "Erding, Germany",
+    latitude: 48.306259,
+    longitude: 11.907040
+  },
+  {
     name: "Daniel Mattox",
     location: "Cairnbrook Pennsylvania, US",
     latitude: 40.119770,
