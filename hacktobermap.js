@@ -1,10 +1,4 @@
 var hacktobermap = [
-    {
-        name: "Aakash Patel",
-        location: "Ahmedabad",
-        latitude: 23.014509,
-        longitude: 72.591759
-    },
   {
     name: "Abhijit Parida",
     location: "Bhubaneswar",
@@ -838,5 +832,11 @@ var hacktobermap = [
     location: "Docklands, Australia",
     latitude:-37.815868,
     longitude: 144.945175
+  },
+  {
+    name: "Aakash Patel",
+    location: "Ahmedabad",
+    latitude: 23.014509,
+    longitude: 72.591759
   },
 ];
