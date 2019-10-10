@@ -768,6 +768,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Vanessa",
+    location: "Singapore",
+    latitude: 1.352083,
+    longitude: 103.819839
+  },
+  {
     name: "Siva Sankar",
     location: "Chennai, India",
     latitude: 13.082680,
