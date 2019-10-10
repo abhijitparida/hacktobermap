@@ -762,6 +762,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Siva Sankar",
+    location: "Chennai, India",
+    latitude: 13.082680,
+    longitude: 80.270721
+  },
+  {
     name: "Duncan",
     location: "Utrecht, The Netherlands",
     latitude: 52.092876,
