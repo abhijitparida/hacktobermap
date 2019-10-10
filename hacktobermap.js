@@ -695,4 +695,10 @@ var hacktobermap = [
     latitude: 35.443707,
     longitude: 139.638031
   },
+  {
+    name: "Borgera",
+    location: "Santo André, Brasil",
+    latitude: -23.6666,
+    longitude: -46.5322
+  },
 ];
