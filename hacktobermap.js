@@ -774,6 +774,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Smalloow",
+    location: "Belfast, Northern Ireland",
+    latitude: 54.597286,
+    longitude: -5.930120 
+  },
+  {
     name: "Quint Daenen",
     location: "Leuven, Belgium",
     latitude: 50.879845,
