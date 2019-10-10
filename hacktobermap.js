@@ -672,10 +672,10 @@ var hacktobermap = [
     longitude: 5.600647
   },
   {
-    name : "Angel",
-    location : "Medellin, Colombia",
-    latitude : 6.251900,
-    longitude : -75.622090
+    name: "Angel",
+    location: "Medellin, Colombia",
+    latitude: 6.251900,
+    longitude: -75.622090
   },
   {
     name: "Rafael De Luna",
@@ -816,7 +816,7 @@ var hacktobermap = [
     longitude: 20.457273
   },
   {
-    name:"Iyank Sullivan",
+    name: "Iyank Sullivan",
     location: "Bandung, Indonesia",
     latitude: -6.917464,
     longitude: 107.619125
@@ -1034,7 +1034,7 @@ var hacktobermap = [
   {
     name: "Nikhil kararkra",
     location: "Docklands, Australia",
-    latitude:-37.815868,
+    latitude: -37.815868,
     longitude: 144.945175
   },
   {
@@ -1102,5 +1102,11 @@ var hacktobermap = [
     location: "Puri,India",
     latitude: 19.800440,
     longitude: 85.826752
+  },
+  {
+    name: "HariHaran Subramanian",
+    location: "Coimbatore, Tamil nadu",
+    latitude: 11.0168,
+    longitude: 76.9558
   }
 ];
