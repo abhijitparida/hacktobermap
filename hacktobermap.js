@@ -942,6 +942,12 @@ var hacktobermap = [
     longitude: 72.591759
   },
   {
+    name: "Akbar Anung Yudha Saputra",
+    location: "Malang City, Indonesia",
+    latitude: -7.9786395,
+    longitude: 112.5617418
+  },
+  {
     name: "Jyoti Jayadeep",
     location: "Bhubaneswar",
     latitude: 20.296059,
