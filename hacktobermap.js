@@ -720,6 +720,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Pedro Queiroz",
+    location: "Recife, Brazil",
+    latitude: -8.052240,
+    longitude: -34.928612
+  },
+  {
     name: "Ivan Leon",
     location: "Mexicali, Mexico",
     latitude: 32.624538,
