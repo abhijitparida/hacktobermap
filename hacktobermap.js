@@ -930,8 +930,8 @@ var hacktobermap = [
     longitude: 33.059679
   },
   {
-    name: "Jayantilal Prajapat",
-    location: "Ahmedabad, India",
+    name: "Jayantilal Prajapat",
+    location: "Ahmedabad, India",
     latitude: 23.022505,
     longitude: 72.571365
   },
@@ -1085,10 +1085,16 @@ var hacktobermap = [
     latitude: 22.279800,
     longitude: 114.183937
   },
-   {
+  {
     name: "Susanka Majumder",
     location: "India",
     latitude: 16.366510,
     longitude: 78.430409
   },
+  {
+    name: "Muhammad Shaharyar",
+    location: "Karachi, Pakistan",
+    latitude: 24.8607,
+    longitude: 67.0011
+  }
 ];
