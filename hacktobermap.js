@@ -1073,4 +1073,10 @@ var hacktobermap = [
     latitude: 11.0168,
     longitude: 76.9558
   },
+  {
+    name: "Amy Rogers",
+    location: "New Zealand",
+    latitude: -38.793911,
+    longitude: 175.916917
+  },
 ];
