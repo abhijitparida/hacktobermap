@@ -762,6 +762,12 @@ var hacktobermap = [
     longitude: 139.638031
   },
   {
+    name: "Sophie",
+    location: "Canberra, Australia",
+    latitude: -35.269790,
+    longitude: 149.158680
+  },
+  {
     name: "Andrew",
     location: "Johannesburg, South Africa",
     latitude: -26.201450,
